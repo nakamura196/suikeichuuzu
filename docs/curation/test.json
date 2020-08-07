@@ -1,0 +1,81 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/suikeichuuzu/curation/test.json",
+    "@type": "cr:Curation",
+    "label": "Marker List",
+    "related": {
+        "@id": "https://nakamura196.github.io/suikeichuuzu/etc/legend.pdf",
+        "@type": "cr:MarkerLegend"
+    },
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/suikeichuuzu/curation/test.json/range1",
+            "@type": "sc:Range",
+            "label": "Markers",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=1934,6400,48,135",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 1",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=1934,6400,48,135_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=1934,6400,48,135",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<p>中 西12,1,z,1,氐置水</p>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23009CE0&text=1&color=%23FFFFFF&voffset=2&hoffset=1#xy=15,15",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=1986,6398,43,136",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 2",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=1986,6398,43,136_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=1986,6398,43,136",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<p>中 西12,1,m,1,<span style=\"background-color: #eeeeee; color: rgba(0, 0, 0, 0.87); font-family: Roboto, sans-serif;\">籍端水</span></p>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23009CE0&text=1&color=%23FFFFFF&voffset=2&hoffset=1#xy=15,15",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "viewingHint": "annotation"
+}
