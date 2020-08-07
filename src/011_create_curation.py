@@ -10,7 +10,8 @@ import os
 from bs4 import BeautifulSoup
 
 iconMap = {
-    "1" : "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23009CE0&text=1&color=%23FFFFFF&voffset=2&hoffset=1"
+    "1" : "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23009CE0&text=1&color=%23FFFFFF&voffset=2&hoffset=1",
+    "5": "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%2373D8FF&text=5&color=%23FFFFFF&voffset=2&hoffset=1"
 }
 
 manifest = "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json"
