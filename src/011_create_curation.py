@@ -42,33 +42,77 @@ for i in range(len(resources)):
 
     splitTmp = cleantext.split(",")
 
+    冊 = "2"
+    図 = splitTmp[0]
+    表a裏b = "a"
+    図中区画 = splitTmp[1]
+    朱z墨m = splitTmp[2]
+    図記号 = splitTmp[3]
+    地名 = splitTmp[4]
+    備考 = ""
+
+
     icon = iconMap[splitTmp[3]]+"#xy=15,15"
+
+    metadata = [
+        {
+            "value": [
+            {
+                "motivation": "sc:painting",
+                "resource": {
+                "chars": text,
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "marker": {
+                    "@id": icon,
+                    "@type": "dctypes:Image"
+                }
+                },
+                "@id": memberId+"_",
+                "on": memberId,
+                "@type": "oa:Annotation"
+            }
+            ],
+            "label": "Annotation"
+        },
+        {
+            "value": 冊,
+            "label": "冊"
+        },
+        {
+            "value": 図,
+            "label": "図"
+        },
+        {
+            "value": 表a裏b,
+            "label": "表a裏b"
+        },
+        {
+            "value": 図中区画,
+            "label": "図中区画"
+        },
+        {
+            "value": 朱z墨m,
+            "label": "朱z墨m"
+        },
+        {
+            "value": 図記号,
+            "label": "図記号"
+        },
+        {
+            "value": 地名,
+            "label": "地名/記述"
+        },
+        {
+            "value": 備考,
+            "label": "備考"
+        },
+    ]
 
     member = {
           "label": "Marker "+index,
           "@type": "sc:Canvas",
-          "metadata": [
-            {
-              "value": [
-                {
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "chars": text,
-                    "@type": "cnt:ContentAsText",
-                    "format": "text/html",
-                    "marker": {
-                      "@id": icon,
-                      "@type": "dctypes:Image"
-                    }
-                  },
-                  "@id": memberId+"_",
-                  "on": memberId,
-                  "@type": "oa:Annotation"
-                }
-              ],
-              "label": "Annotation"
-            }
-          ],
+          "metadata": metadata,
           "@id": memberId
         }
 
