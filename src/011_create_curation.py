@@ -9,6 +9,10 @@ import requests
 import os
 from bs4 import BeautifulSoup
 
+title = "水経注図"
+legend = "https://nakamura196.github.io/suikeichuuzu/etc/legend.pdf"
+curation_id = "https://nakamura196.github.io/suikeichuuzu/curation/test.json"
+
 iconMap = {
     "1" : "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23009CE0&text=1&color=%23FFFFFF&voffset=2&hoffset=1",
     "5": "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%2373D8FF&text=5&color=%23FFFFFF&voffset=2&hoffset=1"
@@ -103,11 +107,15 @@ for i in range(len(resources)):
             "value": 地名,
             "label": "地名/記述"
         },
-        {
+        
+    ]
+
+    '''
+    {
             "value": 備考,
             "label": "備考"
         },
-    ]
+    '''
 
     member = {
           "label": "Marker "+index,
@@ -133,16 +141,16 @@ curation = {
         "@id": manifest,
         "@type": "sc:Manifest"
       },
-      "@id": "https://nakamura196.github.io/suikeichuuzu/curation/test.json/range1",
+      "@id": curation_id + "/range1",
       "label": "Markers",
       "members": members,
       "@type": "sc:Range"
     }
   ],
-  "@id": "https://nakamura196.github.io/suikeichuuzu/curation/test.json",
+  "@id": curation_id,
   "related": {
     "@type": "cr:MarkerLegend",
-    "@id": "https://nakamura196.github.io/suikeichuuzu/etc/legend.pdf"
+    "@id": legend
   }
 }
 
