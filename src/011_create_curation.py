@@ -134,7 +134,7 @@ curation = {
     "http://iiif.io/api/presentation/2/context.json",
     "http://codh.rois.ac.jp/iiif/curation/1/context.json"
   ],
-  "label": "Marker List",
+  "label": title,
   "selections": [
     {
       "within": {
