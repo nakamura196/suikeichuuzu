@@ -1,0 +1,105 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "水経注図",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Etsunan"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "jouzu01_rekijou"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "jouzu02_gyoujou"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "jouzu03_rakuyou"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "jouzu04_chouan"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "jouzu05_suiyou"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "jouzu06_heijou"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "jouzu07_keijou"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "jouzu08_rojou"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "jouzu09_rinshi"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "jouzu10_jouyou"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "jouzu11_jushun"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "jouzu12_seito"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "jouzu13_sanin"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Saiiki"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Ukou"
+        }
+    ],
+    "vhint": "use-thumb"
+}

@@ -15,7 +15,8 @@ curation_id = "https://nakamura196.github.io/suikeichuuzu/curation/test.json"
 
 iconMap = {
     "1" : "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23009CE0&text=1&color=%23FFFFFF&voffset=2&hoffset=1",
-    "5": "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%2373D8FF&text=5&color=%23FFFFFF&voffset=2&hoffset=1"
+    "5": "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%2373D8FF&text=5&color=%23FFFFFF&voffset=2&hoffset=1",
+    "n": "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23FF7373&text=n&color=%23FFFFFF&voffset=2&hoffset=1"
 }
 
 manifest = "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json"
@@ -44,81 +45,109 @@ for i in range(len(resources)):
     
     cleantext = BeautifulSoup(text, "lxml").text
 
+    print(cleantext)
+
     splitTmp = cleantext.split(",")
 
-    冊 = "2"
-    図 = splitTmp[0]
-    表a裏b = "a"
-    図中区画 = splitTmp[1]
-    朱z墨m = splitTmp[2]
-    図記号 = splitTmp[3]
-    地名 = splitTmp[4]
-    備考 = ""
+    if len(splitTmp) > 1:
+
+        冊 = "2"
+        図 = splitTmp[0]
+        表a裏b = "a"
+        図中区画 = splitTmp[1]
+        朱z墨m = splitTmp[2]
+        図記号 = splitTmp[3]
+        地名 = splitTmp[4]
+        備考 = ""
 
 
-    icon = iconMap[splitTmp[3]]+"#xy=15,15"
+        icon = iconMap[splitTmp[3]]+"#xy=15,15"
 
-    metadata = [
-        {
-            "value": [
+        metadata = [
             {
-                "motivation": "sc:painting",
-                "resource": {
-                "chars": text,
-                "@type": "cnt:ContentAsText",
-                "format": "text/html",
-                "marker": {
-                    "@id": icon,
-                    "@type": "dctypes:Image"
+                "value": [
+                {
+                    "motivation": "sc:painting",
+                    "resource": {
+                    "chars": text,
+                    "@type": "cnt:ContentAsText",
+                    "format": "text/html",
+                    "marker": {
+                        "@id": icon,
+                        "@type": "dctypes:Image"
+                    }
+                    },
+                    "@id": memberId+"_",
+                    "on": memberId,
+                    "@type": "oa:Annotation"
                 }
-                },
-                "@id": memberId+"_",
-                "on": memberId,
-                "@type": "oa:Annotation"
-            }
-            ],
-            "label": "Annotation"
-        },
-        {
-            "value": 冊,
-            "label": "冊"
-        },
-        {
-            "value": 図,
-            "label": "図"
-        },
-        {
-            "value": 表a裏b,
-            "label": "表a裏b"
-        },
-        {
-            "value": 図中区画,
-            "label": "図中区画"
-        },
-        {
-            "value": 朱z墨m,
-            "label": "朱z墨m"
-        },
-        {
-            "value": 図記号,
-            "label": "図記号"
-        },
-        {
-            "value": 地名,
-            "label": "地名/記述"
-        },
-        
-    ]
+                ],
+                "label": "Annotation"
+            },
+            {
+                "value": 冊,
+                "label": "冊"
+            },
+            {
+                "value": 図,
+                "label": "図"
+            },
+            {
+                "value": 表a裏b,
+                "label": "表a裏b"
+            },
+            {
+                "value": 図中区画,
+                "label": "図中区画"
+            },
+            {
+                "value": 朱z墨m,
+                "label": "朱z墨m"
+            },
+            {
+                "value": 図記号,
+                "label": "図記号"
+            },
+            {
+                "value": 地名,
+                "label": "地名/記述"
+            },
+            
+        ]
 
-    '''
-    {
-            "value": 備考,
-            "label": "備考"
-        },
-    '''
+        label = "Marker "+index
+
+    else:
+        label = "Marker "+index
+
+        icon = iconMap["n"]+"#xy=15,15"
+
+        metadata = [
+            {
+                "value": [
+                {
+                    "motivation": "sc:painting",
+                    "resource": {
+                    "chars": text,
+                    "@type": "cnt:ContentAsText",
+                    "format": "text/html",
+                    "marker": {
+                        "@id": icon,
+                        "@type": "dctypes:Image"
+                    }
+                    },
+                    "@id": memberId+"_",
+                    "on": memberId,
+                    "@type": "oa:Annotation"
+                }
+                ],
+                "label": "Annotation"
+            }
+            
+        ]
 
     member = {
-          "label": "Marker "+index,
+          "label": label,
           "@type": "sc:Canvas",
           "metadata": metadata,
           "@id": memberId

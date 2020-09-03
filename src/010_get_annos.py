@@ -26,10 +26,6 @@ def saveFile(id):
 
     return data
 
-iconMap = {
-    "1" : "https://cdn.mapmarker.io/api/v1/pin?size=120&background=%23009CE0&text=1&color=%23FFFFFF&voffset=2&hoffset=1"
-}
-
 manifest = "https://diyhistory.org/public/omekac/oa/collections/236/manifest.json"
 
 m_data = saveFile(manifest)
