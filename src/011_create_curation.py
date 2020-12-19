@@ -9,6 +9,7 @@ import requests
 import os
 from bs4 import BeautifulSoup
 import glob
+import pandas as pd
 
 title = "水経注図"
 legend = "https://nakamura196.github.io/suikeichuuzu/etc/legend.pdf"
@@ -21,6 +22,34 @@ iconMap = {
 }
 
 manifest = "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json"
+
+
+excel_path = "../data_20201220/水経注図地名アノテーション01-04-matome20201217.xlsx"
+
+df = pd.read_excel(excel_path, sheet_name=0, header=None, index_col=None, engine='openpyxl')
+
+# 
+
+r_count = len(df.index)
+c_count = len(df.columns)
+
+excel_data = {}
+
+for j in range(1, r_count):
+    id = df.iloc[j, 0]
+    print(id)
+    excel_data[id] = {
+        "冊" : df.iloc[j, 1],
+        "図" : df.iloc[j, 2],
+        "区画南北" : df.iloc[j, 3],
+        "区画東西" : df.iloc[j, 4],
+        "表裏" : df.iloc[j, 5],
+        "詳細区画" : df.iloc[j, 6],
+        "墨朱" : df.iloc[j, 7],
+        "記号" : df.iloc[j, 8],
+        "地名/記述" : df.iloc[j, 9],
+        "備考" : df.iloc[j, 10],
+    }
 
 files = glob.glob("data/oa/items/*/annolist.json")
 
@@ -60,7 +89,7 @@ for i in range(len(resources)):
     memberId = canvas + "#" + xywh
     text = resource["resource"][0]["chars"]
     
-    cleantext = BeautifulSoup(text, "lxml").text
+    cleantext = BeautifulSoup(text, "lxml").text.strip()
 
     # print(cleantext)
 
@@ -139,6 +168,12 @@ for i in range(len(resources)):
 
         icon = iconMap["n"]+"#xy=15,15"
 
+        if cleantext not in excel_data:
+            print("err", cleantext)
+            continue
+
+        m_data = excel_data[cleantext]
+
         metadata = [
             {
                 "value": [
@@ -159,9 +194,52 @@ for i in range(len(resources)):
                 }
                 ],
                 "label": "Annotation"
+            },
+            {
+                "value": m_data["冊"],
+                "label": "冊"
+            },
+            {
+                "value": m_data["図"],
+                "label": "図"
+            },
+            {
+                "value": m_data["区画南北"],
+                "label": "区画南北"
+            },
+            {
+                "value": m_data["区画東西"],
+                "label": "区画東西"
+            },
+            {
+                "value": m_data["表裏"],
+                "label": "表a裏b"
+            },
+            {
+                "value": m_data["詳細区画"],
+                "label": "詳細区画"
+            },
+            {
+                "value": m_data["墨朱"],
+                "label": "朱z墨m"
+            },
+            {
+                "value": m_data["記号"],
+                "label": "図記号"
+            },
+            {
+                "value": m_data["地名/記述"],
+                "label": "地名/記述"
             }
             
         ]
+
+        if not pd.isnull(m_data["備考"]):
+            metadata.append({
+                "value":  m_data["備考"],
+                "label": "備考"
+            })
+        
 
     member = {
           "label": label,
