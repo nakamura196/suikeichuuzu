@@ -8,6 +8,7 @@ import html
 import requests
 import os
 from bs4 import BeautifulSoup
+import glob
 
 title = "水経注図"
 legend = "https://nakamura196.github.io/suikeichuuzu/etc/legend.pdf"
@@ -21,15 +22,31 @@ iconMap = {
 
 manifest = "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json"
 
-with open('data/oa/items/32605/annolist.json') as f:
-    df = json.load(f)
+files = glob.glob("data/oa/items/*/annolist.json")
 
-resources = df["resources"]
+resources = []
+
+for file in files:
+
+    with open(file) as f:
+        df = json.load(f)
+
+    _resources = df["resources"]
+    print(file, len(_resources))
+
+    for res in _resources:
+        resources.append(res)
+        
+
+# resources = df["resources"]
 
 members = []
 
 for i in range(len(resources)):
     index = str(i + 1)
+
+    if i % 1000 == 0:
+        print(index, len(resources))
 
     resource = resources[i]
 
@@ -45,7 +62,7 @@ for i in range(len(resources)):
     
     cleantext = BeautifulSoup(text, "lxml").text
 
-    print(cleantext)
+    # print(cleantext)
 
     splitTmp = cleantext.split(",")
 

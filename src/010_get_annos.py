@@ -26,13 +26,19 @@ def saveFile(id):
 
     return data
 
-manifest = "https://diyhistory.org/public/omekac/oa/collections/236/manifest.json"
+ids = [236, 238, 256, 257, 258, 260, 261, 262, 263, 264, 265]
 
-m_data = saveFile(manifest)
+for id in ids:
 
-canvases = m_data["sequences"][0]["canvases"]
+    print(id)
 
-for canvas in canvases:
-    annoList = canvas["otherContent"][0]["@id"]
+    manifest = "https://diyhistory.org/public/omekac/oa/collections/{}/manifest.json".format(id)
 
-    saveFile(annoList)
+    m_data = saveFile(manifest)
+
+    canvases = m_data["sequences"][0]["canvases"]
+
+    for canvas in canvases:
+        annoList = canvas["otherContent"][0]["@id"]
+
+        saveFile(annoList)
