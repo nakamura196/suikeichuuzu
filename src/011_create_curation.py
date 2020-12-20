@@ -15,14 +15,12 @@ title = "水経注図"
 legend = "https://nakamura196.github.io/suikeichuuzu/etc/legend.pdf"
 curation_id = "https://nakamura196.github.io/suikeichuuzu/curation/test.json"
 
-iconMap = {
-    "1" : "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23009CE0&text=1&color=%23FFFFFF&voffset=2&hoffset=1",
-    "5": "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%2373D8FF&text=5&color=%23FFFFFF&voffset=2&hoffset=1",
-    "n": "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23FF7373&text=n&color=%23FFFFFF&voffset=2&hoffset=1"
-}
+iconMap = {}
+
+for i in range(0, 33):
+    iconMap[str(i)] = "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23{}&text={}&color=%23FFFFFF&voffset=2&hoffset=1".format("009CE0", i)
 
 manifest = "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json"
-
 
 excel_path = "../data_20201220/水経注図地名アノテーション01-04-matome20201217.xlsx"
 
@@ -95,150 +93,88 @@ for i in range(len(resources)):
 
     splitTmp = cleantext.split(",")
 
-    if len(splitTmp) > 1:
+    # -----------
 
-        冊 = "2"
-        図 = splitTmp[0]
-        表a裏b = "a"
-        図中区画 = splitTmp[1]
-        朱z墨m = splitTmp[2]
-        図記号 = splitTmp[3]
-        地名 = splitTmp[4]
-        備考 = ""
+    if cleantext not in excel_data:
+        print("err", cleantext)
+        continue
 
+    m_data = excel_data[cleantext]
 
-        icon = iconMap[splitTmp[3]]+"#xy=15,15"
+    
+    label = "Marker "+index
 
-        metadata = [
+    no = m_data["記号"]
+
+    icon = iconMap[str(no)]+"#xy=15,15"
+
+    # -------
+
+    metadata = [
+        {
+            "value": [
             {
-                "value": [
-                {
-                    "motivation": "sc:painting",
-                    "resource": {
-                    "chars": text,
-                    "@type": "cnt:ContentAsText",
-                    "format": "text/html",
-                    "marker": {
-                        "@id": icon,
-                        "@type": "dctypes:Image"
-                    }
-                    },
-                    "@id": memberId+"_",
-                    "on": memberId,
-                    "@type": "oa:Annotation"
+                "motivation": "sc:painting",
+                "resource": {
+                "chars": text,
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "marker": {
+                    "@id": icon,
+                    "@type": "dctypes:Image"
                 }
-                ],
-                "label": "Annotation"
-            },
-            {
-                "value": 冊,
-                "label": "冊"
-            },
-            {
-                "value": 図,
-                "label": "図"
-            },
-            {
-                "value": 表a裏b,
-                "label": "表a裏b"
-            },
-            {
-                "value": 図中区画,
-                "label": "図中区画"
-            },
-            {
-                "value": 朱z墨m,
-                "label": "朱z墨m"
-            },
-            {
-                "value": 図記号,
-                "label": "図記号"
-            },
-            {
-                "value": 地名,
-                "label": "地名/記述"
-            },
-            
-        ]
-
-        label = "Marker "+index
-
-    else:
-        label = "Marker "+index
-
-        icon = iconMap["n"]+"#xy=15,15"
-
-        if cleantext not in excel_data:
-            print("err", cleantext)
-            continue
-
-        m_data = excel_data[cleantext]
-
-        metadata = [
-            {
-                "value": [
-                {
-                    "motivation": "sc:painting",
-                    "resource": {
-                    "chars": text,
-                    "@type": "cnt:ContentAsText",
-                    "format": "text/html",
-                    "marker": {
-                        "@id": icon,
-                        "@type": "dctypes:Image"
-                    }
-                    },
-                    "@id": memberId+"_",
-                    "on": memberId,
-                    "@type": "oa:Annotation"
-                }
-                ],
-                "label": "Annotation"
-            },
-            {
-                "value": m_data["冊"],
-                "label": "冊"
-            },
-            {
-                "value": m_data["図"],
-                "label": "図"
-            },
-            {
-                "value": m_data["区画南北"],
-                "label": "区画南北"
-            },
-            {
-                "value": m_data["区画東西"],
-                "label": "区画東西"
-            },
-            {
-                "value": m_data["表裏"],
-                "label": "表a裏b"
-            },
-            {
-                "value": m_data["詳細区画"],
-                "label": "詳細区画"
-            },
-            {
-                "value": m_data["墨朱"],
-                "label": "朱z墨m"
-            },
-            {
-                "value": m_data["記号"],
-                "label": "図記号"
-            },
-            {
-                "value": m_data["地名/記述"],
-                "label": "地名/記述"
+                },
+                "@id": memberId+"_",
+                "on": memberId,
+                "@type": "oa:Annotation"
             }
-            
-        ]
+            ],
+            "label": "Annotation"
+        },
+        {
+            "value": m_data["冊"],
+            "label": "冊"
+        },
+        {
+            "value": m_data["図"],
+            "label": "図"
+        },
+        {
+            "value": m_data["区画南北"],
+            "label": "区画南北"
+        },
+        {
+            "value": m_data["区画東西"],
+            "label": "区画東西"
+        },
+        {
+            "value": m_data["表裏"],
+            "label": "表a裏b"
+        },
+        {
+            "value": m_data["詳細区画"],
+            "label": "詳細区画"
+        },
+        {
+            "value": m_data["墨朱"],
+            "label": "朱z墨m"
+        },
+        {
+            "value": m_data["記号"],
+            "label": "図記号"
+        },
+        {
+            "value": m_data["地名/記述"],
+            "label": "地名/記述"
+        }
+        
+    ]
 
-        if not pd.isnull(m_data["備考"]):
-            metadata.append({
-                "value":  m_data["備考"],
-                "label": "備考"
-            })
+    if not pd.isnull(m_data["備考"]):
+        metadata.append({
+            "value":  m_data["備考"],
+            "label": "備考"
+        })
         
 
     member = {
