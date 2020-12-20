@@ -439,7 +439,7 @@ for i in range(len(resources)):
         })
 
         metadata.append({
-            "label":  "巻",
+            "label":  "水経注：巻",
             "value": vols
         })
 

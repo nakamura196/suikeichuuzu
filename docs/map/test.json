@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大同市",
+        "id": "1-001",
+        "type": "施設",
+        "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%90%8C%E5%B8%82",
+        "icon": "icon-1.png"
+      },
+      "geometry": {
+        "coordinates": [113.32003793681014, 40.11555251937096],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "name": "北京市",
+        "id": "1-002",
+        "type": "施設",
+        "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E5%B8%82",
+        "icon": "icon-1.png"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [116.40387138931334, 39.92605622380707],
+        "type": "Point"
+      }
+    }
+  ]
+}
