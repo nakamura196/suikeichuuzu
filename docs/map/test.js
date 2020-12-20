@@ -30,7 +30,7 @@ function onEachFeature(feature, layer) {
 function pointToLayer(feature, latlng) {
   let p = feature.properties;
   let icon = new L.Icon({
-    iconUrl: "http://codh.rois.ac.jp/edo-maps/icons/" + p.icon,
+    iconUrl: "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23ff7fbf&text=1&color=%23FFFFFF&voffset=2&hoffset=1#" + p.icon,
     iconSize: [22, 33],
     iconAnchor: [11, 33],
     popupAnchor: [0, -25],
