@@ -10,6 +10,7 @@ import os
 from bs4 import BeautifulSoup
 import glob
 import pandas as pd
+import urllib.parse
 
 title = "水経注図"
 legend = "https://nakamura196.github.io/suikeichuuzu/etc/legend.pdf"
@@ -17,16 +18,211 @@ curation_id = "https://nakamura196.github.io/suikeichuuzu/curation/test.json"
 
 iconMap = {}
 
+iconMap = {
+    "0" : {
+        "color" : "ff7f7f",
+        "exp1" : "[なし]",
+    },
+    "1" : {
+        "color" : "ff7fbf",
+        "exp1" : "水",
+    },
+    "2" : {
+        "color" : "ff7fff",
+        "exp1" : "故瀆",
+    },
+    "3" : {
+        "color" : "bf7fff",
+        "exp1" : "注所敘有誤者",
+    },
+    "4" : {
+        "color" : "7f7fff",
+        "exp1" : "山谷",
+    },
+
+    "5" : {
+        "color" : "7fbfff",
+        "exp1" : "陂澤",
+    },
+    "6" : {
+        "color" : "7fffff",
+        "exp1" : "北魏",
+        "exp2" : "州",
+    },
+    "7" : {
+        "color" : "7fffbf",
+        "exp1" : "北魏",
+        "exp2" : "郡",
+    },
+    "8" : {
+        "color" : "7fff7f",
+        "exp1" : "北魏",
+        "exp2" : "縣",
+    },
+    "9" : {
+        "color" : "bfff7f",
+        "exp1" : "故城",
+        "exp2" : "州郡",
+    },
+    "10" : {
+        "color" : "ffff7f",
+        "exp1" : "故城",
+        "exp2" : "縣",
+    },
+    "11" : {
+        "color" : "ffbf7f",
+        "exp1" : "故城",
+        "exp2" : "州廢而郡縣存者",
+    },
+    "12" : {
+        "color" : "ffa3a3",
+        "exp1" : "故城",
+        "exp2" : "州存而郡縣廢者",
+    },
+    "13" : {
+        "color" : "ffa3d1",
+        "exp1" : "故城",
+        "exp2" : "州郡存而縣廢者",
+    },
+    "14" : {
+        "color" : "ffa3ff",
+        "exp1" : "故城",
+        "exp2" : "郡存而縣廢者",
+    },
+    "15" : {
+        "color" : "d1a3ff",
+        "exp1" : "故城",
+        "exp2" : "郡廢而縣存者",
+    },
+    "16" : {
+        "color" : "a3a3ff",
+        "exp1" : "故城",
+        "exp2" : "其他地名及亭臺等",
+    },
+    "17" : {
+        "color" : "a3d1ff",
+
+        "exp1" : "[なし]",
+        "exp3" : "菱形",
+    },
+    "18" : {
+        "color" : "a3ffff",
+
+        "exp1" : "[なし]",
+        "exp3" : "二重菱形",
+    },
+    "19" : {
+        "color" : "a3ffd1",
+        "exp1" : "[なし]",
+        "exp3" : "縦長四角",
+    },
+    "20" : {
+        "color" : "a3ffa3",
+        "exp1" : "[なし]",
+        "exp2" : "橋・津・梁・桁",
+    },
+
+    "21" : {
+        "color" : "d1ffa3",
+        "exp1" : "[なし]",
+        "exp2" : "井",
+    },
+    "22" : {
+        "color" : "ffffa3",
+        "exp1" : "[なし]",
+        "exp2" : "長城",
+    },
+    "23" : {
+        "color" : "ffd1a3",
+        "exp1" : "[なし]",
+        "exp2" : "土州",
+    },
+    "24" : {
+        "color" : "ff7fbf",
+        "exp1" : "[なし]",
+        "exp2" : "陵",
+    },
+    "25" : {
+        "color" : "ff7fbf",
+        "exp1" : "[なし]",
+        "exp2" : "門",
+    },
+    "26" : {
+        "color" : "ff7fbf",
+        "exp1" : "[なし]",
+    },
+    "27" : {
+        "color" : "ff7fbf",
+        "exp1" : "[なし]",
+    },
+    "28" : {
+        "color" : "ff7fbf",
+        "exp1" : "[なし]",
+    },
+    "29" : {
+        "color" : "ff7fbf",
+        "exp1" : "[なし]",
+    },
+    "30" : {
+        "color" : "ff7fbf",
+        "exp1" : "[なし]",
+    },
+    "31" : {
+        "color" : "ff7fbf",
+        "exp1" : "[なし]",
+    },
+    "32" : {
+        "color" : "ff7fbf",
+        "exp1" : "[なし]",
+    },
+}
+
 for i in range(0, 33):
-    iconMap[str(i)] = "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23{}&text={}&color=%23FFFFFF&voffset=2&hoffset=1".format("009CE0", i)
+    if str(i) not in iconMap:
+        iconMap[str(i)] = {
+            "color" : "ff7f7f",
+            "exp1" : "[なし]"
+        }# https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23{}&text={}&color=%23FFFFFF&voffset=2&hoffset=1".format("", i)
 
 manifest = "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json"
+
+# ----------
+
+# メタデータ
 
 excel_path = "../data_20201220/水経注図地名アノテーション01-04-matome20201217.xlsx"
 
 df = pd.read_excel(excel_path, sheet_name=0, header=None, index_col=None, engine='openpyxl')
 
-# 
+r_count = len(df.index)
+c_count = len(df.columns)
+
+excel_data = {}
+
+for j in range(1, r_count):
+    id = df.iloc[j, 0]
+    # print(id)
+    excel_data[id] = {
+        "冊" : df.iloc[j, 1],
+        "図" : df.iloc[j, 2],
+        "区画南北" : df.iloc[j, 3],
+        "区画東西" : df.iloc[j, 4],
+        "表裏" : df.iloc[j, 5],
+        "詳細区画" : df.iloc[j, 6],
+        "墨朱" : df.iloc[j, 7],
+        "記号" : df.iloc[j, 8],
+        "地名/記述" : df.iloc[j, 9],
+        "備考" : df.iloc[j, 10],
+    }
+
+# ----------
+
+# 水名
+
+'''
+excel_path = "../data_20201220/水経注図巻・水名-冊・図名対応20201208.xlsx"
+
+df = pd.read_excel(excel_path, sheet_name=0, header=None, index_col=None, engine='openpyxl')
 
 r_count = len(df.index)
 c_count = len(df.columns)
@@ -48,6 +244,11 @@ for j in range(1, r_count):
         "地名/記述" : df.iloc[j, 9],
         "備考" : df.iloc[j, 10],
     }
+'''
+
+# ----------
+
+# アノテーション
 
 files = glob.glob("data/oa/items/*/annolist.json")
 
@@ -63,11 +264,14 @@ for file in files:
 
     for res in _resources:
         resources.append(res)
-        
 
-# resources = df["resources"]
+# ----------
+
+# ----------
 
 members = []
+
+errs = []
 
 for i in range(len(resources)):
     index = str(i + 1)
@@ -97,18 +301,38 @@ for i in range(len(resources)):
 
     if cleantext not in excel_data:
         print("err", cleantext)
+        errs.append(cleantext)
         continue
 
     m_data = excel_data[cleantext]
 
+    # -------
+
+    # マーカー
     
     label = "Marker "+index
 
-    no = m_data["記号"]
+    no = str(m_data["記号"])
 
-    icon = iconMap[str(no)]+"#xy=15,15"
+    iconInfo = iconMap[no]
+
+    # icon = iconMap[str(no)]+"#xy=15,15"
+
+    icon = "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23{}&text={}&color=%23FFFFFF&voffset=2&hoffset=1#xy=15,15".format(iconInfo["color"], no)
 
     # -------
+
+    # 水名
+
+
+
+    # -------
+
+    icc2 = "https://nakamura196.github.io/icc2/item?id=" + urllib.parse.quote(memberId) + "&u=" + curation_id 
+
+    iconExp = iconInfo["exp1"] + (" - {}".format(iconInfo["exp2"]) if "exp2" in iconInfo else "") + ("（{}）".format(iconInfo["exp2"]) if "exp2" in iconInfo else "")
+
+    html = "[ <a href=\"{}\">{}</a> ]<br/>地名/記述：{}<br/>図記号：{}".format(icc2, cleantext, m_data["地名/記述"], iconExp)
 
     metadata = [
         {
@@ -116,7 +340,7 @@ for i in range(len(resources)):
             {
                 "motivation": "sc:painting",
                 "resource": {
-                "chars": text,
+                "chars": html,
                 "@type": "cnt:ContentAsText",
                 "format": "text/html",
                 "marker": {
@@ -162,6 +386,10 @@ for i in range(len(resources)):
         {
             "value": m_data["記号"],
             "label": "図記号"
+        },
+        {
+            "value": iconExp,
+            "label": "図説明"
         },
         {
             "value": m_data["地名/記述"],
@@ -217,3 +445,5 @@ curation = {
 with open("../docs/curation/test.json", 'w') as f:
     json.dump(curation, f, ensure_ascii=False, indent=4,
     sort_keys=True, separators=(',', ': '))
+
+# print("errs", errs)
