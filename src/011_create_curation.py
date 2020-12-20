@@ -332,7 +332,7 @@ for i in range(len(resources)):
 
     iconExp = iconInfo["exp1"] + (" - {}".format(iconInfo["exp2"]) if "exp2" in iconInfo else "") + ("（{}）".format(iconInfo["exp2"]) if "exp2" in iconInfo else "")
 
-    html = "[ <a href=\"{}\">{}</a> ]<br/>地名/記述：{}<br/>図記号：{}".format(icc2, cleantext, m_data["地名/記述"], iconExp)
+    html = "[ <a target=\"_blank\" href=\"{}\">{}</a> ]<br/>地名/記述：{}<br/>図記号：{}".format(icc2, cleantext, m_data["地名/記述"], iconExp)
 
     metadata = [
         {
