@@ -219,7 +219,7 @@ for j in range(1, r_count):
 
 # 水名
 
-'''
+
 excel_path = "../data_20201220/水経注図巻・水名-冊・図名対応20201208.xlsx"
 
 df = pd.read_excel(excel_path, sheet_name=0, header=None, index_col=None, engine='openpyxl')
@@ -227,24 +227,28 @@ df = pd.read_excel(excel_path, sheet_name=0, header=None, index_col=None, engine
 r_count = len(df.index)
 c_count = len(df.columns)
 
-excel_data = {}
+fields = {}
 
-for j in range(1, r_count):
-    id = df.iloc[j, 0]
-    print(id)
-    excel_data[id] = {
-        "冊" : df.iloc[j, 1],
-        "図" : df.iloc[j, 2],
-        "区画南北" : df.iloc[j, 3],
-        "区画東西" : df.iloc[j, 4],
-        "表裏" : df.iloc[j, 5],
-        "詳細区画" : df.iloc[j, 6],
-        "墨朱" : df.iloc[j, 7],
-        "記号" : df.iloc[j, 8],
-        "地名/記述" : df.iloc[j, 9],
-        "備考" : df.iloc[j, 10],
+for i in range(3, c_count):
+    fields[i] = {
+        "巻" : df.iloc[2, i],
+        "水名" : df.iloc[3, i]
     }
-'''
+
+excel_data2 = {}
+
+for j in range(4, r_count):
+    key = df.iloc[j, 2]
+
+    excel_data2[key] = {}
+    
+    for i in fields:
+        if not pd.isnull(df.iloc[j, i]):
+            excel_data2[key][i] = {
+                "order" : df.iloc[j, i],
+                "value" : fields[i]["水名"],
+                "vol" : fields[i]["巻"]
+            }
 
 # ----------
 
@@ -320,11 +324,7 @@ for i in range(len(resources)):
 
     icon = "https://cdn.mapmarker.io/api/v1/pin?size=30&background=%23{}&text={}&color=%23FFFFFF&voffset=2&hoffset=1#xy=15,15".format(iconInfo["color"], no)
 
-    # -------
-
-    # 水名
-
-
+    
 
     # -------
 
@@ -403,7 +403,47 @@ for i in range(len(resources)):
             "value":  m_data["備考"],
             "label": "備考"
         })
-        
+
+    # -------
+
+    # 水名
+
+    loc = m_data["区画南北"] + m_data["区画東西"]
+
+    etc = excel_data2[loc]
+
+    vols = []
+    names = []
+
+    for etc_index in etc:
+
+        vols.append(etc[etc_index]["vol"])
+        names.append(etc[etc_index]["value"])
+
+        '''
+        metadata.append({
+            "label":  "巻",
+            "value": etc[etc_index]["vol"]
+        })
+
+        metadata.append({
+            "label":  "水名",
+            "value": etc[etc_index]["value"]
+        })
+        '''
+
+    if len(vols):
+        metadata.append({
+            "label":  "水名",
+            "value": names
+        })
+
+        metadata.append({
+            "label":  "巻",
+            "value": vols
+        })
+
+    # -------        
 
     member = {
           "label": label,
