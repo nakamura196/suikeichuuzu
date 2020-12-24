@@ -1,0 +1,91 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/layer.json",
+  "@type": "sc:Manifest",
+  "label": "水経注図",
+  "attribution": [
+    "東洋文庫"
+  ],
+  "thumbnail": {
+    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/Suikeichuuzu.tif/full/256,/0/default.jpg",
+    "@type": "dctypes:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/Suikeichuuzu.tif",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "sequences": [
+    {
+      "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Current order",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1",
+          "@type": "sc:Canvas",
+          "label": "Image 1",
+          "height": 38875,
+          "width": 43890,
+          "otherContent" : [{
+            "@id" : "https://nakamura196.github.io/suikeichuuzu/iiif/main/236.json",
+            "@type" : "sc:AnnotationList"
+          }],
+          "images": [
+            {
+              "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/annotation/p0001-image",
+              
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/Suikeichuuzu.tif/full/full/0/default.jpg",
+                "@type": "oa:Choice",
+
+                "default": {
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Suikeichuuzu_gousei_l.tif/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "height": 38875,
+                  "width" : 43890,
+                  "label": "元画像",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Suikeichuuzu_gousei_l.tif",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Suikeichuuzu_grid_l.tif/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 38875,
+                    "label": "グリッド画像",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Suikeichuuzu_grid_l.tif",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    },
+                    "width": 43890
+                  }
+                ],
+
+                "format": "image/jpeg",
+                "height": 38875,
+                "width": 43890,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/Suikeichuuzu.tif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

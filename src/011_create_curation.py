@@ -288,18 +288,10 @@ for i in range(len(resources)):
     canvas = resource["on"][0]["full"]
     xywh = resource["on"][0]["selector"]["default"]["value"]
 
-    xywhSplitTmp = xywh.split(",")
-
-
-
     memberId = canvas + "#" + xywh
     text = resource["resource"][0]["chars"]
     
     cleantext = BeautifulSoup(text, "lxml").text.strip()
-
-    # print(cleantext)
-
-    splitTmp = cleantext.split(",")
 
     # -----------
 
@@ -446,10 +438,11 @@ for i in range(len(resources)):
     # -------        
 
     member = {
-          "label": label,
+          "label": cleantext,
           "@type": "sc:Canvas",
           "metadata": metadata,
-          "@id": memberId
+          "@id": memberId,
+          "thumbnail" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/Suikeichuuzu.tif/"+xywh.split("=")[1]+"/256,/0/default.jpg"
         }
 
     members.append(member)
@@ -482,7 +475,7 @@ curation = {
   }
 }
 
-with open("../docs/curation/test.json", 'w') as f:
+with open("../docs/curation/curation.json", 'w') as f:
     json.dump(curation, f, ensure_ascii=False, indent=4,
     sort_keys=True, separators=(',', ': '))
 
