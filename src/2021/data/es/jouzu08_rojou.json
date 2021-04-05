@@ -1,0 +1,1768 @@
+[
+    {
+        "_id": "CTLU(a)0-01",
+        "_index": "main",
+        "_source": {
+            "_label": "泗水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1292,173,159,88",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1292,173,159,88/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-01",
+            "sort": [
+                "04-00486"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "泗水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-02",
+        "_index": "main",
+        "_source": {
+            "_label": "孔里",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=558,249,109,147",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/558,249,109,147/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-02",
+            "sort": [
+                "04-00487"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "孔里"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-03",
+        "_index": "main",
+        "_source": {
+            "_label": "夫子冢",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=465,261,81,216",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/465,261,81,216/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-03",
+            "sort": [
+                "04-00488"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "夫子冢"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-04",
+        "_index": "main",
+        "_source": {
+            "_label": "孔里",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=368,259,81,147",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/368,259,81,147/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-04",
+            "sort": [
+                "04-00489"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "孔里"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-05",
+        "_index": "main",
+        "_source": {
+            "_label": "郭門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1951,1014,107,143",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1951,1014,107,143/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-05",
+            "sort": [
+                "04-00490"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "郭門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-06",
+        "_index": "main",
+        "_source": {
+            "_label": "戎夷死處",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1935,1152,150,138",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1935,1152,150,138/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-06",
+            "sort": [
+                "04-00491"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "戎夷死處"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-07",
+        "_index": "main",
+        "_source": {
+            "_label": "爰居所止處",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1766,992,133,202",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1766,992,133,202/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-07",
+            "sort": [
+                "04-00492"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "爰居所止處"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-08",
+        "_index": "main",
+        "_source": {
+            "_label": "東門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1597,1037,143,95",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1597,1037,143,95/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-08",
+            "sort": [
+                "04-00493"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "東門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-09",
+        "_index": "main",
+        "_source": {
+            "_label": "即上東門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1530,1121,231,85",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1530,1121,231,85/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-09",
+            "sort": [
+                "04-00494"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "即上東門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-10",
+        "_index": "main",
+        "_source": {
+            "_label": "周公臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=777,1045,190,100",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/777,1045,190,100/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-10",
+            "sort": [
+                "04-00495"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "周公臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-11",
+        "_index": "main",
+        "_source": {
+            "_label": "大庭氏庫",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1251,1221,133,131",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1251,1221,133,131/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-11",
+            "sort": [
+                "04-00496"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "大庭氏庫"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-12",
+        "_index": "main",
+        "_source": {
+            "_label": "季氏宅",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1063,1192,176,85",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1063,1192,176,85/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-12",
+            "sort": [
+                "04-00497"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "季氏宅"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-13",
+        "_index": "main",
+        "_source": {
+            "_label": "武子臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1065,1263,181,81",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1065,1263,181,81/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-13",
+            "sort": [
+                "04-00498"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "武子臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-14",
+        "_index": "main",
+        "_source": {
+            "_label": "曲阜",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1218,1351,135,74",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1218,1351,135,74/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-14",
+            "sort": [
+                "04-00499"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "曲阜"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-15",
+        "_index": "main",
+        "_source": {
+            "_label": "曲阜",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1049,1349,128,71",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1049,1349,128,71/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-15",
+            "sort": [
+                "04-00500"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "曲阜"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-16",
+        "_index": "main",
+        "_source": {
+            "_label": "少昊之墟",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1089,1418,233,74",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1089,1418,233,74/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-16",
+            "sort": [
+                "04-00501"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "少昊之墟"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-17",
+        "_index": "main",
+        "_source": {
+            "_label": "顔母廟",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=582,1202,150,135",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/582,1202,150,135/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-17",
+            "sort": [
+                "04-00502"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "顔母廟"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-18",
+        "_index": "main",
+        "_source": {
+            "_label": "孔廟三間",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=730,1395,240,78",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/730,1395,240,78/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-18",
+            "sort": [
+                "04-00503"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "孔廟三間"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-19",
+        "_index": "main",
+        "_source": {
+            "_label": "七碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=818,1463,123,55",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/818,1463,123,55/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-19",
+            "sort": [
+                "04-00504"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "七碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-20",
+        "_index": "main",
+        "_source": {
+            "_label": "夫人在東間",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=901,1523,74,271",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/901,1523,74,271/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-20",
+            "sort": [
+                "04-00505"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "夫人在東間"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-21",
+        "_index": "main",
+        "_source": {
+            "_label": "顔母在中間",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=842,1511,69,277",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/842,1511,69,277/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-21",
+            "sort": [
+                "04-00506"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "顔母在中間"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-22",
+        "_index": "main",
+        "_source": {
+            "_label": "懸甕石硯車牀几席劍履",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=737,1507,112,307",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/737,1507,112,307/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-22",
+            "sort": [
+                "04-00507"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "懸甕石硯車牀几席劍履"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-23",
+        "_index": "main",
+        "_source": {
+            "_label": "夫子在西間",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=668,1511,81,297",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/668,1511,81,297/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-23",
+            "sort": [
+                "04-00508"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "夫子在西間"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-24",
+        "_index": "main",
+        "_source": {
+            "_label": "靈光殿",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=823,1835,188,64",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/823,1835,188,64/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-24",
+            "sort": [
+                "04-00509"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "靈光殿"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                14
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-25",
+        "_index": "main",
+        "_source": {
+            "_label": "浴池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=984,1861,139,73",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/984,1861,139,73/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-25",
+            "sort": [
+                "04-00510"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "浴池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-26",
+        "_index": "main",
+        "_source": {
+            "_label": "釣臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=989,1923,114,74",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/989,1923,114,74/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-26",
+            "sort": [
+                "04-00511"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "釣臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-27",
+        "_index": "main",
+        "_source": {
+            "_label": "靈光南闕",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=758,1930,233,100",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/758,1930,233,100/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-27",
+            "sort": [
+                "04-00512"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "靈光南闕"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-28",
+        "_index": "main",
+        "_source": {
+            "_label": "道",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1082,2038,104,92",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1082,2038,104,92/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-28",
+            "sort": [
+                "04-00513"
+            ],
+            "備考": [
+                "「……」で表記される。"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "道"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-29",
+        "_index": "main",
+        "_source": {
+            "_label": "棘下",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1073,2192,152,78",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1073,2192,152,78/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-29",
+            "sort": [
+                "04-00514"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "棘下"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-30",
+        "_index": "main",
+        "_source": {
+            "_label": "泮宮",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=939,2042,131,78",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/939,2042,131,78/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-30",
+            "sort": [
+                "04-00515"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "泮宮"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-31",
+        "_index": "main",
+        "_source": {
+            "_label": "臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=961,2109,95,86",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/961,2109,95,86/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-31",
+            "sort": [
+                "04-00516"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-32",
+        "_index": "main",
+        "_source": {
+            "_label": "池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=963,2192,83,55",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/963,2192,83,55/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-32",
+            "sort": [
+                "04-00517"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-33",
+        "_index": "main",
+        "_source": {
+            "_label": "池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=884,2135,88,69",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/884,2135,88,69/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-33",
+            "sort": [
+                "04-00518"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-34",
+        "_index": "main",
+        "_source": {
+            "_label": "泮水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=918,2252,121,90",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/918,2252,121,90/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-34",
+            "sort": [
+                "04-00519"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "泮水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-35",
+        "_index": "main",
+        "_source": {
+            "_label": "南門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1063,2323,140,83",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1063,2323,140,83/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-35",
+            "sort": [
+                "04-00520"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "南門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-36",
+        "_index": "main",
+        "_source": {
+            "_label": "本名禝門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1013,2419,250,83",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1013,2419,250,83/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-36",
+            "sort": [
+                "04-00521"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "本名禝門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-37",
+        "_index": "main",
+        "_source": {
+            "_label": "又曰高門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1015,2490,245,77",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1015,2490,245,77/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-37",
+            "sort": [
+                "04-00522"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "又曰高門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-38",
+        "_index": "main",
+        "_source": {
+            "_label": "雩門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=730,2321,145,92",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/730,2321,145,92/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-38",
+            "sort": [
+                "04-00523"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "雩門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-39",
+        "_index": "main",
+        "_source": {
+            "_label": "酈氏誤合禝門雩門為一門今訂",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=687,2421,295,276",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/687,2421,295,276/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-39",
+            "sort": [
+                "04-00524"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "酈氏誤合禝門雩門為一門今訂"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-40",
+        "_index": "main",
+        "_source": {
+            "_label": "有道児君碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1015,2566,164,181",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1015,2566,164,181/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-40",
+            "sort": [
+                "04-00525"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "有道児君碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-41",
+        "_index": "main",
+        "_source": {
+            "_label": "沂水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1587,2917,147,90",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1587,2917,147,90/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-41",
+            "sort": [
+                "04-00526"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "沂水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-42",
+        "_index": "main",
+        "_source": {
+            "_label": "雩壇",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=751,2984,152,97",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/751,2984,152,97/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-42",
+            "sort": [
+                "04-00527"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "雩壇"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLU(a)0-43",
+        "_index": "main",
+        "_source": {
+            "_label": "圜邱",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=408,2965,135,92",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/408,2965,135,92/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLU(a)0-43",
+            "sort": [
+                "04-00528"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "魯城図"
+            ],
+            "地名/記述": [
+                "圜邱"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    }
+]

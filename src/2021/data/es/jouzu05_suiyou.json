@@ -1,0 +1,2301 @@
+[
+    {
+        "_id": "CTSU(a)0-01",
+        "_index": "main",
+        "_source": {
+            "_label": "汳水餘波舊入睢陽城中",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1912,145,289,217",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1912,145,289,217/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-01",
+            "sort": [
+                "04-00345"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "汳水餘波舊入睢陽城中"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                2
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-02",
+        "_index": "main",
+        "_source": {
+            "_label": "石虎",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1411,332,85,139",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1411,332,85,139/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-02",
+            "sort": [
+                "04-00346"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "石虎"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-03",
+        "_index": "main",
+        "_source": {
+            "_label": "石柱",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1341,332,85,144",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1341,332,85,144/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-03",
+            "sort": [
+                "04-00347"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "石柱"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-04",
+        "_index": "main",
+        "_source": {
+            "_label": "二石虎",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1131,218,183,72",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1131,218,183,72/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-04",
+            "sort": [
+                "04-00348"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "二石虎"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-05",
+        "_index": "main",
+        "_source": {
+            "_label": "二石羊",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1148,284,165,57",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1148,284,165,57/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-05",
+            "sort": [
+                "04-00349"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "二石羊"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-06",
+        "_index": "main",
+        "_source": {
+            "_label": "廟",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1028,187,86,75",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1028,187,86,75/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-06",
+            "sort": [
+                "04-00350"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "廟"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-07",
+        "_index": "main",
+        "_source": {
+            "_label": "二柱",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=995,307,117,74",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/995,307,117,74/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-07",
+            "sort": [
+                "04-00351"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "二柱"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-08",
+        "_index": "main",
+        "_source": {
+            "_label": "橋玄墓",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=730,199,192,90",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/730,199,192,90/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-08",
+            "sort": [
+                "04-00352"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "橋玄墓"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-09",
+        "_index": "main",
+        "_source": {
+            "_label": "碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=874,313,95,77",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/874,313,95,77/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-09",
+            "sort": [
+                "04-00353"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-10",
+        "_index": "main",
+        "_source": {
+            "_label": "二石駝",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1066,391,192,80",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1066,391,192,80/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-10",
+            "sort": [
+                "04-00354"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "二石駝"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-11",
+        "_index": "main",
+        "_source": {
+            "_label": "二石馬",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=865,408,181,67",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/865,408,181,67/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-11",
+            "sort": [
+                "04-00355"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "二石馬"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-12",
+        "_index": "main",
+        "_source": {
+            "_label": "梁孝王築東苑方三百里",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=2038,938,192,258",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/2038,938,192,258/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-12",
+            "sort": [
+                "04-00356"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "梁孝王築東苑方三百里"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-13",
+        "_index": "main",
+        "_source": {
+            "_label": "東苑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=2109,1201,142,103",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/2109,1201,142,103/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-13",
+            "sort": [
+                "04-00357"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "東苑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-14",
+        "_index": "main",
+        "_source": {
+            "_label": "平臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1964,1195,73,170",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1964,1195,73,170/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-14",
+            "sort": [
+                "04-00358"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "平臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-15",
+        "_index": "main",
+        "_source": {
+            "_label": "兔園",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1848,1208,80,161",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1848,1208,80,161/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-15",
+            "sort": [
+                "04-00359"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "兔園"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-16",
+        "_index": "main",
+        "_source": {
+            "_label": "複道",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1622,1249,144,95",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1622,1249,144,95/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-16",
+            "sort": [
+                "04-00360"
+            ],
+            "備考": [
+                "「……」で表記される。"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "複道"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-17",
+        "_index": "main",
+        "_source": {
+            "_label": "橋仁祠",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1633,1630,97,202",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1633,1630,97,202/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-17",
+            "sort": [
+                "04-00361"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "橋仁祠"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-18",
+        "_index": "main",
+        "_source": {
+            "_label": "池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1352,805,82,64",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1352,805,82,64/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-18",
+            "sort": [
+                "04-00362"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-19",
+        "_index": "main",
+        "_source": {
+            "_label": "臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1273,801,73,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1273,801,73,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-19",
+            "sort": [
+                "04-00363"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-20",
+        "_index": "main",
+        "_source": {
+            "_label": "清冷臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1441,1176,140,168",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1441,1176,140,168/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-20",
+            "sort": [
+                "04-00364"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "清冷臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-21",
+        "_index": "main",
+        "_source": {
+            "_label": "釣臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1309,1089,110,144",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1309,1089,110,144/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-21",
+            "sort": [
+                "04-00365"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "釣臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-22",
+        "_index": "main",
+        "_source": {
+            "_label": "安梁舊池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1301,1300,144,151",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1301,1300,144,151/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-22",
+            "sort": [
+                "04-00366"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "安梁舊池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-23",
+        "_index": "main",
+        "_source": {
+            "_label": "故宮",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1173,1126,77,146",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1173,1126,77,146/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-23",
+            "sort": [
+                "04-00367"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "故宮"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-24",
+        "_index": "main",
+        "_source": {
+            "_label": "追明寺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1079,1063,90,205",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1079,1063,90,205/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-24",
+            "sort": [
+                "04-00368"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "追明寺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-25",
+        "_index": "main",
+        "_source": {
+            "_label": "梁王吹臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1074,1264,125,162",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1074,1264,125,162/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-25",
+            "sort": [
+                "04-00369"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "梁王吹臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-26",
+        "_index": "main",
+        "_source": {
+            "_label": "晉梁王妃陵表",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=943,1022,116,202",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/943,1022,116,202/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-26",
+            "sort": [
+                "04-00370"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "晉梁王妃陵表"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-27",
+        "_index": "main",
+        "_source": {
+            "_label": "碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=954,1262,77,80",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/954,1262,77,80/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-27",
+            "sort": [
+                "04-00371"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-28",
+        "_index": "main",
+        "_source": {
+            "_label": "東道",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=943,1333,121,80",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/943,1333,121,80/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-28",
+            "sort": [
+                "04-00372"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "東道"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-29",
+        "_index": "main",
+        "_source": {
+            "_label": "晉梁王妃陵表",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=796,1025,131,198",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/796,1025,131,198/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-29",
+            "sort": [
+                "04-00373"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "晉梁王妃陵表"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-30",
+        "_index": "main",
+        "_source": {
+            "_label": "碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=805,1268,93,73",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/805,1268,93,73/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-30",
+            "sort": [
+                "04-00374"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-31",
+        "_index": "main",
+        "_source": {
+            "_label": "西道",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=770,1329,149,84",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/770,1329,149,84/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-31",
+            "sort": [
+                "04-00375"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "西道"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-32",
+        "_index": "main",
+        "_source": {
+            "_label": "釣臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=607,1232,84,133",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/607,1232,84,133/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-32",
+            "sort": [
+                "04-00376"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "釣臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-33",
+        "_index": "main",
+        "_source": {
+            "_label": "釣臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=525,1229,84,133",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/525,1229,84,133/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-33",
+            "sort": [
+                "04-00377"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "釣臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-34",
+        "_index": "main",
+        "_source": {
+            "_label": "涼馬臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=350,1367,187,101",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/350,1367,187,101/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-34",
+            "sort": [
+                "04-00378"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "涼馬臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-35",
+        "_index": "main",
+        "_source": {
+            "_label": "曲池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=542,1432,138,73",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/542,1432,138,73/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-35",
+            "sort": [
+                "04-00379"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "曲池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-36",
+        "_index": "main",
+        "_source": {
+            "_label": "楊門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1471,1503,136,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1471,1503,136,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-36",
+            "sort": [
+                "04-00380"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "楊門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-37",
+        "_index": "main",
+        "_source": {
+            "_label": "雀臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1255,1667,125,90",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1255,1667,125,90/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-37",
+            "sort": [
+                "04-00381"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "雀臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-38",
+        "_index": "main",
+        "_source": {
+            "_label": "蠡臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=863,1729,142,88",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/863,1729,142,88/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-38",
+            "sort": [
+                "04-00382"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "蠡臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-39",
+        "_index": "main",
+        "_source": {
+            "_label": "亦曰升臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=820,1805,246,84",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/820,1805,246,84/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-39",
+            "sort": [
+                "04-00383"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "亦曰升臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-40",
+        "_index": "main",
+        "_source": {
+            "_label": "即虎圏臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=820,1887,250,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/820,1887,250,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-40",
+            "sort": [
+                "04-00384"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "即虎圏臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-41",
+        "_index": "main",
+        "_source": {
+            "_label": "女郎臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=557,1669,192,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/557,1669,192,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-41",
+            "sort": [
+                "04-00385"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "女郎臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-42",
+        "_index": "main",
+        "_source": {
+            "_label": "西門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=260,1514,129,77",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/260,1514,129,77/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-42",
+            "sort": [
+                "04-00386"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "西門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-43",
+        "_index": "main",
+        "_source": {
+            "_label": "冦先鼓琴處",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=42,1488,198,140",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/42,1488,198,140/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-43",
+            "sort": [
+                "04-00387"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "冦先鼓琴處"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-44",
+        "_index": "main",
+        "_source": {
+            "_label": "梁孝王廣睢陽城七十里",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=432,1859,218,250",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/432,1859,218,250/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-44",
+            "sort": [
+                "04-00388"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "梁孝王廣睢陽城七十里"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-45",
+        "_index": "main",
+        "_source": {
+            "_label": "盧門里",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1161,2083,207,77",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1161,2083,207,77/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-45",
+            "sort": [
+                "04-00389"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "盧門里"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-46",
+        "_index": "main",
+        "_source": {
+            "_label": "盧門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1189,2219,144,84",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1189,2219,144,84/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-46",
+            "sort": [
+                "04-00390"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "盧門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-47",
+        "_index": "main",
+        "_source": {
+            "_label": "盧門亭",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1176,2320,183,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1176,2320,183,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-47",
+            "sort": [
+                "04-00391"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "盧門亭"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-48",
+        "_index": "main",
+        "_source": {
+            "_label": "竹圃",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1975,2637,136,67",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1975,2637,136,67/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-48",
+            "sort": [
+                "04-00392"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "竹圃"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-49",
+        "_index": "main",
+        "_source": {
+            "_label": "即梁王竹園",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1962,2700,172,131",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1962,2700,172,131/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-49",
+            "sort": [
+                "04-00393"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "即梁王竹園"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-50",
+        "_index": "main",
+        "_source": {
+            "_label": "睢水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1945,2875,157,125",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1945,2875,157,125/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-50",
+            "sort": [
+                "04-00394"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "睢水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-51",
+        "_index": "main",
+        "_source": {
+            "_label": "橋載墓碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1378,2439,142,170",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1378,2439,142,170/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-51",
+            "sort": [
+                "04-00395"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "橋載墓碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-52",
+        "_index": "main",
+        "_source": {
+            "_label": "大池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=859,2370,138,86",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/859,2370,138,86/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-52",
+            "sort": [
+                "04-00396"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "大池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-53",
+        "_index": "main",
+        "_source": {
+            "_label": "明水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=842,2506,168,82",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/842,2506,168,82/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-53",
+            "sort": [
+                "04-00397"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "明水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-54",
+        "_index": "main",
+        "_source": {
+            "_label": "逢洪陂",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=859,2737,218,88",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/859,2737,218,88/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-54",
+            "sort": [
+                "04-00398"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "逢洪陂"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-55",
+        "_index": "main",
+        "_source": {
+            "_label": "睢水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=96,2573,97,185",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/96,2573,97,185/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-55",
+            "sort": [
+                "04-00399"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "睢水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSU(a)0-56",
+        "_index": "main",
+        "_source": {
+            "_label": "明溝",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=792,3002,168,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/792,3002,168,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSU(a)0-56",
+            "sort": [
+                "04-00400"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "睢陽城図"
+            ],
+            "地名/記述": [
+                "明溝"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    }
+]

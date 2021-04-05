@@ -1,0 +1,2137 @@
+[
+    {
+        "_id": "CTSC(a)0-01",
+        "_index": "main",
+        "_source": {
+            "_label": "淮水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1072,367,185,88",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1072,367,185,88/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-01",
+            "sort": [
+                "04-00625"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "淮水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-02",
+        "_index": "main",
+        "_source": {
+            "_label": "下蔡故城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=459,374,183,155",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/459,374,183,155/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-02",
+            "sort": [
+                "04-00626"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "下蔡故城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                10
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-03",
+        "_index": "main",
+        "_source": {
+            "_label": "城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=350,516,97,84",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/350,516,97,84/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-03",
+            "sort": [
+                "04-00627"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-04",
+        "_index": "main",
+        "_source": {
+            "_label": "硤石",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=251,529,107,133",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/251,529,107,133/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-04",
+            "sort": [
+                "04-00628"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "硤石"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                4
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-05",
+        "_index": "main",
+        "_source": {
+            "_label": "夏肥水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=25,578,219,92",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/25,578,219,92/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-05",
+            "sort": [
+                "04-00629"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "夏肥水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-06",
+        "_index": "main",
+        "_source": {
+            "_label": "下蔡新城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=548,615,150,133",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/548,615,150,133/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-06",
+            "sort": [
+                "04-00630"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "下蔡新城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                8
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-07",
+        "_index": "main",
+        "_source": {
+            "_label": "城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=421,604,92,73",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/421,604,92,73/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-07",
+            "sort": [
+                "04-00631"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-08",
+        "_index": "main",
+        "_source": {
+            "_label": "硤石",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=367,726,153,69",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/367,726,153,69/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-08",
+            "sort": [
+                "04-00632"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "硤石"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                4
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-09",
+        "_index": "main",
+        "_source": {
+            "_label": "肥口",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=212,778,97,122",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/212,778,97,122/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-09",
+            "sort": [
+                "04-00633"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "肥口"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-10",
+        "_index": "main",
+        "_source": {
+            "_label": "北山",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1868,488,140,82",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1868,488,140,82/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-10",
+            "sort": [
+                "04-00634"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "北山"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                4
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-11",
+        "_index": "main",
+        "_source": {
+            "_label": "北溪",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1836,591,161,86",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1836,591,161,86/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-11",
+            "sort": [
+                "04-00635"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "北溪"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                4
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-12",
+        "_index": "main",
+        "_source": {
+            "_label": "山林精舎",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1952,681,275,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1952,681,275,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-12",
+            "sort": [
+                "04-00636"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "山林精舎"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-13",
+        "_index": "main",
+        "_source": {
+            "_label": "山淵寺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1662,649,187,94",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1662,649,187,94/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-13",
+            "sort": [
+                "04-00637"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "山淵寺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-14",
+        "_index": "main",
+        "_source": {
+            "_label": "陸道士解",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1662,750,150,155",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1662,750,150,155/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-14",
+            "sort": [
+                "04-00638"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "陸道士解"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-15",
+        "_index": "main",
+        "_source": {
+            "_label": "老子廟",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1490,531,77,202",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1490,531,77,202/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-15",
+            "sort": [
+                "04-00639"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "老子廟"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                4
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-16",
+        "_index": "main",
+        "_source": {
+            "_label": "劉安廟",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1423,526,82,202",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1423,526,82,202/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-16",
+            "sort": [
+                "04-00640"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "劉安廟"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                4
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-17",
+        "_index": "main",
+        "_source": {
+            "_label": "隱室",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1358,576,79,150",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1358,576,79,150/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-17",
+            "sort": [
+                "04-00641"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "隱室"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                4
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-18",
+        "_index": "main",
+        "_source": {
+            "_label": "石井",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1296,582,71,144",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1296,582,71,144/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-18",
+            "sort": [
+                "04-00642"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "石井"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                4
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-19",
+        "_index": "main",
+        "_source": {
+            "_label": "八公山",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1346,746,219,79",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1346,746,219,79/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-19",
+            "sort": [
+                "04-00643"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "八公山"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                4
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-20",
+        "_index": "main",
+        "_source": {
+            "_label": "船官湖",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1369,866,217,99",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1369,866,217,99/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-20",
+            "sort": [
+                "04-00644"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "船官湖"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-21",
+        "_index": "main",
+        "_source": {
+            "_label": "肥水故瀆",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1008,810,277,110",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1008,810,277,110/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-21",
+            "sort": [
+                "04-00645"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "肥水故瀆"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                2
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-22",
+        "_index": "main",
+        "_source": {
+            "_label": "玄康城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=801,765,196,97",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/801,765,196,97/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-22",
+            "sort": [
+                "04-00646"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "玄康城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-23",
+        "_index": "main",
+        "_source": {
+            "_label": "曲水堂",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=545,784,204,86",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/545,784,204,86/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-23",
+            "sort": [
+                "04-00647"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "曲水堂"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-24",
+        "_index": "main",
+        "_source": {
+            "_label": "肥水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=2045,1021,161,92",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/2045,1021,161,92/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-24",
+            "sort": [
+                "04-00648"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "肥水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-25",
+        "_index": "main",
+        "_source": {
+            "_label": "肥水故瀆",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1642,914,161,217",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1642,914,161,217/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-25",
+            "sort": [
+                "04-00649"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "肥水故瀆"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                2
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-26",
+        "_index": "main",
+        "_source": {
+            "_label": "西北昌洲寺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1511,997,178,122",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1511,997,178,122/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-26",
+            "sort": [
+                "04-00650"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "西北昌洲寺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-27",
+        "_index": "main",
+        "_source": {
+            "_label": "船官坊",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1318,987,161,131",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1318,987,161,131/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-27",
+            "sort": [
+                "04-00651"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "船官坊"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-28",
+        "_index": "main",
+        "_source": {
+            "_label": "玄康南路馳道",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=844,972,432,97",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/844,972,432,97/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-28",
+            "sort": [
+                "04-00652"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "玄康南路馳道"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-29",
+        "_index": "main",
+        "_source": {
+            "_label": "横塘",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=655,937,161,97",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/655,937,161,97/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-29",
+            "sort": [
+                "04-00653"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "横塘"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-30",
+        "_index": "main",
+        "_source": {
+            "_label": "肥水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=378,877,165,88",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/378,877,165,88/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-30",
+            "sort": [
+                "04-00654"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "肥水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-31",
+        "_index": "main",
+        "_source": {
+            "_label": "石梁",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1574,1172,129,77",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1574,1172,129,77/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-31",
+            "sort": [
+                "04-00655"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "石梁"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                29
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-32",
+        "_index": "main",
+        "_source": {
+            "_label": "肥水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1240,1146,176,90",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1240,1146,176,90/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-32",
+            "sort": [
+                "04-00656"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "肥水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-33",
+        "_index": "main",
+        "_source": {
+            "_label": "東臺湖",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=2030,1236,99,245",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/2030,1236,99,245/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-33",
+            "sort": [
+                "04-00657"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "東臺湖"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-34",
+        "_index": "main",
+        "_source": {
+            "_label": "外郭",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1903,1486,99,178",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1903,1486,99,178/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-34",
+            "sort": [
+                "04-00658"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "外郭"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-35",
+        "_index": "main",
+        "_source": {
+            "_label": "東臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1806,1296,88,200",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1806,1296,88,200/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-35",
+            "sort": [
+                "04-00659"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "東臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-36",
+        "_index": "main",
+        "_source": {
+            "_label": "石橋門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1593,1292,204,86",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1593,1292,204,86/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-36",
+            "sort": [
+                "04-00660"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "石橋門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-37",
+        "_index": "main",
+        "_source": {
+            "_label": "即草市門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1627,1372,148,142",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1627,1372,148,142/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-37",
+            "sort": [
+                "04-00661"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "即草市門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-38",
+        "_index": "main",
+        "_source": {
+            "_label": "金城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1070,1516,103,176",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1070,1516,103,176/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-38",
+            "sort": [
+                "04-00662"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "金城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-39",
+        "_index": "main",
+        "_source": {
+            "_label": "西門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=939,1522,82,144",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/939,1522,82,144/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-39",
+            "sort": [
+                "04-00663"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "西門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-40",
+        "_index": "main",
+        "_source": {
+            "_label": "逍遥樓",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=825,1475,97,230",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/825,1475,97,230/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-40",
+            "sort": [
+                "04-00664"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "逍遥樓"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-41",
+        "_index": "main",
+        "_source": {
+            "_label": "沙門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=935,1909,82,153",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/935,1909,82,153/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-41",
+            "sort": [
+                "04-00665"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "沙門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-42",
+        "_index": "main",
+        "_source": {
+            "_label": "相國城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1178,2049,221,77",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1178,2049,221,77/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-42",
+            "sort": [
+                "04-00666"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "相國城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-43",
+        "_index": "main",
+        "_source": {
+            "_label": "劉武帝築",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1208,2118,157,146",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1208,2118,157,146/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-43",
+            "sort": [
+                "04-00667"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "劉武帝築"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-44",
+        "_index": "main",
+        "_source": {
+            "_label": "堂宇廳館",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1154,2260,275,94",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1154,2260,275,94/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-44",
+            "sort": [
+                "04-00668"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "堂宇廳館"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-45",
+        "_index": "main",
+        "_source": {
+            "_label": "象門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=935,2260,84,181",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/935,2260,84,181/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-45",
+            "sort": [
+                "04-00669"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "象門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-46",
+        "_index": "main",
+        "_source": {
+            "_label": "孝義里",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1662,2413,187,86",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1662,2413,187,86/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-46",
+            "sort": [
+                "04-00670"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "孝義里"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-47",
+        "_index": "main",
+        "_source": {
+            "_label": "劉勔廟",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1664,2488,189,71",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1664,2488,189,71/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-47",
+            "sort": [
+                "04-00671"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "劉勔廟"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-48",
+        "_index": "main",
+        "_source": {
+            "_label": "道",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1709,2555,92,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1709,2555,92,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-48",
+            "sort": [
+                "04-00672"
+            ],
+            "備考": [
+                "「……」で表記される。"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "道"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-50",
+        "_index": "main",
+        "_source": {
+            "_label": "芍陂門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1552,2708,217,90",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1552,2708,217,90/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-50",
+            "sort": [
+                "04-00674"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "芍陂門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-51",
+        "_index": "main",
+        "_source": {
+            "_label": "芍陂瀆",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1535,2832,103,241",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1535,2832,103,241/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-51",
+            "sort": [
+                "04-00675"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "芍陂瀆"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-52",
+        "_index": "main",
+        "_source": {
+            "_label": "羊頭溪水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=748,2699,88,301",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/748,2699,88,301/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-52",
+            "sort": [
+                "04-00676"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "羊頭溪水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTSC(a)0-53",
+        "_index": "main",
+        "_source": {
+            "_label": "烽火瀆",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=285,2794,260,99",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/285,2794,260,99/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-53",
+            "sort": [
+                "04-00677"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "烽火瀆"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    }
+]

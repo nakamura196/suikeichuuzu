@@ -1,0 +1,544 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/65a910994c0d4bc5bec2464c2c5871e3/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "related": {
+        "@id": "http://codh.rois.ac.jp/edo-maps/about/#legend",
+        "@type": "cr:MarkerLegend"
+    },
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "jouzu08_rojou",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1292,173,159,88",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-01",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-01\">1-001</a> ]<br/>地名/記述：泗水<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1292,173,159,88/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=558,249,109,147",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-02",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-02\">1-001</a> ]<br/>地名/記述：孔里<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/558,249,109,147/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=465,261,81,216",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-03",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-03\">1-001</a> ]<br/>地名/記述：夫子冢<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/465,261,81,216/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=368,259,81,147",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-04",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-04\">1-001</a> ]<br/>地名/記述：孔里<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/368,259,81,147/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1951,1014,107,143",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-05",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-05\">1-001</a> ]<br/>地名/記述：郭門<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1951,1014,107,143/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1935,1152,150,138",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-06",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-06\">1-001</a> ]<br/>地名/記述：戎夷死處<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1935,1152,150,138/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1766,992,133,202",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-07",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-07\">1-001</a> ]<br/>地名/記述：爰居所止處<br/>記号：34"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1766,992,133,202/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1597,1037,143,95",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-08",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-08\">1-001</a> ]<br/>地名/記述：東門<br/>記号：34"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1597,1037,143,95/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1530,1121,231,85",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-09",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-09\">1-001</a> ]<br/>地名/記述：即上東門<br/>記号：34"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1530,1121,231,85/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=777,1045,190,100",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-10",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-10\">1-001</a> ]<br/>地名/記述：周公臺<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/777,1045,190,100/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1251,1221,133,131",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-11",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-11\">1-001</a> ]<br/>地名/記述：大庭氏庫<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1251,1221,133,131/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1063,1192,176,85",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-12",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-12\">1-001</a> ]<br/>地名/記述：季氏宅<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1063,1192,176,85/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1065,1263,181,81",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-13",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-13\">1-001</a> ]<br/>地名/記述：武子臺<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1065,1263,181,81/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1218,1351,135,74",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-14",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-14\">1-001</a> ]<br/>地名/記述：曲阜<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1218,1351,135,74/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1049,1349,128,71",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-15",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-15\">1-001</a> ]<br/>地名/記述：曲阜<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1049,1349,128,71/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1089,1418,233,74",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-16",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-16\">1-001</a> ]<br/>地名/記述：少昊之墟<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1089,1418,233,74/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=582,1202,150,135",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-17",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-17\">1-001</a> ]<br/>地名/記述：顔母廟<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/582,1202,150,135/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=730,1395,240,78",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-18",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-18\">1-001</a> ]<br/>地名/記述：孔廟三間<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/730,1395,240,78/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=818,1463,123,55",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-19",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-19\">1-001</a> ]<br/>地名/記述：七碑<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/818,1463,123,55/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=901,1523,74,271",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-20",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-20\">1-001</a> ]<br/>地名/記述：夫人在東間<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/901,1523,74,271/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=842,1511,69,277",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-21",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-21\">1-001</a> ]<br/>地名/記述：顔母在中間<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/842,1511,69,277/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=737,1507,112,307",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-22",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-22\">1-001</a> ]<br/>地名/記述：懸甕石硯車牀几席劍履<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/737,1507,112,307/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=668,1511,81,297",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-23",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-23\">1-001</a> ]<br/>地名/記述：夫子在西間<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/668,1511,81,297/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=823,1835,188,64",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-24",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-24\">1-001</a> ]<br/>地名/記述：靈光殿<br/>記号：14"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/823,1835,188,64/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=984,1861,139,73",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-25",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-25\">1-001</a> ]<br/>地名/記述：浴池<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/984,1861,139,73/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=989,1923,114,74",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-26",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-26\">1-001</a> ]<br/>地名/記述：釣臺<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/989,1923,114,74/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=758,1930,233,100",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-27",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-27\">1-001</a> ]<br/>地名/記述：靈光南闕<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/758,1930,233,100/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1082,2038,104,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-28",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-28\">1-001</a> ]<br/>地名/記述：道<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1082,2038,104,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1073,2192,152,78",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-29",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-29\">1-001</a> ]<br/>地名/記述：棘下<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1073,2192,152,78/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=939,2042,131,78",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-30",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-30\">1-001</a> ]<br/>地名/記述：泮宮<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/939,2042,131,78/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=961,2109,95,86",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-31",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-31\">1-001</a> ]<br/>地名/記述：臺<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/961,2109,95,86/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=963,2192,83,55",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-32",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-32\">1-001</a> ]<br/>地名/記述：池<br/>記号：5"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/963,2192,83,55/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=884,2135,88,69",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-33",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-33\">1-001</a> ]<br/>地名/記述：池<br/>記号：5"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/884,2135,88,69/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=918,2252,121,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-34",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-34\">1-001</a> ]<br/>地名/記述：泮水<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/918,2252,121,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1063,2323,140,83",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-35",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-35\">1-001</a> ]<br/>地名/記述：南門<br/>記号：34"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1063,2323,140,83/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1013,2419,250,83",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-36",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-36\">1-001</a> ]<br/>地名/記述：本名禝門<br/>記号：34"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1013,2419,250,83/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1015,2490,245,77",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-37",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-37\">1-001</a> ]<br/>地名/記述：又曰高門<br/>記号：34"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1015,2490,245,77/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=730,2321,145,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-38",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-38\">1-001</a> ]<br/>地名/記述：雩門<br/>記号：34"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/730,2321,145,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=687,2421,295,276",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-39",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-39\">1-001</a> ]<br/>地名/記述：酈氏誤合禝門雩門為一門今訂<br/>記号：34"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/687,2421,295,276/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1015,2566,164,181",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-40",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-40\">1-001</a> ]<br/>地名/記述：有道児君碑<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1015,2566,164,181/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1587,2917,147,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-41",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-41\">1-001</a> ]<br/>地名/記述：沂水<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1587,2917,147,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=751,2984,152,97",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-42",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-42\">1-001</a> ]<br/>地名/記述：雩壇<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/751,2984,152,97/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=408,2965,135,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-43",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLU(a)0-43\">1-001</a> ]<br/>地名/記述：圜邱<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/408,2965,135,92/200,/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "jouzu08_rojou"
+            }
+        }
+    ],
+    "viewingHint": "annotation"
+}

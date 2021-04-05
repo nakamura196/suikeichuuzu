@@ -1,0 +1,1271 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/99a80fdcdc846a12056b9880bdcfc6af/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "jouzu01_rekijou",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=608,172,176,105",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-01",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00001"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "濟水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/608,172,176,105/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=785,261,171,91",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-02",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00002"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "濼口"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/785,261,171,91/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=880,477,173,105",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-03",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00003"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "聽水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/880,477,173,105/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=681,493,116,160",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-04",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00004"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "濼水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/681,493,116,160/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1646,812,80,153",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-05",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00005"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "右水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1646,812,80,153/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1696,988,135,88",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-06",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00006"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "出郭"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1696,988,135,88/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1277,945,168,111",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-07",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00007"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "左水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1277,945,168,111/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=771,787,105,89",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-08",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00008"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "陂"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/771,787,105,89/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=624,950,187,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-09",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00009"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "濼水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/624,950,187,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1628,1322,97,176",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-10",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00010"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "流杯池"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1628,1322,97,176/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1500,1273,97,201",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-11",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00011"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "東城"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1500,1273,97,201/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1073,1627,195,122",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-12",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00012"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "歴城"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1073,1627,195,122/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=553,1488,89,173",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-13",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00013"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "西郭"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/553,1488,89,173/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=464,1322,84,152",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-14",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00014"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "入郭"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/464,1322,84,152/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=276,1102,173,103",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-15",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00015"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "客亭"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/276,1102,173,103/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=265,1208,201,97",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-16",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00016"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "大明湖"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/265,1208,201,97/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=276,1327,86,216",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-17",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00017"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "大明寺"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/276,1327,86,216/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1623,2387,97,168",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-18",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00018"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "歴水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1623,2387,97,168/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1536,2624,163,182",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-19",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00019"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "歴祠下泉"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1536,2624,163,182/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1215,2510,160,103",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-20",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00020"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "舜祠"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1215,2510,160,103/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1245,2763,111,182",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-21",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00021"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "舜井"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 30
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1245,2763,111,182/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=959,2643,157,100",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-22",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00022"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "歴山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/959,2643,157,100/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=383,2773,90,151",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-23",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00023"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "濼水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/383,2773,90,151/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=118,2923,179,165",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-24",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00024"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "娥英廟"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/118,2923,179,165/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1526,822,128,142",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-25",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00025"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "即枝津"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1526,822,128,142/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=260,2764,210,224",
+                    "@type": "sc:Canvas",
+                    "label": "CTLI(a)0-26",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00026"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "歴城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "一名娥姜水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/260,2764,210,224/200,/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "jouzu01_rekijou"
+            }
+        }
+    ]
+}

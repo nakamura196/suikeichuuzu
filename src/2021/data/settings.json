@@ -1,0 +1,53 @@
+{   
+    "main": {
+        "label": "本図"
+    },
+    "saiiki": {
+        "label": "西域"
+    },
+    "etsunan": {
+        "label": "越南"
+    },
+    "ukou": {
+        "label": "禹貢山水澤地所在"
+    },
+    "jouzu01_rekijou": {
+        "label": "歴城図"
+    },
+    "jouzu02_gyoujou": {
+        "label": "鄴城図"
+    },
+    "jouzu03_rakuyou": {
+        "label": "洛陽城図"
+    },
+    "jouzu04_chouan": {
+        "label": "長安城図"
+    },
+    "jouzu05_suiyou": {
+        "label": "睢陽城図"
+    },
+    "jouzu06_heijou": {
+        "label": "平城図"
+    },
+    "jouzu07_keijou": {
+        "label": "薊城図"
+    },
+    "jouzu08_rojou": {
+        "label": "魯城図"
+    },
+    "jouzu09_rinshi": {
+        "label": "臨淄城図"
+    },
+    "jouzu10_jouyou": {
+        "label": "襄陽城図"
+    },
+    "jouzu11_jushun": {
+        "label": "寿春城図"
+    },
+    "jouzu12_seito": {
+        "label": "成都橋図"
+    },
+    "jouzu13_sanin": {
+        "label": "山陰城図"
+    }
+}

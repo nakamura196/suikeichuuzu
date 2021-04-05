@@ -1,0 +1,2091 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/65a910994c0d4bc5bec2464c2c5871e3/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "jouzu08_rojou",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1292,173,159,88",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-01",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00486"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "泗水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1292,173,159,88/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=558,249,109,147",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-02",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00487"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "孔里"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/558,249,109,147/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=465,261,81,216",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-03",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00488"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "夫子冢"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/465,261,81,216/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=368,259,81,147",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-04",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00489"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "孔里"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/368,259,81,147/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1951,1014,107,143",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-05",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00490"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "郭門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1951,1014,107,143/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1935,1152,150,138",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-06",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00491"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "戎夷死處"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1935,1152,150,138/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1766,992,133,202",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-07",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00492"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "爰居所止處"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1766,992,133,202/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1597,1037,143,95",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-08",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00493"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "東門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1597,1037,143,95/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1530,1121,231,85",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-09",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00494"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "即上東門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1530,1121,231,85/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=777,1045,190,100",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-10",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00495"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "周公臺"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/777,1045,190,100/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1251,1221,133,131",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-11",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00496"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "大庭氏庫"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1251,1221,133,131/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1063,1192,176,85",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-12",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00497"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "季氏宅"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1063,1192,176,85/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1065,1263,181,81",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-13",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00498"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "武子臺"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1065,1263,181,81/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1218,1351,135,74",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-14",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00499"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "曲阜"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1218,1351,135,74/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1049,1349,128,71",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-15",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00500"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "曲阜"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1049,1349,128,71/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1089,1418,233,74",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-16",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00501"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "少昊之墟"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1089,1418,233,74/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=582,1202,150,135",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-17",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00502"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "顔母廟"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/582,1202,150,135/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=730,1395,240,78",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-18",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00503"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "孔廟三間"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/730,1395,240,78/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=818,1463,123,55",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-19",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00504"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "七碑"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/818,1463,123,55/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=901,1523,74,271",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-20",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00505"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "夫人在東間"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/901,1523,74,271/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=842,1511,69,277",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-21",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00506"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "顔母在中間"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/842,1511,69,277/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=737,1507,112,307",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-22",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00507"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "懸甕石硯車牀几席劍履"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/737,1507,112,307/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=668,1511,81,297",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-23",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00508"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "夫子在西間"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/668,1511,81,297/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=823,1835,188,64",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-24",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00509"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "靈光殿"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 14
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/823,1835,188,64/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=984,1861,139,73",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-25",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00510"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "浴池"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/984,1861,139,73/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=989,1923,114,74",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-26",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00511"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "釣臺"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/989,1923,114,74/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=758,1930,233,100",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-27",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00512"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "靈光南闕"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/758,1930,233,100/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1082,2038,104,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-28",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00513"
+                        },
+                        {
+                            "label": "備考",
+                            "value": "「……」で表記される。"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "道"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1082,2038,104,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1073,2192,152,78",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-29",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00514"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "棘下"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1073,2192,152,78/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=939,2042,131,78",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-30",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00515"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "泮宮"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/939,2042,131,78/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=961,2109,95,86",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-31",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00516"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "臺"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/961,2109,95,86/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=963,2192,83,55",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-32",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00517"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "池"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/963,2192,83,55/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=884,2135,88,69",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-33",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00518"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "池"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/884,2135,88,69/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=918,2252,121,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-34",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00519"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "泮水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/918,2252,121,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1063,2323,140,83",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-35",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00520"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "南門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1063,2323,140,83/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1013,2419,250,83",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-36",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00521"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "本名禝門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1013,2419,250,83/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1015,2490,245,77",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-37",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00522"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "又曰高門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1015,2490,245,77/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=730,2321,145,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-38",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00523"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "雩門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/730,2321,145,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=687,2421,295,276",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-39",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00524"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "酈氏誤合禝門雩門為一門今訂"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/687,2421,295,276/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1015,2566,164,181",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-40",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00525"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "有道児君碑"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1015,2566,164,181/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1587,2917,147,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-41",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00526"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "沂水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1587,2917,147,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=751,2984,152,97",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-42",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00527"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "雩壇"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/751,2984,152,97/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=408,2965,135,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTLU(a)0-43",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00528"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "魯城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "圜邱"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/408,2965,135,92/200,/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "jouzu08_rojou"
+            }
+        }
+    ]
+}

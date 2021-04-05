@@ -1,0 +1,2834 @@
+[
+    {
+        "_id": "CTXY(a)0-01",
+        "_index": "main",
+        "_source": {
+            "_label": "淯水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2056,347,151,125",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2056,347,151,125/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-01",
+            "sort": [
+                "04-00556"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "淯水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-02",
+        "_index": "main",
+        "_source": {
+            "_label": "宛口",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1774,561,157,84",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1774,561,157,84/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-02",
+            "sort": [
+                "04-00557"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "宛口"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-03",
+        "_index": "main",
+        "_source": {
+            "_label": "洲",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1763,649,67,67",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1763,649,67,67/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-03",
+            "sort": [
+                "04-00558"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "洲"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-04",
+        "_index": "main",
+        "_source": {
+            "_label": "洲",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1694,640,69,69",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1694,640,69,69/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-04",
+            "sort": [
+                "04-00559"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "洲"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-05",
+        "_index": "main",
+        "_source": {
+            "_label": "洲",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1627,640,73,71",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1627,640,73,71/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-05",
+            "sort": [
+                "04-00560"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "洲"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-06",
+        "_index": "main",
+        "_source": {
+            "_label": "樊城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1255,509,155,92",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1255,509,155,92/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-06",
+            "sort": [
+                "04-00561"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "樊城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-07",
+        "_index": "main",
+        "_source": {
+            "_label": "曹仁記水碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1080,416,146,189",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1080,416,146,189/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-07",
+            "sort": [
+                "04-00562"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "曹仁記水碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-08",
+        "_index": "main",
+        "_source": {
+            "_label": "平魯城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=813,472,228,105",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/813,472,228,105/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-08",
+            "sort": [
+                "04-00563"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "平魯城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-09",
+        "_index": "main",
+        "_source": {
+            "_label": "沔水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=486,539,159,90",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/486,539,159,90/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-09",
+            "sort": [
+                "04-00564"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "沔水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-10",
+        "_index": "main",
+        "_source": {
+            "_label": "司馬徽宅",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2191,1077,88,276",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2191,1077,88,276/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-10",
+            "sort": [
+                "04-00565"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "司馬徽宅"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-11",
+        "_index": "main",
+        "_source": {
+            "_label": "魚梁洲",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2043,1082,120,200",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2043,1082,120,200/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-11",
+            "sort": [
+                "04-00566"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "魚梁洲"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-12",
+        "_index": "main",
+        "_source": {
+            "_label": "龎德公宅",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2107,1336,92,250",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2107,1336,92,250/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-12",
+            "sort": [
+                "04-00567"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "龎德公宅"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-13",
+        "_index": "main",
+        "_source": {
+            "_label": "白沙曲",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1937,1116,84,202",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1937,1116,84,202/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-13",
+            "sort": [
+                "04-00568"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "白沙曲"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-14",
+        "_index": "main",
+        "_source": {
+            "_label": "南白沙",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1877,1306,202,84",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1877,1306,202,84/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-14",
+            "sort": [
+                "04-00569"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "南白沙"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-15",
+        "_index": "main",
+        "_source": {
+            "_label": "龎士元宅",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1840,1370,273,86",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1840,1370,273,86/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-15",
+            "sort": [
+                "04-00570"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "龎士元宅"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-16",
+        "_index": "main",
+        "_source": {
+            "_label": "景升臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1918,1480,138,155",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1918,1480,138,155/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-16",
+            "sort": [
+                "04-00571"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "景升臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-17",
+        "_index": "main",
+        "_source": {
+            "_label": "沔水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1987,1821,280,108",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1987,1821,280,108/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-17",
+            "sort": [
+                "04-00572"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "沔水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-18",
+        "_index": "main",
+        "_source": {
+            "_label": "桃林亭",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1500,1881,213,92",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1500,1881,213,92/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-18",
+            "sort": [
+                "04-00573"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "桃林亭"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-19",
+        "_index": "main",
+        "_source": {
+            "_label": "山下水中杜預沈碑處",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1838,2057,194,189",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1838,2057,194,189/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-19",
+            "sort": [
+                "04-00574"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "山下水中杜預沈碑處"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-20",
+        "_index": "main",
+        "_source": {
+            "_label": "桓宣城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1780,2023,77,202",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1780,2023,77,202/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-20",
+            "sort": [
+                "04-00575"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "桓宣城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-21",
+        "_index": "main",
+        "_source": {
+            "_label": "桓宣碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1720,2023,75,194",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1720,2023,75,194/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-21",
+            "sort": [
+                "04-00576"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "桓宣碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-22",
+        "_index": "main",
+        "_source": {
+            "_label": "堕涙碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1653,2021,84,198",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1653,2021,84,198/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-22",
+            "sort": [
+                "04-00577"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "堕涙碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-23",
+        "_index": "main",
+        "_source": {
+            "_label": "胡羆碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1588,2019,75,200",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1588,2019,75,200/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-23",
+            "sort": [
+                "04-00578"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "胡羆碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-24",
+        "_index": "main",
+        "_source": {
+            "_label": "周訪碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1511,2019,86,204",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1511,2019,86,204/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-24",
+            "sort": [
+                "04-00579"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "周訪碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-25",
+        "_index": "main",
+        "_source": {
+            "_label": "峴山",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1563,2240,161,84",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1563,2240,161,84/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-25",
+            "sort": [
+                "04-00580"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "峴山"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                4
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-26",
+        "_index": "main",
+        "_source": {
+            "_label": "楊儀居上洄",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1776,2273,334,101",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1776,2273,334,101/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-26",
+            "sort": [
+                "04-00581"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "楊儀居上洄"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-27",
+        "_index": "main",
+        "_source": {
+            "_label": "洄湖",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1830,2452,168,82",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1830,2452,168,82/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-27",
+            "sort": [
+                "04-00582"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "洄湖"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-28",
+        "_index": "main",
+        "_source": {
+            "_label": "蔡洲",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2127,2299,75,153",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2127,2299,75,153/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-28",
+            "sort": [
+                "04-00583"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "蔡洲"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-29",
+        "_index": "main",
+        "_source": {
+            "_label": "蔡瑁宅",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2127,2551,101,198",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2127,2551,101,198/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-29",
+            "sort": [
+                "04-00584"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "蔡瑁宅"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-30",
+        "_index": "main",
+        "_source": {
+            "_label": "楊顒居下洄",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1776,2648,355,95",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1776,2648,355,95/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-30",
+            "sort": [
+                "04-00585"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "楊顒居下洄"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-31",
+        "_index": "main",
+        "_source": {
+            "_label": "廣昌里",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1597,2426,97,230",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1597,2426,97,230/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-31",
+            "sort": [
+                "04-00586"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "廣昌里"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-32",
+        "_index": "main",
+        "_source": {
+            "_label": "高隄",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1998,2832,140,92",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1998,2832,140,92/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-32",
+            "sort": [
+                "04-00587"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "高隄"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-33",
+        "_index": "main",
+        "_source": {
+            "_label": "襄陽湖水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2008,2931,148,148",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2008,2931,148,148/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-33",
+            "sort": [
+                "04-00588"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "襄陽湖水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-34",
+        "_index": "main",
+        "_source": {
+            "_label": "高隄",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1791,2774,142,92",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1791,2774,142,92/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-34",
+            "sort": [
+                "04-00589"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "高隄"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-35",
+        "_index": "main",
+        "_source": {
+            "_label": "習郁小魚池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1759,2855,245,103",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1759,2855,245,103/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-35",
+            "sort": [
+                "04-00590"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "習郁小魚池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-36",
+        "_index": "main",
+        "_source": {
+            "_label": "習郁宅",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1789,2987,209,92",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1789,2987,209,92/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-36",
+            "sort": [
+                "04-00591"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "習郁宅"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-37",
+        "_index": "main",
+        "_source": {
+            "_label": "大道",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1685,2881,95,153",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1685,2881,95,153/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-37",
+            "sort": [
+                "04-00592"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "大道"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-38",
+        "_index": "main",
+        "_source": {
+            "_label": "東白沙",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1698,904,97,252",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1698,904,97,252/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-38",
+            "sort": [
+                "04-00593"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "東白沙"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-39",
+        "_index": "main",
+        "_source": {
+            "_label": "劉表墓",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1636,1225,202,101",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1636,1225,202,101/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-39",
+            "sort": [
+                "04-00594"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "劉表墓"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-40",
+        "_index": "main",
+        "_source": {
+            "_label": "祠堂",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1662,1313,155,82",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1662,1313,155,82/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-40",
+            "sort": [
+                "04-00595"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "祠堂"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-41",
+        "_index": "main",
+        "_source": {
+            "_label": "東門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1524,1135,95,172",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1524,1135,95,172/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-41",
+            "sort": [
+                "04-00596"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "東門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-42",
+        "_index": "main",
+        "_source": {
+            "_label": "襄陽城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1136,1150,239,114",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1136,1150,239,114/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-42",
+            "sort": [
+                "04-00597"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "襄陽城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-43",
+        "_index": "main",
+        "_source": {
+            "_label": "大城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=876,1074,110,148",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/876,1074,110,148/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-43",
+            "sort": [
+                "04-00598"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "大城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-44",
+        "_index": "main",
+        "_source": {
+            "_label": "羊祜碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1431,1440,90,181",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1431,1440,90,181/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-44",
+            "sort": [
+                "04-00599"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "羊祜碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-45",
+        "_index": "main",
+        "_source": {
+            "_label": "杜預碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1375,1440,80,176",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1375,1440,80,176/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-45",
+            "sort": [
+                "04-00600"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "杜預碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-46",
+        "_index": "main",
+        "_source": {
+            "_label": "劉儼碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1295,1440,92,181",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1295,1440,92,181/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-46",
+            "sort": [
+                "04-00601"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "劉儼碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-47",
+        "_index": "main",
+        "_source": {
+            "_label": "道",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1196,1559,95,88",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1196,1559,95,88/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-47",
+            "sort": [
+                "04-00602"
+            ],
+            "備考": [
+                "「……」で表記される。"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "道"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-48",
+        "_index": "main",
+        "_source": {
+            "_label": "南門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1181,1662,146,97",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1181,1662,146,97/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-48",
+            "sort": [
+                "04-00603"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "南門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-49",
+        "_index": "main",
+        "_source": {
+            "_label": "大城西壘",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=782,872,71,240",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/782,872,71,240/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-49",
+            "sort": [
+                "04-00604"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "大城西壘"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-50",
+        "_index": "main",
+        "_source": {
+            "_label": "杜預沈碑處",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=341,728,192,120",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/341,728,192,120/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-50",
+            "sort": [
+                "04-00605"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "杜預沈碑處"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-51",
+        "_index": "main",
+        "_source": {
+            "_label": "漢皋",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=225,691,118,80",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/225,691,118,80/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-51",
+            "sort": [
+                "04-00606"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "漢皋"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-52",
+        "_index": "main",
+        "_source": {
+            "_label": "潭",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=290,794,71,84",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/290,794,71,84/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-52",
+            "sort": [
+                "04-00607"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "潭"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-53",
+        "_index": "main",
+        "_source": {
+            "_label": "鄒恢碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=20,697,200,84",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/20,697,200,84/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-53",
+            "sort": [
+                "04-00608"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "鄒恢碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-54",
+        "_index": "main",
+        "_source": {
+            "_label": "萬山",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=178,788,90,142",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/178,788,90,142/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-54",
+            "sort": [
+                "04-00609"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "萬山"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                4
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-55",
+        "_index": "main",
+        "_source": {
+            "_label": "徐元直崔州平故宅",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=481,969,207,202",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/481,969,207,202/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-55",
+            "sort": [
+                "04-00610"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "徐元直崔州平故宅"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-56",
+        "_index": "main",
+        "_source": {
+            "_label": "檀溪寺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=712,1169,164,95",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/712,1169,164,95/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-56",
+            "sort": [
+                "04-00611"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "檀溪寺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-57",
+        "_index": "main",
+        "_source": {
+            "_label": "檀溪水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=462,1182,217,92",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/462,1182,217,92/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-57",
+            "sort": [
+                "04-00612"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "檀溪水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-58",
+        "_index": "main",
+        "_source": {
+            "_label": "漢陰臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=701,1288,95,232",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/701,1288,95,232/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-58",
+            "sort": [
+                "04-00613"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "漢陰臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-59",
+        "_index": "main",
+        "_source": {
+            "_label": "鴨湖",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=572,1348,90,172",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/572,1348,90,172/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-59",
+            "sort": [
+                "04-00614"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "鴨湖"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-60",
+        "_index": "main",
+        "_source": {
+            "_label": "柳子山",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=249,1236,213,90",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/249,1236,213,90/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-60",
+            "sort": [
+                "04-00615"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "柳子山"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                4
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-61",
+        "_index": "main",
+        "_source": {
+            "_label": "襄陽湖水上水鴨湖",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=686,1669,360,530",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/686,1669,360,530/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-61",
+            "sort": [
+                "04-00616"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "襄陽湖水上水鴨湖"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-62",
+        "_index": "main",
+        "_source": {
+            "_label": "馬鞍山",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=275,1852,217,86",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/275,1852,217,86/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-62",
+            "sort": [
+                "04-00617"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "馬鞍山"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                4
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-63",
+        "_index": "main",
+        "_source": {
+            "_label": "即楚望山",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=251,1921,243,88",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/251,1921,243,88/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-63",
+            "sort": [
+                "04-00618"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "即楚望山"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                4
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-64",
+        "_index": "main",
+        "_source": {
+            "_label": "習郁墓",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1220,2506,210,94",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1220,2506,210,94/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-64",
+            "sort": [
+                "04-00619"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "習郁墓"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-65",
+        "_index": "main",
+        "_source": {
+            "_label": "白馬陂",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1057,2500,82,207",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1057,2500,82,207/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-65",
+            "sort": [
+                "04-00620"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "白馬陂"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-66",
+        "_index": "main",
+        "_source": {
+            "_label": "石洑逗",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1441,2704,80,223",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1441,2704,80,223/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-66",
+            "sort": [
+                "04-00621"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "石洑逗"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-67",
+        "_index": "main",
+        "_source": {
+            "_label": "釣臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1240,2681,161,98",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1240,2681,161,98/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-67",
+            "sort": [
+                "04-00622"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "釣臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-68",
+        "_index": "main",
+        "_source": {
+            "_label": "習郁大魚池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1189,2777,203,145",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1189,2777,203,145/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-68",
+            "sort": [
+                "04-00623"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "習郁大魚池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTXY(a)0-69",
+        "_index": "main",
+        "_source": {
+            "_label": "即楚北津戍",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=718,873,129,287",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/718,873,129,287/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTXY(a)0-69",
+            "sort": [
+                "04-00624"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "襄陽城図"
+            ],
+            "地名/記述": [
+                "即楚北津戍"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    }
+]

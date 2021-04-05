@@ -1,0 +1,3431 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/a47cddf2979d5c7fd527d8336a98affc/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "jouzu13_sanin",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1906,955,159,86",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-01",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00713"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "靈氾"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1906,955,159,86/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1891,1037,208,137",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-02",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00714"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "地道通於震澤"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1891,1037,208,137/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1777,1009,92,97",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-03",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00715"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "郭"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1777,1009,92,97/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1693,1142,137,77",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-04",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00716"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "甘滂"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1693,1142,137,77/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1702,1245,131,75",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-05",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00717"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "明里"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1702,1245,131,75/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1668,1310,204,161",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-06",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00718"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "句踐所立宗廟"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1668,1310,204,161/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=2225,1295,88,183",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-07",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00719"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "炭瀆"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/2225,1295,88,183/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=2190,1484,99,189",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-08",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00720"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "練塘里"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/2190,1484,99,189/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=2130,1654,90,77",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-09",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00721"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "湖"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/2130,1654,90,77/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=2229,1759,86,120",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-10",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00722"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "銅穴"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/2229,1759,86,120/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=2111,1734,137,79",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-11",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00723"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "冶官"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/2111,1734,137,79/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=2130,1850,168,75",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-12",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00724"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "銅牛山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/2130,1850,168,75/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1982,1512,69,161",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-13",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00725"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "楊埭"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1982,1512,69,161/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1898,1519,88,153",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-14",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00726"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "楊亭"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1898,1519,88,153/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1831,1660,215,86",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-15",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00727"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "弘訓里"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1831,1660,215,86/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1934,1746,144,73",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-16",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00728"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "湖塘"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1934,1746,144,73/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1799,1858,193,77",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-17",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00729"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "白鹿山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1799,1858,193,77/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1672,1499,150,350",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-18",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00730"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "玉笥竹林雲門天柱精舎"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1672,1499,150,350/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1070,613,161,103",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-19",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00731"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "雷門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1070,613,161,103/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1098,725,137,88",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-20",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00732"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "門樓"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1098,725,137,88/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1096,820,144,88",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-21",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00733"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "雙闕"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1096,820,144,88/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1104,895,133,60",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-22",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00734"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "北門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1104,895,133,60/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=805,826,213,101",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-23",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00735"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "文種墓"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/805,826,213,101/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1014,947,346,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-24",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00736"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "越王句踐都"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1014,947,346,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=771,1082,137,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-25",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00737"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "西門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/771,1082,137,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1076,1078,146,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-26",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00738"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "埤中"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1076,1078,146,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1059,1153,185,82",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-27",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00739"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "康樂里"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1059,1153,185,82/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1068,1230,150,71",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-28",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00740"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "邑中"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1068,1230,150,71/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=670,671,90,196",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-29",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00741"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "白樓亭"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/670,671,90,196/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=558,852,116,75",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-30",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00742"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "重山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/558,852,116,75/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=666,977,69,137",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-31",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00743"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "靈臺"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/666,977,69,137/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=612,955,71,161",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-32",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00744"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "三層樓"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/612,955,71,161/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=573,1151,161,71",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-33",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00745"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "怪山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/573,1151,161,71/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=476,1205,279,79",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-34",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00746"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "一名自來山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/476,1205,279,79/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=532,1273,219,86",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-35",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00747"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "亦曰龜山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/532,1273,219,86/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=2134,1951,150,299",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-36",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00748"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "湖水東注江通海"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/2134,1951,150,299/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1685,2091,157,97",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-37",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00749"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "大湖"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1685,2091,157,97/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1212,1759,189,79",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-38",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00750"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "鹿野山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1212,1759,189,79/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1177,1863,260,94",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-39",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00751"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "越之糜苑"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1177,1863,260,94/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1012,1703,198,103",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-40",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00752"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "陳音山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1012,1703,198,103/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=859,1815,297,94",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-41",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00753"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "射堂邸舎"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/859,1815,297,94/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1197,2058,144,94",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-42",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00754"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "侯山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1197,2058,144,94/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=812,1981,157,82",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-44",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00756"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "長湖"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/812,1981,157,82/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=274,1931,219,196",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-45",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00757"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "沿湖開水門六十九所"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/274,1931,219,196/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1743,2351,84,198",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-46",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00758"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "鄭公泉"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1743,2351,84,198/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1799,2497,144,155",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-47",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00759"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "寒溪"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1799,2497,144,155/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1448,2260,187,88",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-48",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00760"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "石帆山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1448,2260,187,88/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1532,2383,137,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-49",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00761"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "精廬"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1532,2383,137,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1349,2357,137,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-50",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00762"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "寒泉"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1349,2357,137,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=982,2183,327,101",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-51",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00763"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "舊社稷宗廟"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/982,2183,327,101/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=689,2172,125,101",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-52",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00764"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "賀臺"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/689,2172,125,101/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=786,2256,200,80",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-53",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00765"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "鼓吹山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/786,2256,200,80/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=225,2258,325,86",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-54",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00766"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "越王允常冢"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/225,2258,325,86/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=270,2338,198,78",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-55",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00767"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "木客村"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/270,2338,198,78/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=642,2409,196,94",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-56",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00768"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "覆㪷山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/642,2409,196,94/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1440,2506,176,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-57",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00769"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "射的山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1440,2506,176,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1330,2465,116,86",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-58",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00770"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "射堂"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1330,2465,116,86/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1369,2624,172,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-59",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00771"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "石匱山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1369,2624,172,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1167,2316,88,137",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-60",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00772"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "禹冢"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1167,2316,88,137/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1257,2536,79,150",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-61",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00773"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "禹井"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 30
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1257,2536,79,150/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1171,2542,73,144",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-62",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00774"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "禹廟"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1171,2542,73,144/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=932,2381,223,103",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-63",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00775"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "會稽山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/932,2381,223,103/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=932,2458,211,67",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-64",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00776"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "古防山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/932,2458,211,67/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=881,2510,258,75",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-65",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00777"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "一名茅山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/881,2510,258,75/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=885,2572,273,73",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-66",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00778"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "又曰棟山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/885,2572,273,73/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=883,2639,279,93",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-67",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00779"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "即覆釜山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/883,2639,279,93/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1442,2724,180,202",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-68",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00780"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "若邪溪"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1442,2724,180,202/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1214,2758,187,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-69",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00781"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "秦望山"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1214,2758,187,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1309,2963,161,82",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-70",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00782"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "麻潭"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1309,2963,161,82/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1051,2862,183,73",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-71",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00783"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "嶕峴"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 4
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1051,2862,183,73/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1010,2945,230,131",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-72",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00784"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "越王無餘舊都"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1010,2945,230,131/200,/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "jouzu13_sanin"
+            }
+        }
+    ]
+}

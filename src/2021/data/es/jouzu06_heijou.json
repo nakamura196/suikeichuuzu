@@ -1,0 +1,2544 @@
+[
+    {
+        "_id": "CTPC(a)0-01",
+        "_index": "main",
+        "_source": {
+            "_label": "魏高祖陵",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1570,67,81,191",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1570,67,81,191/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-01",
+            "sort": [
+                "04-00401"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "魏高祖陵"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-02",
+        "_index": "main",
+        "_source": {
+            "_label": "魏文明太后陵",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1489,32,77,228",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1489,32,77,228/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-02",
+            "sort": [
+                "04-00402"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "魏文明太后陵"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-03",
+        "_index": "main",
+        "_source": {
+            "_label": "永固堂",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1586,264,175,65",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1586,264,175,65/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-03",
+            "sort": [
+                "04-00403"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "永固堂"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-04",
+        "_index": "main",
+        "_source": {
+            "_label": "方山",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1485,329,121,69",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1485,329,121,69/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-04",
+            "sort": [
+                "04-00404"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "方山"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-05",
+        "_index": "main",
+        "_source": {
+            "_label": "如渾水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1354,32,107,220",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1354,32,107,220/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-05",
+            "sort": [
+                "04-00405"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "如渾水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-06",
+        "_index": "main",
+        "_source": {
+            "_label": "靈泉池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1670,403,200,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1670,403,200,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-06",
+            "sort": [
+                "04-00406"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "靈泉池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-07",
+        "_index": "main",
+        "_source": {
+            "_label": "舊名白楊泉",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1628,460,310,95",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1628,460,310,95/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-07",
+            "sort": [
+                "04-00407"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "舊名白楊泉"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-08",
+        "_index": "main",
+        "_source": {
+            "_label": "枝津",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1477,443,101,79",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1477,443,101,79/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-08",
+            "sort": [
+                "04-00408"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "枝津"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-09",
+        "_index": "main",
+        "_source": {
+            "_label": "北宮",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1291,554,147,89",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1291,554,147,89/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-09",
+            "sort": [
+                "04-00409"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "北宮"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-10",
+        "_index": "main",
+        "_source": {
+            "_label": "北苑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1435,712,165,83",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1435,712,165,83/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-10",
+            "sort": [
+                "04-00410"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "北苑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-11",
+        "_index": "main",
+        "_source": {
+            "_label": "北苑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=397,955,179,83",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/397,955,179,83/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-11",
+            "sort": [
+                "04-00411"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "北苑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-12",
+        "_index": "main",
+        "_source": {
+            "_label": "白登臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1509,834,196,95",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1509,834,196,95/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-12",
+            "sort": [
+                "04-00412"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "白登臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-13",
+        "_index": "main",
+        "_source": {
+            "_label": "白登山",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1507,963,202,89",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1507,963,202,89/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-13",
+            "sort": [
+                "04-00413"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "白登山"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-14",
+        "_index": "main",
+        "_source": {
+            "_label": "池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=467,1149,91,75",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/467,1149,91,75/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-14",
+            "sort": [
+                "04-00414"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-15",
+        "_index": "main",
+        "_source": {
+            "_label": "沼",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=378,1197,83,85",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/378,1197,83,85/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-15",
+            "sort": [
+                "04-00415"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "沼"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-16",
+        "_index": "main",
+        "_source": {
+            "_label": "虎圏",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=298,1357,153,91",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/298,1357,153,91/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-16",
+            "sort": [
+                "04-00416"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "虎圏"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-17",
+        "_index": "main",
+        "_source": {
+            "_label": "北魏舊京城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1054,1181,371,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1054,1181,371,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-17",
+            "sort": [
+                "04-00417"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "北魏舊京城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-18",
+        "_index": "main",
+        "_source": {
+            "_label": "兩石柱",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1513,1282,89,200",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1513,1282,89,200/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-18",
+            "sort": [
+                "04-00418"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "兩石柱"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-19",
+        "_index": "main",
+        "_source": {
+            "_label": "寍先宮",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1420,1274,85,206",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1420,1274,85,206/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-19",
+            "sort": [
+                "04-00419"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "寍先宮"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-20",
+        "_index": "main",
+        "_source": {
+            "_label": "靜輪宮",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1870,1665,105,238",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1870,1665,105,238/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-20",
+            "sort": [
+                "04-00420"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "靜輪宮"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-21",
+        "_index": "main",
+        "_source": {
+            "_label": "大道壇廟",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1850,1961,93,310",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1850,1961,93,310/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-21",
+            "sort": [
+                "04-00421"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "大道壇廟"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-22",
+        "_index": "main",
+        "_source": {
+            "_label": "三層浮圖",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1709,1963,105,286",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1709,1963,105,286/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-22",
+            "sort": [
+                "04-00422"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "三層浮圖"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-23",
+        "_index": "main",
+        "_source": {
+            "_label": "平城故城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1181,1522,288,107",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1181,1522,288,107/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-23",
+            "sort": [
+                "04-00423"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "平城故城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-24",
+        "_index": "main",
+        "_source": {
+            "_label": "端門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1487,1631,145,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1487,1631,145,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-24",
+            "sort": [
+                "04-00424"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "端門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-25",
+        "_index": "main",
+        "_source": {
+            "_label": "中陽門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1249,1633,177,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1249,1633,177,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-25",
+            "sort": [
+                "04-00425"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "中陽門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-26",
+        "_index": "main",
+        "_source": {
+            "_label": "乾元門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1011,1635,196,77",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1011,1635,196,77/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-26",
+            "sort": [
+                "04-00426"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "乾元門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-27",
+        "_index": "main",
+        "_source": {
+            "_label": "東掖門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1580,1719,81,230",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1580,1719,81,230/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-27",
+            "sort": [
+                "04-00427"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "東掖門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-28",
+        "_index": "main",
+        "_source": {
+            "_label": "雲龍門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1586,2002,85,218",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1586,2002,85,218/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-28",
+            "sort": [
+                "04-00428"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "雲龍門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-29",
+        "_index": "main",
+        "_source": {
+            "_label": "紫宮寺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1473,1808,77,260",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1473,1808,77,260/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-29",
+            "sort": [
+                "04-00429"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "紫宮寺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-30",
+        "_index": "main",
+        "_source": {
+            "_label": "碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1425,1867,67,95",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1425,1867,67,95/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-30",
+            "sort": [
+                "04-00430"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-31",
+        "_index": "main",
+        "_source": {
+            "_label": "東階",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1372,1838,69,159",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1372,1838,69,159/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-31",
+            "sort": [
+                "04-00431"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "東階"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-32",
+        "_index": "main",
+        "_source": {
+            "_label": "太和殿",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1304,1808,81,198",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1304,1808,81,198/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-32",
+            "sort": [
+                "04-00432"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "太和殿"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-33",
+        "_index": "main",
+        "_source": {
+            "_label": "東堂",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1261,1834,67,167",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1261,1834,67,167/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-33",
+            "sort": [
+                "04-00433"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "東堂"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-34",
+        "_index": "main",
+        "_source": {
+            "_label": "太極殿",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1185,1810,87,212",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1185,1810,87,212/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-34",
+            "sort": [
+                "04-00434"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "太極殿"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-35",
+        "_index": "main",
+        "_source": {
+            "_label": "西堂",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1126,1856,73,143",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1126,1856,73,143/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-35",
+            "sort": [
+                "04-00435"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "西堂"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-36",
+        "_index": "main",
+        "_source": {
+            "_label": "朝堂",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1154,2002,157,77",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1154,2002,157,77/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-36",
+            "sort": [
+                "04-00436"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "朝堂"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-37",
+        "_index": "main",
+        "_source": {
+            "_label": "象魏",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1261,2062,95,143",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1261,2062,95,143/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-37",
+            "sort": [
+                "04-00437"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "象魏"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-38",
+        "_index": "main",
+        "_source": {
+            "_label": "象魏",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1130,2078,81,145",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1130,2078,81,145/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-38",
+            "sort": [
+                "04-00438"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "象魏"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-39",
+        "_index": "main",
+        "_source": {
+            "_label": "西掖門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=953,1709,79,212",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/953,1709,79,212/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-39",
+            "sort": [
+                "04-00439"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "西掖門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-40",
+        "_index": "main",
+        "_source": {
+            "_label": "神虎門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=957,1981,95,236",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/957,1981,95,236/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-40",
+            "sort": [
+                "04-00440"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "神虎門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-41",
+        "_index": "main",
+        "_source": {
+            "_label": "承賢門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1443,2231,208,95",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1443,2231,208,95/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-41",
+            "sort": [
+                "04-00441"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "承賢門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-42",
+        "_index": "main",
+        "_source": {
+            "_label": "中華門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1227,2227,195,97",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1227,2227,195,97/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-42",
+            "sort": [
+                "04-00442"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "中華門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-43",
+        "_index": "main",
+        "_source": {
+            "_label": "皇信堂",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1529,2336,173,91",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1529,2336,173,91/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-43",
+            "sort": [
+                "04-00443"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "皇信堂"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-44",
+        "_index": "main",
+        "_source": {
+            "_label": "白臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1487,2467,147,81",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1487,2467,147,81/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-44",
+            "sort": [
+                "04-00444"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "白臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-45",
+        "_index": "main",
+        "_source": {
+            "_label": "朱明閣",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1251,2413,212,95",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1251,2413,212,95/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-45",
+            "sort": [
+                "04-00445"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "朱明閣"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-46",
+        "_index": "main",
+        "_source": {
+            "_label": "御路",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1169,2592,177,97",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1169,2592,177,97/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-46",
+            "sort": [
+                "04-00446"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "御路"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-47",
+        "_index": "main",
+        "_source": {
+            "_label": "蓬臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1358,2608,123,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1358,2608,123,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-47",
+            "sort": [
+                "04-00447"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "蓬臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-48",
+        "_index": "main",
+        "_source": {
+            "_label": "白樓",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1360,2677,125,67",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1360,2677,125,67/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-48",
+            "sort": [
+                "04-00448"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "白樓"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-49",
+        "_index": "main",
+        "_source": {
+            "_label": "皇舅寺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1364,2731,145,83",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1364,2731,145,83/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-49",
+            "sort": [
+                "04-00449"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "皇舅寺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-50",
+        "_index": "main",
+        "_source": {
+            "_label": "永寍七級浮圖",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1346,2733,363,161",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1346,2733,363,161/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-50",
+            "sort": [
+                "04-00450"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "永寍七級浮圖"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-51",
+        "_index": "main",
+        "_source": {
+            "_label": "東皋",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=2142,1953,141,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/2142,1953,141,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-51",
+            "sort": [
+                "04-00451"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "東皋"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-52",
+        "_index": "main",
+        "_source": {
+            "_label": "東郭",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=2029,1963,83,198",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/2029,1963,83,198/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-52",
+            "sort": [
+                "04-00452"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "東郭"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-53",
+        "_index": "main",
+        "_source": {
+            "_label": "鉗耳慶時所立祗洹舎",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=2124,2058,159,343",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/2124,2058,159,343/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-53",
+            "sort": [
+                "04-00453"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "鉗耳慶時所立祗洹舎"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-54",
+        "_index": "main",
+        "_source": {
+            "_label": "西郭",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=334,1484,99,159",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/334,1484,99,159/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-54",
+            "sort": [
+                "04-00454"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "西郭"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-55",
+        "_index": "main",
+        "_source": {
+            "_label": "郊天碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=237,1480,95,210",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/237,1480,95,210/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-55",
+            "sort": [
+                "04-00455"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "郊天碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-56",
+        "_index": "main",
+        "_source": {
+            "_label": "郊天壇",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=141,1490,91,216",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/141,1490,91,216/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-56",
+            "sort": [
+                "04-00456"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "郊天壇"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-57",
+        "_index": "main",
+        "_source": {
+            "_label": "籍田",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1943,2737,87,145",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1943,2737,87,145/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-57",
+            "sort": [
+                "04-00457"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "籍田"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-58",
+        "_index": "main",
+        "_source": {
+            "_label": "藥圃",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1848,2798,77,167",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1848,2798,77,167/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-58",
+            "sort": [
+                "04-00458"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "藥圃"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-59",
+        "_index": "main",
+        "_source": {
+            "_label": "靈臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1717,2784,121,69",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1717,2784,121,69/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-59",
+            "sort": [
+                "04-00459"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "靈臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-60",
+        "_index": "main",
+        "_source": {
+            "_label": "辟雍明堂",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1703,2850,133,135",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1703,2850,133,135/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-60",
+            "sort": [
+                "04-00460"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "辟雍明堂"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-61",
+        "_index": "main",
+        "_source": {
+            "_label": "郊郭",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1245,2953,187,111",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1245,2953,187,111/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-61",
+            "sort": [
+                "04-00461"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "郊郭"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTPC(a)0-62",
+        "_index": "main",
+        "_source": {
+            "_label": "枝津",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1116,713,194,122",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1116,713,194,122/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTPC(a)0-62",
+            "sort": [
+                "04-00462"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "平城図"
+            ],
+            "地名/記述": [
+                "枝津"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    }
+]

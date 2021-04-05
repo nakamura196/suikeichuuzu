@@ -1,0 +1,1139 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/c9406bab532db460ff8c119d69ad5984/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "jouzu07_keijou",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=221,388,249,98",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-01",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00463"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "高梁水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/221,388,249,98/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=61,369,113,154",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-02",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00464"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "平地"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/61,369,113,154/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=524,555,191,120",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-03",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00465"
+                        },
+                        {
+                            "label": "備考",
+                            "value": "「……」で表記される。"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "伏道"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/524,555,191,120/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=221,545,160,101",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-04",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00466"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "大陵"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/221,545,160,101/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=209,620,202,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-05",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00467"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "燕王陵"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/209,620,202,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=649,796,96,127",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-06",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00468"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "平地"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/649,796,96,127/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=550,749,96,204",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-07",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00469"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "薊水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/550,749,96,204/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=391,983,96,148",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-08",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00470"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "西湖"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/391,983,96,148/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=363,1123,170,176",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-09",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00471"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "燕之舊池"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/363,1123,170,176/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=78,771,150,180",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-10",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00472"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "㶟水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/78,771,150,180/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=1613,1464,146,99",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-11",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00473"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "東門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/1613,1464,146,99/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=1461,1327,144,212",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-12",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00474"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "曹魏劉靖碑"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/1461,1327,144,212/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=1482,1544,88,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-13",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00475"
+                        },
+                        {
+                            "label": "備考",
+                            "value": "「……」で表記される。"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "道"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/1482,1544,88,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=1358,1413,105,449",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-14",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00476"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "慕容儁銅馬像"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/1358,1413,105,449/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=746,1020,90,172",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-15",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00477"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "薊邱"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/746,1020,90,172/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=1263,1441,92,234",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-16",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00478"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "東掖門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/1263,1441,92,234/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=1074,1436,148,243",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-17",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00479"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "萬載宮明光殿"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/1074,1436,148,243/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=1074,1986,159,101",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-18",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00480"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "南門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/1074,1986,159,101/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=999,2102,356,96",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-19",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00481"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "銚期奮戟處"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/999,2102,356,96/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=1815,2102,178,94",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-20",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00482"
+                        },
+                        {
+                            "label": "備考",
+                            "value": "「……」で表記される。"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "伏道"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/1815,2102,178,94/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=2047,2309,112,236",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-21",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00483"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "燕王陵"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/2047,2309,112,236/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=1182,2287,243,114",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-22",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00484"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "洗馬溝"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/1182,2287,243,114/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=2019,2931,182,120",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-23",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00485"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "㶟水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/2019,2931,182,120/200,/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "jouzu07_keijou"
+            }
+        }
+    ]
+}

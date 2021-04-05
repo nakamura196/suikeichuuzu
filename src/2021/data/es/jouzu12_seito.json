@@ -1,0 +1,1440 @@
+[
+    {
+        "_id": "CTCD(a)0-01",
+        "_index": "main",
+        "_source": {
+            "_label": "昇僊橋",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1155,400,217,100",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1155,400,217,100/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-01",
+            "sort": [
+                "04-00678"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "昇僊橋"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                29
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-02",
+        "_index": "main",
+        "_source": {
+            "_label": "送客觀",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1150,523,219,99",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1150,523,219,99/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-02",
+            "sort": [
+                "04-00679"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "送客觀"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-03",
+        "_index": "main",
+        "_source": {
+            "_label": "郫江",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=441,451,178,134",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/441,451,178,134/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-03",
+            "sort": [
+                "04-00680"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "郫江"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-04",
+        "_index": "main",
+        "_source": {
+            "_label": "檢江",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=221,545,121,157",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/221,545,121,157/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-04",
+            "sort": [
+                "04-00681"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "檢江"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-05",
+        "_index": "main",
+        "_source": {
+            "_label": "江水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=15,61,140,66",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/15,61,140,66/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-05",
+            "sort": [
+                "04-00682"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "江水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-06",
+        "_index": "main",
+        "_source": {
+            "_label": "萬頃池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1171,613,193,83",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1171,613,193,83/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-06",
+            "sort": [
+                "04-00683"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "萬頃池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-07",
+        "_index": "main",
+        "_source": {
+            "_label": "龍隄池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1132,826,227,74",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1132,826,227,74/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-07",
+            "sort": [
+                "04-00684"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "龍隄池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-08",
+        "_index": "main",
+        "_source": {
+            "_label": "千秋池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1678,1201,93,206",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1678,1201,93,206/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-08",
+            "sort": [
+                "04-00685"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "千秋池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-09",
+        "_index": "main",
+        "_source": {
+            "_label": "成都",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1305,1126,168,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1305,1126,168,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-09",
+            "sort": [
+                "04-00686"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "成都"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-10",
+        "_index": "main",
+        "_source": {
+            "_label": "大城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1308,1237,165,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1308,1237,165,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-10",
+            "sort": [
+                "04-00687"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "大城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-11",
+        "_index": "main",
+        "_source": {
+            "_label": "文翁講堂",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1313,1400,157,168",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1313,1400,157,168/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-11",
+            "sort": [
+                "04-00688"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "文翁講堂"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-12",
+        "_index": "main",
+        "_source": {
+            "_label": "南門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1311,1612,157,90",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1311,1612,157,90/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-12",
+            "sort": [
+                "04-00689"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "南門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-13",
+        "_index": "main",
+        "_source": {
+            "_label": "少城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=948,1121,160,105",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/948,1121,160,105/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-13",
+            "sort": [
+                "04-00690"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "少城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-14",
+        "_index": "main",
+        "_source": {
+            "_label": "西門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=892,1281,144,100",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/892,1281,144,100/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-14",
+            "sort": [
+                "04-00691"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "西門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-15",
+        "_index": "main",
+        "_source": {
+            "_label": "石牛門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=886,1519,178,90",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/886,1519,178,90/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-15",
+            "sort": [
+                "04-00692"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "石牛門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-16",
+        "_index": "main",
+        "_source": {
+            "_label": "天井池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=731,896,129,126",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/731,896,129,126/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-16",
+            "sort": [
+                "04-00693"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "天井池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-17",
+        "_index": "main",
+        "_source": {
+            "_label": "柳池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=747,1154,100,147",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/747,1154,100,147/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-17",
+            "sort": [
+                "04-00694"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "柳池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-18",
+        "_index": "main",
+        "_source": {
+            "_label": "長昇橋",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=587,930,77,220",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/587,930,77,220/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-18",
+            "sort": [
+                "04-00695"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "長昇橋"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                29
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-19",
+        "_index": "main",
+        "_source": {
+            "_label": "沖治橋",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=626,1312,151,140",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/626,1312,151,140/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-19",
+            "sort": [
+                "04-00696"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "沖治橋"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                29
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-20",
+        "_index": "main",
+        "_source": {
+            "_label": "江橋",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1320,1735,179,84",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1320,1735,179,84/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-20",
+            "sort": [
+                "04-00697"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "江橋"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                29
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-21",
+        "_index": "main",
+        "_source": {
+            "_label": "石犀",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=667,1543,138,84",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/667,1543,138,84/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-21",
+            "sort": [
+                "04-00698"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "石犀"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-22",
+        "_index": "main",
+        "_source": {
+            "_label": "石犀里",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=647,1657,185,84",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/647,1657,185,84/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-22",
+            "sort": [
+                "04-00699"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "石犀里"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-23",
+        "_index": "main",
+        "_source": {
+            "_label": "石犀淵",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=520,1497,144,146",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/520,1497,144,146/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-23",
+            "sort": [
+                "04-00700"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "石犀淵"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-24",
+        "_index": "main",
+        "_source": {
+            "_label": "市橋",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=395,1504,97,172",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/395,1504,97,172/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-24",
+            "sort": [
+                "04-00701"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "市橋"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                29
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-25",
+        "_index": "main",
+        "_source": {
+            "_label": "石犀渠",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=647,1765,185,105",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/647,1765,185,105/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-25",
+            "sort": [
+                "04-00702"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "石犀渠"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-26",
+        "_index": "main",
+        "_source": {
+            "_label": "北江",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1652,1944,82,146",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1652,1944,82,146/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-26",
+            "sort": [
+                "04-00703"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "北江"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-27",
+        "_index": "main",
+        "_source": {
+            "_label": "南江",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1551,2228,149,125",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1551,2228,149,125/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-27",
+            "sort": [
+                "04-00704"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "南江"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-28",
+        "_index": "main",
+        "_source": {
+            "_label": "萬里橋",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1281,1924,207,105",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1281,1924,207,105/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-28",
+            "sort": [
+                "04-00705"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "萬里橋"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                29
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-29",
+        "_index": "main",
+        "_source": {
+            "_label": "笮橋",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1417,2148,153,86",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1417,2148,153,86/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-29",
+            "sort": [
+                "04-00706"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "笮橋"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                29
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-30",
+        "_index": "main",
+        "_source": {
+            "_label": "夷里橋",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1020,1894,224,108",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1020,1894,224,108/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-30",
+            "sort": [
+                "04-00707"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "夷里橋"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                29
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-31",
+        "_index": "main",
+        "_source": {
+            "_label": "學堂後移此",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1232,2116,149,246",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1232,2116,149,246/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-31",
+            "sort": [
+                "04-00708"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "學堂後移此"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-32",
+        "_index": "main",
+        "_source": {
+            "_label": "道",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1089,2088,105,84",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1089,2088,105,84/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-32",
+            "sort": [
+                "04-00709"
+            ],
+            "備考": [
+                "「……」で表記される。"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "道"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-33",
+        "_index": "main",
+        "_source": {
+            "_label": "錦官城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=809,2071,211,82",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/809,2071,211,82/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-33",
+            "sort": [
+                "04-00710"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "錦官城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-34",
+        "_index": "main",
+        "_source": {
+            "_label": "錦里",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=854,2144,151,95",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/854,2144,151,95/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-34",
+            "sort": [
+                "04-00711"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "錦里"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTCD(a)0-35",
+        "_index": "main",
+        "_source": {
+            "_label": "江水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1568,2739,233,86",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1568,2739,233,86/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTCD(a)0-35",
+            "sort": [
+                "04-00712"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "成都橋図"
+            ],
+            "地名/記述": [
+                "江水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    }
+]

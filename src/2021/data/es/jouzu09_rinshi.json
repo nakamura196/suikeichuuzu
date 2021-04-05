@@ -1,0 +1,1109 @@
+[
+    {
+        "_id": "CTLZ(a)0-01",
+        "_index": "main",
+        "_source": {
+            "_label": "北郭",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=922,827,156,98",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/922,827,156,98/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-01",
+            "sort": [
+                "04-00529"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "北郭"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-02",
+        "_index": "main",
+        "_source": {
+            "_label": "東郭",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1741,1589,92,196",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1741,1589,92,196/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-02",
+            "sort": [
+                "04-00530"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "東郭"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-03",
+        "_index": "main",
+        "_source": {
+            "_label": "晏嬰冢宅",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1009,1002,258,87",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1009,1002,258,87/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-03",
+            "sort": [
+                "04-00531"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "晏嬰冢宅"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-04",
+        "_index": "main",
+        "_source": {
+            "_label": "清節里",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1052,1078,203,77",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1052,1078,203,77/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-04",
+            "sort": [
+                "04-00532"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "清節里"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-05",
+        "_index": "main",
+        "_source": {
+            "_label": "梧宮",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=162,935,126,81",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/162,935,126,81/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-05",
+            "sort": [
+                "04-00533"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "梧宮"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-06",
+        "_index": "main",
+        "_source": {
+            "_label": "梧臺里",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=140,1010,198,79",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/140,1010,198,79/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-06",
+            "sort": [
+                "04-00534"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "梧臺里"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-07",
+        "_index": "main",
+        "_source": {
+            "_label": "石社碑",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=32,844,102,207",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/32,844,102,207/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-07",
+            "sort": [
+                "04-00535"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "石社碑"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-08",
+        "_index": "main",
+        "_source": {
+            "_label": "西門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=108,1177,141,94",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/108,1177,141,94/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-08",
+            "sort": [
+                "04-00536"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "西門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-09",
+        "_index": "main",
+        "_source": {
+            "_label": "齊城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1219,1596,164,102",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1219,1596,164,102/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-09",
+            "sort": [
+                "04-00537"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "齊城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-10",
+        "_index": "main",
+        "_source": {
+            "_label": "營城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1224,1691,160,71",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1224,1691,160,71/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-10",
+            "sort": [
+                "04-00538"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "營城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-11",
+        "_index": "main",
+        "_source": {
+            "_label": "北門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=931,1182,144,89",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/931,1182,144,89/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-11",
+            "sort": [
+                "04-00539"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "北門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-12",
+        "_index": "main",
+        "_source": {
+            "_label": "陽門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=500,1385,146,86",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/500,1385,146,86/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-12",
+            "sort": [
+                "04-00540"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "陽門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-13",
+        "_index": "main",
+        "_source": {
+            "_label": "雍門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=499,1650,141,93",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/499,1650,141,93/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-13",
+            "sort": [
+                "04-00541"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "雍門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-14",
+        "_index": "main",
+        "_source": {
+            "_label": "禝門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=493,1915,150,89",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/493,1915,150,89/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-14",
+            "sort": [
+                "04-00542"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "禝門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-15",
+        "_index": "main",
+        "_source": {
+            "_label": "申門",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=616,2116,128,100",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/616,2116,128,100/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-15",
+            "sort": [
+                "04-00543"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "申門"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                34
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-16",
+        "_index": "main",
+        "_source": {
+            "_label": "故臺",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=918,1481,157,102",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/918,1481,157,102/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-16",
+            "sort": [
+                "04-00544"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "故臺"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-17",
+        "_index": "main",
+        "_source": {
+            "_label": "小城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=927,1594,132,84",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/927,1594,132,84/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-17",
+            "sort": [
+                "04-00545"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "小城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-18",
+        "_index": "main",
+        "_source": {
+            "_label": "營邱",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=924,1710,150,86",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/924,1710,150,86/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-18",
+            "sort": [
+                "04-00546"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "營邱"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                16
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-19",
+        "_index": "main",
+        "_source": {
+            "_label": "朱虛侯章廟",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=826,1811,331,105",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/826,1811,331,105/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-19",
+            "sort": [
+                "04-00547"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "朱虛侯章廟"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-20",
+        "_index": "main",
+        "_source": {
+            "_label": "禝下",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=337,1877,93,153",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/337,1877,93,153/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-20",
+            "sort": [
+                "04-00548"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "禝下"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-21",
+        "_index": "main",
+        "_source": {
+            "_label": "申池",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=374,2267,137,71",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/374,2267,137,71/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-21",
+            "sort": [
+                "04-00549"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "申池"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                5
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-22",
+        "_index": "main",
+        "_source": {
+            "_label": "外郭即獻公所徙臨淄城世謂之虜城",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=755,2292,576,173",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/755,2292,576,173/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-22",
+            "sort": [
+                "04-00550"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "外郭即獻公所徙臨淄城世謂之虜城"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-23",
+        "_index": "main",
+        "_source": {
+            "_label": "澠水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1872,2167,153,91",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1872,2167,153,91/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-23",
+            "sort": [
+                "04-00551"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "澠水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-24",
+        "_index": "main",
+        "_source": {
+            "_label": "一名漢溱水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1849,2237,208,155",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1849,2237,208,155/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-24",
+            "sort": [
+                "04-00552"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "一名漢溱水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-25",
+        "_index": "main",
+        "_source": {
+            "_label": "淄水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1762,2820,147,123",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1762,2820,147,123/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-25",
+            "sort": [
+                "04-00553"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "淄水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-26",
+        "_index": "main",
+        "_source": {
+            "_label": "系水",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=262,2808,139,75",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/262,2808,139,75/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-26",
+            "sort": [
+                "04-00554"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "系水"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
+        "_id": "CTLZ(a)0-27",
+        "_index": "main",
+        "_source": {
+            "_label": "一名寒泉",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=230,2877,278,91",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/230,2877,278,91/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTLZ(a)0-27",
+            "sort": [
+                "04-00555"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "臨淄城図"
+            ],
+            "地名/記述": [
+                "一名寒泉"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                1
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    }
+]
