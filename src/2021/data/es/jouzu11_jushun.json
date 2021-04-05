@@ -1971,6 +1971,47 @@
         }
     },
     {
+        "_id": "CTSC(a)0-49",
+        "_index": "main",
+        "_source": {
+            "_label": "東都街",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1569,2437,92,217",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1569,2437,92,217/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSC(a)0-49",
+            "sort": [
+                "04-00673"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "寿春城図"
+            ],
+            "地名/記述": [
+                "東都街"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
         "_id": "CTSC(a)0-50",
         "_index": "main",
         "_source": {

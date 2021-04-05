@@ -2947,6 +2947,18 @@
                 {
                     "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2148,631,81,57",
                     "@type": "sc:Canvas",
+                    "label": "YG(b)0-39",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/YG(b)0-39\">1-001</a> ]<br/>地名/記述：永安<br/>記号：10"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2148,631,81,57/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2119,710,96,61",
+                    "@type": "sc:Canvas",
                     "label": "YG(b)0-40",
                     "metadata": [
                         {
@@ -2954,10 +2966,10 @@
                             "value": "[ <a href=\"https://suikeichu.web.app/item/YG(b)0-40\">1-001</a> ]<br/>地名/記述：平陽<br/>記号：7"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2148,631,81,57/200,/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2119,710,96,61/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2119,710,96,61",
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2110,722,69,49",
                     "@type": "sc:Canvas",
                     "label": "YG(b)0-41",
                     "metadata": [
@@ -2966,7 +2978,7 @@
                             "value": "[ <a href=\"https://suikeichu.web.app/item/YG(b)0-41\">1-001</a> ]<br/>地名/記述：壺口<br/>記号：10"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2119,710,96,61/200,/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2110,722,69,49/200,/0/default.jpg"
                 },
                 {
                     "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2041,625,60,50",

@@ -1722,6 +1722,47 @@
         }
     },
     {
+        "_id": "CTSY(a)0-43",
+        "_index": "main",
+        "_source": {
+            "_label": "塘",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1053,2002,90,77",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1053,2002,90,77/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/CTSY(a)0-43",
+            "sort": [
+                "04-00755"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "山陰城図"
+            ],
+            "地名/記述": [
+                "塘"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "表"
+            ],
+            "記号": [
+                0
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
         "_id": "CTSY(a)0-44",
         "_index": "main",
         "_source": {

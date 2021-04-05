@@ -294,6 +294,13 @@
         "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1197,2058,144,94"
     },
     {
+        "category": 0,
+        "id": "CTSY(a)0-43",
+        "label": "塘",
+        "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json",
+        "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1053,2002,90,77"
+    },
+    {
         "category": 5,
         "id": "CTSY(a)0-44",
         "label": "長湖",

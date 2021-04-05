@@ -593,6 +593,18 @@
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1709,2555,92,93/200,/0/default.jpg"
                 },
                 {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1569,2437,92,217",
+                    "@type": "sc:Canvas",
+                    "label": "CTSC(a)0-49",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTSC(a)0-49\">1-001</a> ]<br/>地名/記述：東都街<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1569,2437,92,217/200,/0/default.jpg"
+                },
+                {
                     "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1552,2708,217,90",
                     "@type": "sc:Canvas",
                     "label": "CTSC(a)0-50",

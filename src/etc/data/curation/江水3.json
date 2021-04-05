@@ -1,0 +1,726 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/江水3/curation.json",
+    "@type": "cr:Curation",
+    "label": "江水3",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/江水3/curation.json/range",
+            "@type": "sc:Range",
+            "label": "Markers",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22138,20779,857,391",
+                    "@type": "sc:Canvas",
+                    "label": "19",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22138,20779,857,391#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22138,20779,857,391",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">19</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=19&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20959,20792,870,391",
+                    "@type": "sc:Canvas",
+                    "label": "19",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20959,20792,870,391#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20959,20792,870,391",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">19</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=19&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20903,22338,1012,417",
+                    "@type": "sc:Canvas",
+                    "label": "20",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20903,22338,1012,417#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20903,22338,1012,417",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">20</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=20&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22069,22338,974,391",
+                    "@type": "sc:Canvas",
+                    "label": "20",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22069,22338,974,391#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22069,22338,974,391",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">20</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=20&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23196,22351,1012,391",
+                    "@type": "sc:Canvas",
+                    "label": "21",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23196,22351,1012,391#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23196,22351,1012,391",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">21</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=21&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24375,22338,974,391",
+                    "@type": "sc:Canvas",
+                    "label": "21",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24375,22338,974,391#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24375,22338,974,391",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">21</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=21&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23278,20805,857,352",
+                    "@type": "sc:Canvas",
+                    "label": "22",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23278,20805,857,352#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23278,20805,857,352",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">22</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=22&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24392,20817,896,352",
+                    "@type": "sc:Canvas",
+                    "label": "22",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24392,20817,896,352#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24392,20817,896,352",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">22</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=22&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25571,20805,883,365",
+                    "@type": "sc:Canvas",
+                    "label": "23",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25571,20805,883,365#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25571,20805,883,365",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">23</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=23&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26723,20792,857,378",
+                    "@type": "sc:Canvas",
+                    "label": "23",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26723,20792,857,378#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26723,20792,857,378",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">23</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=23&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26681,22338,974,391",
+                    "@type": "sc:Canvas",
+                    "label": "24",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26681,22338,974,391#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26681,22338,974,391",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">24</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=24&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25502,22325,1012,429",
+                    "@type": "sc:Canvas",
+                    "label": "24",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25502,22325,1012,429#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25502,22325,1012,429",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">24</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=24&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27873,22377,883,378",
+                    "@type": "sc:Canvas",
+                    "label": "25",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27873,22377,883,378#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27873,22377,883,378",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">25</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=25&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29064,22325,818,429",
+                    "@type": "sc:Canvas",
+                    "label": "25",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29064,22325,818,429#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29064,22325,818,429",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">25</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=25&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29055,20817,792,365",
+                    "@type": "sc:Canvas",
+                    "label": "26",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29055,20817,792,365#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29055,20817,792,365",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">26</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=26&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27954,20792,753,417",
+                    "@type": "sc:Canvas",
+                    "label": "26",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27954,20792,753,417#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27954,20792,753,417",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">26</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=26&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30208,20779,870,404",
+                    "@type": "sc:Canvas",
+                    "label": "27",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30208,20779,870,404#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30208,20779,870,404",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">27</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=27&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31335,20830,883,352",
+                    "@type": "sc:Canvas",
+                    "label": "27",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31335,20830,883,352#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31335,20830,883,352",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">27</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=27&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31348,19224,831,417",
+                    "@type": "sc:Canvas",
+                    "label": "28",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31348,19224,831,417#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31348,19224,831,417",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">28</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=28&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30156,19289,909,365",
+                    "@type": "sc:Canvas",
+                    "label": "28",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30156,19289,909,365#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30156,19289,909,365",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">28</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=28&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30143,17709,922,378",
+                    "@type": "sc:Canvas",
+                    "label": "29",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30143,17709,922,378#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30143,17709,922,378",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">29</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=29&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31309,17709,948,378",
+                    "@type": "sc:Canvas",
+                    "label": "29",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31309,17709,948,378#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31309,17709,948,378",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">29</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=29&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32488,17696,883,391",
+                    "@type": "sc:Canvas",
+                    "label": "30",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32488,17696,883,391#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32488,17696,883,391",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">30</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=30&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33641,17696,896,378",
+                    "@type": "sc:Canvas",
+                    "label": "30",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33641,17696,896,378#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33641,17696,896,378",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">30</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=30&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=35921,17670,948,442",
+                    "@type": "sc:Canvas",
+                    "label": "31",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=35921,17670,948,442#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=35921,17670,948,442",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">31</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=31&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34781,17696,909,404",
+                    "@type": "sc:Canvas",
+                    "label": "31",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34781,17696,909,404#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34781,17696,909,404",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">31</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=31&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "水経注図"
+            }
+        }
+    ],
+    "viewing-hint": "annotation"
+}

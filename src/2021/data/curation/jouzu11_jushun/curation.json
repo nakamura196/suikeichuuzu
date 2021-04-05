@@ -2321,6 +2321,54 @@
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1709,2555,92,93/200,/0/default.jpg"
                 },
                 {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1569,2437,92,217",
+                    "@type": "sc:Canvas",
+                    "label": "CTSC(a)0-49",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00673"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "寿春城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "東都街"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1569,2437,92,217/200,/0/default.jpg"
+                },
+                {
                     "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1552,2708,217,90",
                     "@type": "sc:Canvas",
                     "label": "CTSC(a)0-50",

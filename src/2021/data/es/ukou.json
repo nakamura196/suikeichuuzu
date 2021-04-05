@@ -10007,13 +10007,54 @@
         }
     },
     {
+        "_id": "YG(b)0-39",
+        "_index": "main",
+        "_source": {
+            "_label": "永安",
+            "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2148,631,81,57",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2148,631,81,57/200,/0/default.jpg",
+            "_url": "https://suikeichu.web.app/item/YG(b)0-39",
+            "sort": [
+                "05-00245"
+            ],
+            "冊": [
+                8
+            ],
+            "区画南北": [
+                0
+            ],
+            "区画東西": [
+                0
+            ],
+            "図": [
+                "禹貢山水澤地所在"
+            ],
+            "地名/記述": [
+                "永安"
+            ],
+            "墨朱": [
+                "墨"
+            ],
+            "表裏": [
+                "裏"
+            ],
+            "記号": [
+                10
+            ],
+            "詳細区画": [
+                0
+            ]
+        }
+    },
+    {
         "_id": "YG(b)0-40",
         "_index": "main",
         "_source": {
             "_label": "平陽",
             "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
-            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2148,631,81,57",
-            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2148,631,81,57/200,/0/default.jpg",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2119,710,96,61",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2119,710,96,61/200,/0/default.jpg",
             "_url": "https://suikeichu.web.app/item/YG(b)0-40",
             "sort": [
                 "05-00246"
@@ -10053,8 +10094,8 @@
         "_source": {
             "_label": "壺口",
             "_manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
-            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2119,710,96,61",
-            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2119,710,96,61/200,/0/default.jpg",
+            "_member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2110,722,69,49",
+            "_thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2110,722,69,49/200,/0/default.jpg",
             "_url": "https://suikeichu.web.app/item/YG(b)0-41",
             "sort": [
                 "05-00247"

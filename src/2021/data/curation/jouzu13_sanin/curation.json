@@ -2029,6 +2029,54 @@
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1197,2058,144,94/200,/0/default.jpg"
                 },
                 {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1053,2002,90,77",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-43",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00755"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "山陰城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "塘"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1053,2002,90,77/200,/0/default.jpg"
+                },
+                {
                     "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=812,1981,157,82",
                     "@type": "sc:Canvas",
                     "label": "CTSY(a)0-44",

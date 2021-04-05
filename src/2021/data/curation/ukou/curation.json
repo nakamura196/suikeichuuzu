@@ -11731,6 +11731,54 @@
                 {
                     "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2148,631,81,57",
                     "@type": "sc:Canvas",
+                    "label": "YG(b)0-39",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "05-00245"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "禹貢山水澤地所在"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "永安"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "裏"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 10
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2148,631,81,57/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2119,710,96,61",
+                    "@type": "sc:Canvas",
                     "label": "YG(b)0-40",
                     "metadata": [
                         {
@@ -11774,10 +11822,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2148,631,81,57/200,/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2119,710,96,61/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2119,710,96,61",
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2110,722,69,49",
                     "@type": "sc:Canvas",
                     "label": "YG(b)0-41",
                     "metadata": [
@@ -11822,7 +11870,7 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2119,710,96,61/200,/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2110,722,69,49/200,/0/default.jpg"
                 },
                 {
                     "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2041,625,60,50",

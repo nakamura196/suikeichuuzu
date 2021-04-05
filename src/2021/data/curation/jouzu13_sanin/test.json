@@ -521,6 +521,18 @@
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1197,2058,144,94/200,/0/default.jpg"
                 },
                 {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1053,2002,90,77",
+                    "@type": "sc:Canvas",
+                    "label": "CTSY(a)0-43",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTSY(a)0-43\">1-001</a> ]<br/>地名/記述：塘<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1053,2002,90,77/200,/0/default.jpg"
+                },
+                {
                     "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=812,1981,157,82",
                     "@type": "sc:Canvas",
                     "label": "CTSY(a)0-44",
