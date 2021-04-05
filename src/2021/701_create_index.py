@@ -30,6 +30,8 @@ for file in files:
     for member in curation["selections"][0]["members"]:
         id = member["label"]
 
+        id = id.replace("&nbsp;", "").replace("\n", "").strip()
+
         map = {}
 
         if "metadata" not in member:

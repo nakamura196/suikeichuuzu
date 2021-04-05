@@ -83,7 +83,7 @@ for key in settings:
 
     members = []
     for sort in sorted(members_map):
-        print(sort)
+        # print(sort)
         members.append(members_map[sort])
     curation["selections"][0]["members"] = members
 
@@ -109,6 +109,8 @@ for key in settings:
         member = members[i]
 
         id = member["label"]
+
+        id = id.replace("&nbsp;", "").replace("\n", "").strip()
 
         map = {}
 
