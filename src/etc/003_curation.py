@@ -10,9 +10,20 @@ from bs4 import BeautifulSoup
 import glob
 import pandas as pd
 import urllib.parse
+import requests
+import shutil
+
+
+def download_img(url, file_name):
+    r = requests.get(url, stream=True)
+    if r.status_code == 200:
+        with open(file_name, 'wb') as f:
+            r.raw.decode_content = True
+            shutil.copyfileobj(r.raw, f)
 
 map = {
     "西域" : "saiiki",
+    "越南" : "etsunan",
     "本図" : "main"
 }
 
@@ -111,6 +122,14 @@ for river in df:
         for member in tmp[manifest]:
             member_id = member["id"]
             index = member["index"]
+
+            url = "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text={}&color=%23FFFFFF&voffset=2&hoffset=1".format(index)
+
+            path = "data/markers/" + str(index) + ".png"
+
+            if not os.path.exists(path):
+                download_img(url, path)
+
             members.append({
                 "@id": member_id,
                 "@type": "sc:Canvas",
@@ -128,7 +147,7 @@ for river in df:
                             "@type": "cnt:ContentAsText",
                             "marker": {
                             "@type": "dctypes:Image",
-                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text={}&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27".format(index)
+                            "@id": url + "#xy=11,27"
                             }
                         },
                         "motivation": "sc:painting"

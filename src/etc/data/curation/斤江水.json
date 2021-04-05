@@ -13,6 +13,72 @@
             "label": "Markers",
             "members": [
                 {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2657,1123,1635,846",
+                    "@type": "sc:Canvas",
+                    "label": "1",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2657,1123,1635,846#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2657,1123,1635,846",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">1</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=1&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=363,1196,1635,754",
+                    "@type": "sc:Canvas",
+                    "label": "1",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=363,1196,1635,754#marker",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=363,1196,1635,754",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "<a href=\"#\">1</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=34&background=%230062B1&text=1&color=%23FFFFFF&voffset=2&hoffset=1#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "Etsunan"
+            }
+        },
+        {
+            "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/斤江水/curation.json/range",
+            "@type": "sc:Range",
+            "label": "Markers",
+            "members": [
+                {
                     "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14018,33199,909,442",
                     "@type": "sc:Canvas",
                     "label": "2",
