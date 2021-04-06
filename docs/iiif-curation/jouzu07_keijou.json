@@ -34,7 +34,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-01\">高梁水</a> ]<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/1.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -62,7 +62,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-02\">平地</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/16.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -90,7 +90,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-03\">伏道</a> ]<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -118,7 +118,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-04\">大陵</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/16.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -146,7 +146,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-05\">燕王陵</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/16.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -174,7 +174,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-06\">平地</a> ]<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -202,7 +202,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-07\">薊水</a> ]<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/1.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -230,7 +230,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-08\">西湖</a> ]<br/>分類：地形<br/>記号説明：湖",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/5.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/5.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -258,7 +258,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-09\">燕之舊池</a> ]<br/>分類：地形<br/>記号説明：湖",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/5.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/5.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -286,7 +286,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-10\">㶟水</a> ]<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/1.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -314,7 +314,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-11\">東門</a> ]<br/>分類：地点<br/>記号説明：長城門",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/34.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/34.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -342,7 +342,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-12\">曹魏劉靖碑</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/16.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -370,7 +370,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-13\">道</a> ]<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -398,7 +398,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-14\">慕容儁銅馬像</a> ]<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -426,7 +426,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-15\">薊邱</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/16.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -454,7 +454,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-16\">東掖門</a> ]<br/>分類：地点<br/>記号説明：長城門",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/34.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/34.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -482,7 +482,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-17\">萬載宮明光殿</a> ]<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -510,7 +510,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-18\">南門</a> ]<br/>分類：地点<br/>記号説明：長城門",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/34.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/34.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -538,7 +538,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-19\">銚期奮戟處</a> ]<br/>分類：地点<br/>記号説明：長城門",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/34.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/34.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -566,7 +566,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-20\">伏道</a> ]<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -594,7 +594,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-21\">燕王陵</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/16.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -622,7 +622,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-22\">洗馬溝</a> ]<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/1.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -650,7 +650,7 @@
                                         "chars": "[ <a href=\"https://suikeichu.web.app/item/CTJC(a)0-23\">㶟水</a> ]<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/1.png#xy=11,27",
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
                                             "@type": "dctypes:Image"
                                         }
                                     }
