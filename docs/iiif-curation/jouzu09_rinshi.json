@@ -22,8 +22,24 @@
                     "label": "CTLZ(a)0-01",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-01\">北郭</a> ]<br/>分類：なし<br/>記号説明："
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=922,827,156,98_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=922,827,156,98",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-01\">北郭</a> ]<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/922,827,156,98/200,/0/default.jpg"
@@ -34,8 +50,24 @@
                     "label": "CTLZ(a)0-02",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-02\">東郭</a> ]<br/>分類：なし<br/>記号説明："
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1741,1589,92,196_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1741,1589,92,196",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-02\">東郭</a> ]<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1741,1589,92,196/200,/0/default.jpg"
@@ -46,8 +78,24 @@
                     "label": "CTLZ(a)0-03",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-03\">晏嬰冢宅</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1009,1002,258,87_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1009,1002,258,87",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-03\">晏嬰冢宅</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/16.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1009,1002,258,87/200,/0/default.jpg"
@@ -58,8 +106,24 @@
                     "label": "CTLZ(a)0-04",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-04\">清節里</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1052,1078,203,77_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1052,1078,203,77",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-04\">清節里</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/16.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1052,1078,203,77/200,/0/default.jpg"
@@ -70,8 +134,24 @@
                     "label": "CTLZ(a)0-05",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-05\">梧宮</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=162,935,126,81_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=162,935,126,81",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-05\">梧宮</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/16.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/162,935,126,81/200,/0/default.jpg"
@@ -82,8 +162,24 @@
                     "label": "CTLZ(a)0-06",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-06\">梧臺里</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=140,1010,198,79_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=140,1010,198,79",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-06\">梧臺里</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/16.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/140,1010,198,79/200,/0/default.jpg"
@@ -94,8 +190,24 @@
                     "label": "CTLZ(a)0-07",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-07\">石社碑</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=32,844,102,207_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=32,844,102,207",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-07\">石社碑</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/16.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/32,844,102,207/200,/0/default.jpg"
@@ -106,8 +218,24 @@
                     "label": "CTLZ(a)0-08",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-08\">西門</a> ]<br/>分類：地点<br/>記号説明：長城門"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=108,1177,141,94_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=108,1177,141,94",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-08\">西門</a> ]<br/>分類：地点<br/>記号説明：長城門",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/34.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/108,1177,141,94/200,/0/default.jpg"
@@ -118,8 +246,24 @@
                     "label": "CTLZ(a)0-09",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-09\">齊城</a> ]<br/>分類：なし<br/>記号説明："
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1219,1596,164,102_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1219,1596,164,102",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-09\">齊城</a> ]<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1219,1596,164,102/200,/0/default.jpg"
@@ -130,8 +274,24 @@
                     "label": "CTLZ(a)0-10",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-10\">營城</a> ]<br/>分類：なし<br/>記号説明："
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1224,1691,160,71_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1224,1691,160,71",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-10\">營城</a> ]<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1224,1691,160,71/200,/0/default.jpg"
@@ -142,8 +302,24 @@
                     "label": "CTLZ(a)0-11",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-11\">北門</a> ]<br/>分類：地点<br/>記号説明：長城門"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=931,1182,144,89_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=931,1182,144,89",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-11\">北門</a> ]<br/>分類：地点<br/>記号説明：長城門",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/34.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/931,1182,144,89/200,/0/default.jpg"
@@ -154,8 +330,24 @@
                     "label": "CTLZ(a)0-12",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-12\">陽門</a> ]<br/>分類：地点<br/>記号説明：長城門"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=500,1385,146,86_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=500,1385,146,86",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-12\">陽門</a> ]<br/>分類：地点<br/>記号説明：長城門",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/34.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/500,1385,146,86/200,/0/default.jpg"
@@ -166,8 +358,24 @@
                     "label": "CTLZ(a)0-13",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-13\">雍門</a> ]<br/>分類：地点<br/>記号説明：長城門"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=499,1650,141,93_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=499,1650,141,93",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-13\">雍門</a> ]<br/>分類：地点<br/>記号説明：長城門",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/34.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/499,1650,141,93/200,/0/default.jpg"
@@ -178,8 +386,24 @@
                     "label": "CTLZ(a)0-14",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-14\">禝門</a> ]<br/>分類：地点<br/>記号説明：長城門"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=493,1915,150,89_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=493,1915,150,89",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-14\">禝門</a> ]<br/>分類：地点<br/>記号説明：長城門",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/34.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/493,1915,150,89/200,/0/default.jpg"
@@ -190,8 +414,24 @@
                     "label": "CTLZ(a)0-15",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-15\">申門</a> ]<br/>分類：地点<br/>記号説明：長城門"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=616,2116,128,100_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=616,2116,128,100",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-15\">申門</a> ]<br/>分類：地点<br/>記号説明：長城門",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/34.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/616,2116,128,100/200,/0/default.jpg"
@@ -202,8 +442,24 @@
                     "label": "CTLZ(a)0-16",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-16\">故臺</a> ]<br/>分類：なし<br/>記号説明："
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=918,1481,157,102_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=918,1481,157,102",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-16\">故臺</a> ]<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/918,1481,157,102/200,/0/default.jpg"
@@ -214,8 +470,24 @@
                     "label": "CTLZ(a)0-17",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-17\">小城</a> ]<br/>分類：なし<br/>記号説明："
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=927,1594,132,84_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=927,1594,132,84",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-17\">小城</a> ]<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/927,1594,132,84/200,/0/default.jpg"
@@ -226,8 +498,24 @@
                     "label": "CTLZ(a)0-18",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-18\">營邱</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=924,1710,150,86_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=924,1710,150,86",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-18\">營邱</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/16.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/924,1710,150,86/200,/0/default.jpg"
@@ -238,8 +526,24 @@
                     "label": "CTLZ(a)0-19",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-19\">朱虛侯章廟</a> ]<br/>分類：なし<br/>記号説明："
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=826,1811,331,105_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=826,1811,331,105",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-19\">朱虛侯章廟</a> ]<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/826,1811,331,105/200,/0/default.jpg"
@@ -250,8 +554,24 @@
                     "label": "CTLZ(a)0-20",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-20\">禝下</a> ]<br/>分類：なし<br/>記号説明："
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=337,1877,93,153_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=337,1877,93,153",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-20\">禝下</a> ]<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/337,1877,93,153/200,/0/default.jpg"
@@ -262,8 +582,24 @@
                     "label": "CTLZ(a)0-21",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-21\">申池</a> ]<br/>分類：地形<br/>記号説明：湖"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=374,2267,137,71_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=374,2267,137,71",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-21\">申池</a> ]<br/>分類：地形<br/>記号説明：湖",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/5.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/374,2267,137,71/200,/0/default.jpg"
@@ -274,8 +610,24 @@
                     "label": "CTLZ(a)0-22",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-22\">外郭即獻公所徙臨淄城世謂之虜城</a> ]<br/>分類：なし<br/>記号説明："
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=755,2292,576,173_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=755,2292,576,173",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-22\">外郭即獻公所徙臨淄城世謂之虜城</a> ]<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/755,2292,576,173/200,/0/default.jpg"
@@ -286,8 +638,24 @@
                     "label": "CTLZ(a)0-23",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-23\">澠水</a> ]<br/>分類：地形<br/>記号説明：河川"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1872,2167,153,91_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1872,2167,153,91",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-23\">澠水</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/1.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1872,2167,153,91/200,/0/default.jpg"
@@ -298,8 +666,24 @@
                     "label": "CTLZ(a)0-24",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-24\">一名漢溱水</a> ]<br/>分類：地形<br/>記号説明：河川"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1849,2237,208,155_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1849,2237,208,155",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-24\">一名漢溱水</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/1.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1849,2237,208,155/200,/0/default.jpg"
@@ -310,8 +694,24 @@
                     "label": "CTLZ(a)0-25",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-25\">淄水</a> ]<br/>分類：地形<br/>記号説明：河川"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1762,2820,147,123_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1762,2820,147,123",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-25\">淄水</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/1.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1762,2820,147,123/200,/0/default.jpg"
@@ -322,8 +722,24 @@
                     "label": "CTLZ(a)0-26",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-26\">系水</a> ]<br/>分類：地形<br/>記号説明：河川"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=262,2808,139,75_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=262,2808,139,75",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-26\">系水</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/1.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/262,2808,139,75/200,/0/default.jpg"
@@ -334,8 +750,24 @@
                     "label": "CTLZ(a)0-27",
                     "metadata": [
                         {
-                            "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-27\">一名寒泉</a> ]<br/>分類：地形<br/>記号説明：河川"
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=230,2877,278,91_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=230,2877,278,91",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-27\">一名寒泉</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/1.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/230,2877,278,91/200,/0/default.jpg"
