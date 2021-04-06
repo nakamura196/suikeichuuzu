@@ -5,9 +5,9 @@
     ],
     "@id": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/jouzu01_rekijou.json",
     "@type": "cr:Curation",
-    "label": "琉球国絵図プロジェクト",
+    "label": "jouzu01_rekijou",
     "related": {
-        "@id": "http://codh.rois.ac.jp/edo-maps/about/#legend",
+        "@id": "https://nakamura196.github.io/suikeichuuzu/asset/legend.pdf",
         "@type": "cr:MarkerLegend"
     },
     "selections": [
@@ -23,7 +23,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-01\">1-001</a> ]<br/>地名/記述：濟水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-01\">濟水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/608,172,176,105/200,/0/default.jpg"
@@ -35,7 +35,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-02\">1-001</a> ]<br/>地名/記述：濼口<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-02\">濼口</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/785,261,171,91/200,/0/default.jpg"
@@ -47,7 +47,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-03\">1-001</a> ]<br/>地名/記述：聽水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-03\">聽水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/880,477,173,105/200,/0/default.jpg"
@@ -59,7 +59,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-04\">1-001</a> ]<br/>地名/記述：濼水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-04\">濼水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/681,493,116,160/200,/0/default.jpg"
@@ -71,7 +71,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-05\">1-001</a> ]<br/>地名/記述：右水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-05\">右水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1646,812,80,153/200,/0/default.jpg"
@@ -83,7 +83,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-06\">1-001</a> ]<br/>地名/記述：出郭<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-06\">出郭</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1696,988,135,88/200,/0/default.jpg"
@@ -95,7 +95,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-07\">1-001</a> ]<br/>地名/記述：左水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-07\">左水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1277,945,168,111/200,/0/default.jpg"
@@ -107,7 +107,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-08\">1-001</a> ]<br/>地名/記述：陂<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-08\">陂</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/771,787,105,89/200,/0/default.jpg"
@@ -119,7 +119,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-09\">1-001</a> ]<br/>地名/記述：濼水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-09\">濼水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/624,950,187,92/200,/0/default.jpg"
@@ -131,7 +131,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-10\">1-001</a> ]<br/>地名/記述：流杯池<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-10\">流杯池</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1628,1322,97,176/200,/0/default.jpg"
@@ -143,7 +143,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-11\">1-001</a> ]<br/>地名/記述：東城<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-11\">東城</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1500,1273,97,201/200,/0/default.jpg"
@@ -155,7 +155,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-12\">1-001</a> ]<br/>地名/記述：歴城<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-12\">歴城</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1073,1627,195,122/200,/0/default.jpg"
@@ -167,7 +167,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-13\">1-001</a> ]<br/>地名/記述：西郭<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-13\">西郭</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/553,1488,89,173/200,/0/default.jpg"
@@ -179,7 +179,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-14\">1-001</a> ]<br/>地名/記述：入郭<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-14\">入郭</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/464,1322,84,152/200,/0/default.jpg"
@@ -191,7 +191,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-15\">1-001</a> ]<br/>地名/記述：客亭<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-15\">客亭</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/276,1102,173,103/200,/0/default.jpg"
@@ -203,7 +203,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-16\">1-001</a> ]<br/>地名/記述：大明湖<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-16\">大明湖</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/265,1208,201,97/200,/0/default.jpg"
@@ -215,7 +215,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-17\">1-001</a> ]<br/>地名/記述：大明寺<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-17\">大明寺</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/276,1327,86,216/200,/0/default.jpg"
@@ -227,7 +227,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-18\">1-001</a> ]<br/>地名/記述：歴水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-18\">歴水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1623,2387,97,168/200,/0/default.jpg"
@@ -239,7 +239,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-19\">1-001</a> ]<br/>地名/記述：歴祠下泉<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-19\">歴祠下泉</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1536,2624,163,182/200,/0/default.jpg"
@@ -251,7 +251,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-20\">1-001</a> ]<br/>地名/記述：舜祠<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-20\">舜祠</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1215,2510,160,103/200,/0/default.jpg"
@@ -263,7 +263,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-21\">1-001</a> ]<br/>地名/記述：舜井<br/>記号：30"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-21\">舜井</a> ]<br/>分類：地点<br/>記号説明：井戸"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1245,2763,111,182/200,/0/default.jpg"
@@ -275,7 +275,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-22\">1-001</a> ]<br/>地名/記述：歴山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-22\">歴山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/959,2643,157,100/200,/0/default.jpg"
@@ -287,7 +287,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-23\">1-001</a> ]<br/>地名/記述：濼水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-23\">濼水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/383,2773,90,151/200,/0/default.jpg"
@@ -299,7 +299,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-24\">1-001</a> ]<br/>地名/記述：娥英廟<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-24\">娥英廟</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/118,2923,179,165/200,/0/default.jpg"
@@ -311,7 +311,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-25\">1-001</a> ]<br/>地名/記述：即枝津<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-25\">即枝津</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1526,822,128,142/200,/0/default.jpg"
@@ -323,7 +323,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-26\">1-001</a> ]<br/>地名/記述：一名娥姜水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLI(a)0-26\">一名娥姜水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/260,2764,210,224/200,/0/default.jpg"

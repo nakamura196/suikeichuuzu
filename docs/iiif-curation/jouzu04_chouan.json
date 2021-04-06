@@ -5,9 +5,9 @@
     ],
     "@id": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/jouzu04_chouan.json",
     "@type": "cr:Curation",
-    "label": "琉球国絵図プロジェクト",
+    "label": "jouzu04_chouan",
     "related": {
-        "@id": "http://codh.rois.ac.jp/edo-maps/about/#legend",
+        "@id": "https://nakamura196.github.io/suikeichuuzu/asset/legend.pdf",
         "@type": "cr:MarkerLegend"
     },
     "selections": [
@@ -23,7 +23,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-01\">1-001</a> ]<br/>地名/記述：鄧艾祠<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-01\">鄧艾祠</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3843,215,188,99/200,/0/default.jpg"
@@ -35,7 +35,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-02\">1-001</a> ]<br/>地名/記述：郭門<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-02\">郭門</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3869,1142,147,97/200,/0/default.jpg"
@@ -47,7 +47,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-03\">1-001</a> ]<br/>地名/記述：亦曰東都門<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-03\">亦曰東都門</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3817,1202,274,86/200,/0/default.jpg"
@@ -59,7 +59,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-04\">1-001</a> ]<br/>地名/記述：逢萌挂冠處<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-04\">逢萌挂冠處</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3839,1278,201,162/200,/0/default.jpg"
@@ -71,7 +71,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-05\">1-001</a> ]<br/>地名/記述：邵平種瓜處<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-05\">邵平種瓜處</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3785,1996,148,211/200,/0/default.jpg"
@@ -83,7 +83,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-06\">1-001</a> ]<br/>地名/記述：泬水枝津分為二渠<br/>記号：2"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-06\">泬水枝津分為二渠</a> ]<br/>分類：地形<br/>記号説明：故瀆"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3616,2053,123,249/200,/0/default.jpg"
@@ -95,7 +95,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-07\">1-001</a> ]<br/>地名/記述：即王渠<br/>記号：2"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-07\">即王渠</a> ]<br/>分類：地形<br/>記号説明：故瀆"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3554,2055,65,175/200,/0/default.jpg"
@@ -107,7 +107,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-08\">1-001</a> ]<br/>地名/記述：楊橋<br/>記号：29"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-08\">楊橋</a> ]<br/>分類：地点<br/>記号説明：橋・津"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3385,1936,155,88/200,/0/default.jpg"
@@ -119,7 +119,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-09\">1-001</a> ]<br/>地名/記述：即青門橋<br/>記号：29"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-09\">即青門橋</a> ]<br/>分類：地点<br/>記号説明：橋・津"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3356,2014,193,79/200,/0/default.jpg"
@@ -131,7 +131,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-10\">1-001</a> ]<br/>地名/記述：昆明故渠<br/>記号：2"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-10\">昆明故渠</a> ]<br/>分類：地形<br/>記号説明：故瀆"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/4362,2521,151,228/200,/0/default.jpg"
@@ -143,7 +143,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-11\">1-001</a> ]<br/>地名/記述：昆明故渠<br/>記号：2"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-11\">昆明故渠</a> ]<br/>分類：地形<br/>記号説明：故瀆"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/4077,2810,226,269/200,/0/default.jpg"
@@ -155,7 +155,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-12\">1-001</a> ]<br/>地名/記述：客舎<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-12\">客舎</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2533,730,148,101/200,/0/default.jpg"
@@ -167,7 +167,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-13\">1-001</a> ]<br/>地名/記述：杜門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-13\">杜門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2551,945,139,71/200,/0/default.jpg"
@@ -179,7 +179,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-14\">1-001</a> ]<br/>地名/記述：亦曰利城門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-14\">亦曰利城門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2489,997,280,78/200,/0/default.jpg"
@@ -191,7 +191,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-15\">1-001</a> ]<br/>地名/記述：一曰客舎門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-15\">一曰客舎門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2471,1070,298,72/200,/0/default.jpg"
@@ -203,7 +203,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-16\">1-001</a> ]<br/>地名/記述：又曰洛門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-16\">又曰洛門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2511,1135,251,72/200,/0/default.jpg"
@@ -215,7 +215,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-17\">1-001</a> ]<br/>地名/記述：宣平門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-17\">宣平門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3140,1124,172,89/200,/0/default.jpg"
@@ -227,7 +227,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-18\">1-001</a> ]<br/>地名/記述：一曰東都門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-18\">一曰東都門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3151,1209,164,179/200,/0/default.jpg"
@@ -239,7 +239,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-19\">1-001</a> ]<br/>地名/記述：清明門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-19\">清明門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3143,1436,181,87/200,/0/default.jpg"
@@ -251,7 +251,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-20\">1-001</a> ]<br/>地名/記述：一曰凱門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-20\">一曰凱門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3116,1503,213,76/200,/0/default.jpg"
@@ -263,7 +263,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-21\">1-001</a> ]<br/>地名/記述：亦曰籍田門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-21\">亦曰籍田門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3169,1566,127,199/200,/0/default.jpg"
@@ -275,7 +275,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-22\">1-001</a> ]<br/>地名/記述：籍田倉<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-22\">籍田倉</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2896,1530,190,109/200,/0/default.jpg"
@@ -287,7 +287,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-23\">1-001</a> ]<br/>地名/記述：覇城門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-23\">覇城門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3118,1841,189,93/200,/0/default.jpg"
@@ -299,7 +299,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-24\">1-001</a> ]<br/>地名/記述：又名青城門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-24\">又名青城門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3061,1915,258,92/200,/0/default.jpg"
@@ -311,7 +311,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-25\">1-001</a> ]<br/>地名/記述：或曰青綺門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-25\">或曰青綺門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3049,1992,261,79/200,/0/default.jpg"
@@ -323,7 +323,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-26\">1-001</a> ]<br/>地名/記述：亦曰青門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-26\">亦曰青門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3087,2053,209,84/200,/0/default.jpg"
@@ -335,7 +335,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-27\">1-001</a> ]<br/>地名/記述：樓<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-27\">樓</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2693,1852,95,86/200,/0/default.jpg"
@@ -347,7 +347,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-28\">1-001</a> ]<br/>地名/記述：漢司馬文預碑<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-28\">漢司馬文預碑</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2646,1956,189,144/200,/0/default.jpg"
@@ -359,7 +359,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-29\">1-001</a> ]<br/>地名/記述：永寍注作永昌按諸地志皆作永寍今訂<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-29\">永寍注作永昌按諸地志皆作永寍今訂</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2316,1790,256,265/200,/0/default.jpg"
@@ -371,7 +371,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-30\">1-001</a> ]<br/>地名/記述：層臺<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-30\">層臺</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2775,2168,116,89/200,/0/default.jpg"
@@ -383,7 +383,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-31\">1-001</a> ]<br/>地名/記述：池<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-31\">池</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2734,2294,89,69/200,/0/default.jpg"
@@ -395,7 +395,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-32\">1-001</a> ]<br/>地名/記述：長樂宮<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-32\">長樂宮</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2549,2226,179,85/200,/0/default.jpg"
@@ -407,7 +407,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-33\">1-001</a> ]<br/>地名/記述：銅人<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-33\">銅人</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2596,2318,89,121/200,/0/default.jpg"
@@ -419,7 +419,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-34\">1-001</a> ]<br/>地名/記述：長信長秋永壽永寍諸殿<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-34\">長信長秋永壽永寍諸殿</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2284,2249,251,206/200,/0/default.jpg"
@@ -431,7 +431,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-35\">1-001</a> ]<br/>地名/記述：覆盎門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-35\">覆盎門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2567,2529,201,87/200,/0/default.jpg"
@@ -443,7 +443,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-36\">1-001</a> ]<br/>地名/記述：即下杜門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-36\">即下杜門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2555,2596,228,67/200,/0/default.jpg"
@@ -455,7 +455,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-37\">1-001</a> ]<br/>地名/記述：又曰端門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-37\">又曰端門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2551,2656,239,74/200,/0/default.jpg"
@@ -467,7 +467,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-38\">1-001</a> ]<br/>地名/記述：即漕渠<br/>記号：2"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(a)0-38\">即漕渠</a> ]<br/>分類：地形<br/>記号説明：故瀆"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/4300,2540,132,201/200,/0/default.jpg"
@@ -479,7 +479,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-01\">1-001</a> ]<br/>地名/記述：外郭<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-01\">外郭</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1430,38,161,81/200,/0/default.jpg"
@@ -491,7 +491,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-02\">1-001</a> ]<br/>地名/記述：棘門<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-02\">棘門</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1428,110,169,89/200,/0/default.jpg"
@@ -503,7 +503,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-03\">1-001</a> ]<br/>地名/記述：外郭<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-03\">外郭</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/823,24,198,65/200,/0/default.jpg"
@@ -515,7 +515,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-04\">1-001</a> ]<br/>地名/記述：通元門<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-04\">通元門</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/819,93,213,75/200,/0/default.jpg"
@@ -527,7 +527,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-05\">1-001</a> ]<br/>地名/記述：即亥門<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-05\">即亥門</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/819,162,198,73/200,/0/default.jpg"
@@ -539,7 +539,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-06\">1-001</a> ]<br/>地名/記述：渭水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-06\">渭水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1140,261,151,99/200,/0/default.jpg"
@@ -551,7 +551,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-07\">1-001</a> ]<br/>地名/記述：龍首山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-07\">龍首山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1688,388,193,104/200,/0/default.jpg"
@@ -563,7 +563,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-08\">1-001</a> ]<br/>地名/記述：龍首山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-08\">龍首山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1570,890,204,99/200,/0/default.jpg"
@@ -575,7 +575,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-09\">1-001</a> ]<br/>地名/記述：長安廚官<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-09\">長安廚官</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2156,1179,116,143/200,/0/default.jpg"
@@ -587,7 +587,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-10\">1-001</a> ]<br/>地名/記述：洛門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-10\">洛門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1962,1067,139,78/200,/0/default.jpg"
@@ -599,7 +599,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-11\">1-001</a> ]<br/>地名/記述：又曰朝門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-11\">又曰朝門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1908,1119,217,85/200,/0/default.jpg"
@@ -611,7 +611,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-12\">1-001</a> ]<br/>地名/記述：一曰高門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-12\">一曰高門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1890,1190,246,67/200,/0/default.jpg"
@@ -623,7 +623,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-13\">1-001</a> ]<br/>地名/記述：復名廚門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-13\">復名廚門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1894,1255,244,67/200,/0/default.jpg"
@@ -635,7 +635,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-14\">1-001</a> ]<br/>地名/記述：即廣門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-14\">即廣門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1919,1313,204,85/200,/0/default.jpg"
@@ -647,7 +647,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-15\">1-001</a> ]<br/>地名/記述：横門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-15\">横門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1413,1202,134,83/200,/0/default.jpg"
@@ -659,7 +659,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-16\">1-001</a> ]<br/>地名/記述：即光門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-16\">即光門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1386,1271,201,72/200,/0/default.jpg"
@@ -671,7 +671,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-17\">1-001</a> ]<br/>地名/記述：三輔舊事長安城南為南斗形北為北斗形<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-17\">三輔舊事長安城南為南斗形北為北斗形</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1977,1517,255,322/200,/0/default.jpg"
@@ -683,7 +683,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-18\">1-001</a> ]<br/>地名/記述：龍首山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-18\">龍首山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1527,1394,172,98/200,/0/default.jpg"
@@ -695,7 +695,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-19\">1-001</a> ]<br/>地名/記述：桂宮<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-19\">桂宮</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1520,1643,127,80/200,/0/default.jpg"
@@ -707,7 +707,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-20\">1-001</a> ]<br/>地名/記述：明光殿<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-20\">明光殿</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1621,1710,76,186/200,/0/default.jpg"
@@ -719,7 +719,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-21\">1-001</a> ]<br/>地名/記述：走狗臺<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-21\">走狗臺</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1565,1717,74,177/200,/0/default.jpg"
@@ -731,7 +731,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-22\">1-001</a> ]<br/>地名/記述：柏梁臺<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-22\">柏梁臺</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1498,1723,89,184/200,/0/default.jpg"
@@ -743,7 +743,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-23\">1-001</a> ]<br/>地名/記述：西城門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-23\">西城門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1003,1309,197,69/200,/0/default.jpg"
@@ -755,7 +755,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-24\">1-001</a> ]<br/>地名/記述：即雍門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-24\">即雍門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/999,1372,190,65/200,/0/default.jpg"
@@ -767,7 +767,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-25\">1-001</a> ]<br/>地名/記述：亦曰函里門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-25\">亦曰函里門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/967,1417,275,80/200,/0/default.jpg"
@@ -779,7 +779,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-26\">1-001</a> ]<br/>地名/記述：又名突門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-26\">又名突門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/994,1484,219,74/200,/0/default.jpg"
@@ -791,7 +791,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-27\">1-001</a> ]<br/>地名/記述：直門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-27\">直門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/869,1632,112,74/200,/0/default.jpg"
@@ -803,7 +803,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-28\">1-001</a> ]<br/>地名/記述：故龍樓門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-28\">故龍樓門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/846,1687,262,79/200,/0/default.jpg"
@@ -815,7 +815,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-29\">1-001</a> ]<br/>地名/記述：明渠<br/>記号：2"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-29\">明渠</a> ]<br/>分類：地形<br/>記号説明：故瀆"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1547,1994,139,80/200,/0/default.jpg"
@@ -827,7 +827,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-30\">1-001</a> ]<br/>地名/記述：倉池<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-30\">倉池</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1066,2041,152,67/200,/0/default.jpg"
@@ -839,7 +839,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-31\">1-001</a> ]<br/>地名/記述：漸臺<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-31\">漸臺</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1090,2115,130,70/200,/0/default.jpg"
@@ -851,7 +851,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-32\">1-001</a> ]<br/>地名/記述：章門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-32\">章門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/853,2102,121,76/200,/0/default.jpg"
@@ -863,7 +863,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-33\">1-001</a> ]<br/>地名/記述：即光華門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-33\">即光華門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/833,2169,221,56/200,/0/default.jpg"
@@ -875,7 +875,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-34\">1-001</a> ]<br/>地名/記述：又曰便門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-34\">又曰便門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/833,2229,235,70/200,/0/default.jpg"
@@ -887,7 +887,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-35\">1-001</a> ]<br/>地名/記述：舊樗里子葬此<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-35\">舊樗里子葬此</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1957,2189,186,148/200,/0/default.jpg"
@@ -899,7 +899,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-36\">1-001</a> ]<br/>地名/記述：武庫<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-36\">武庫</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1986,2512,132,98/200,/0/default.jpg"
@@ -911,7 +911,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-37\">1-001</a> ]<br/>地名/記述：宣室玉堂麒麟含章白虎鳳皇朱雀鵷鸞昭陽諸殿天祿石渠麒麟三閣<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-37\">宣室玉堂麒麟含章白虎鳳皇朱雀鵷鸞昭陽諸殿天祿石渠麒麟三閣</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1635,2187,331,378/200,/0/default.jpg"
@@ -923,7 +923,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-38\">1-001</a> ]<br/>地名/記述：龍首山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-38\">龍首山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1467,2122,168,87/200,/0/default.jpg"
@@ -935,7 +935,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-39\">1-001</a> ]<br/>地名/記述：未央宮<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-39\">未央宮</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1458,2283,177,83/200,/0/default.jpg"
@@ -947,7 +947,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-40\">1-001</a> ]<br/>地名/記述：龍首山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-40\">龍首山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1493,2438,179,89/200,/0/default.jpg"
@@ -959,7 +959,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-41\">1-001</a> ]<br/>地名/記述：安門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-41\">安門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/2002,2707,127,96/200,/0/default.jpg"
@@ -971,7 +971,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-42\">1-001</a> ]<br/>地名/記述：亦曰鼎路門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-42\">亦曰鼎路門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1932,2769,280,89/200,/0/default.jpg"
@@ -983,7 +983,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-43\">1-001</a> ]<br/>地名/記述：平門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-43\">平門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1420,2557,136,74/200,/0/default.jpg"
@@ -995,7 +995,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-44\">1-001</a> ]<br/>地名/記述：一曰西安門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-44\">一曰西安門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1343,2608,289,92/200,/0/default.jpg"
@@ -1007,7 +1007,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-45\">1-001</a> ]<br/>地名/記述：逍遥園<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-45\">逍遥園</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/457,1795,201,98/200,/0/default.jpg"
@@ -1019,7 +1019,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-46\">1-001</a> ]<br/>地名/記述：藕池<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-46\">藕池</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/477,1979,139,76/200,/0/default.jpg"
@@ -1031,7 +1031,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-47\">1-001</a> ]<br/>地名/記述：臺觀<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-47\">臺觀</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/471,2064,134,92/200,/0/default.jpg"
@@ -1043,7 +1043,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-48\">1-001</a> ]<br/>地名/記述：泬水枝津<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-48\">泬水枝津</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/132,2021,262,96/200,/0/default.jpg"
@@ -1055,7 +1055,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-49\">1-001</a> ]<br/>地名/記述：逍遥園<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-49\">逍遥園</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/417,2279,208,103/200,/0/default.jpg"
@@ -1067,7 +1067,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-50\">1-001</a> ]<br/>地名/記述：龍首山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCA(b)0-50\">龍首山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1442,2929,183,101/200,/0/default.jpg"

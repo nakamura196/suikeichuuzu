@@ -14,6 +14,12 @@ import urllib.parse
 import copy
 import shutil
 
+with open('data/metadata.json') as f:
+    metadata = json.load(f)
+
+with open("/Users/nakamurasatoru/git/d_toyo/app/static/data/legend.json") as f:
+    legends = json.load(f)
+
 settings = {
     "saiiki" : {
         "hash" : "600226dc9723af51efb6d9c366b062c3",
@@ -130,15 +136,15 @@ for uuid in settings:
 
         obj = metadata[label]
 
-        for key in obj:
-            value = obj[key]
+        for key2 in obj:
+            value = obj[key2]
             
             if value == "null":
                 continue
 
             metadata_new.append({
-                "label" : key,
-                "value" : obj[key]
+                "label" : key2,
+                "value" : obj[key2]
             })
 
         member["metadata"] = metadata_new
@@ -189,12 +195,15 @@ for uuid in settings:
         
         del member["metadata"]
 
+        mark = str(map["記号"])
+        legend = legends[mark]
+
         member["metadata"] = [
             {
-                "value": "[ <a href=\"{}\">1-001</a> ]<br/>地名/記述：{}<br/>記号：{}".format(prefix+"/item/"+ id, map["地名/記述"], map["記号"]),
-                "label": "Description"
+              "value": "[ <a href=\"{}\">{}</a> ]<br/>分類：{}<br/>記号説明：{}".format(prefix+"/item/"+ id, map["地名/記述"], legend["分類"], legend["記号説明"]),
+              "label": "Description"
             }
-            ]
+          ]
 
         ########
 
@@ -209,8 +218,9 @@ for uuid in settings:
     curation_test["viewingHint"] = "annotation"
     curation_test["related"] = {
         "@type": "cr:MarkerLegend",
-        "@id": "http://codh.rois.ac.jp/edo-maps/about/#legend"
+        "@id": "https://nakamura196.github.io/suikeichuuzu/asset/legend.pdf",
     }
+    curation_test["label"] = uuid
 
     curation_test["@id"] = "https://nakamura196.github.io/suikeichuuzu/iiif-curation/"+uuid+".json"
 

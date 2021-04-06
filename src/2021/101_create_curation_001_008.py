@@ -19,6 +19,9 @@ prefix = "https://suikeichu.web.app"
 with open('data/metadata.json') as f:
     metadata = json.load(f)
 
+with open("/Users/nakamurasatoru/git/d_toyo/app/static/data/legend.json") as f:
+    legends = json.load(f)
+
 dir = "/Users/nakamurasatoru/git/d_omeka/omekac_diyhistory"
 
 settings = {
@@ -62,15 +65,15 @@ for key in settings:
 
         obj = metadata[label]
 
-        for key in obj:
-            value = obj[key]
+        for key2 in obj:
+            value = obj[key2]
             
             if value == "null":
                 continue
 
             metadata_new.append({
-                "label" : key,
-                "value" : obj[key]
+                "label" : key2,
+                "value" : obj[key2]
             })
 
         member["metadata"] = metadata_new
@@ -122,10 +125,13 @@ for key in settings:
             map[e["label"]] = e["value"]
         
         del member["metadata"]
+
+        mark = str(map["記号"])
+        legend = legends[mark]
     
         member["metadata"] = [
             {
-              "value": "[ <a href=\"{}\">1-001</a> ]<br/>地名/記述：{}<br/>記号：{}".format(prefix+"/item/"+ id, map["地名/記述"], map["記号"]),
+              "value": "[ <a href=\"{}\">{}</a> ]<br/>分類：{}<br/>記号説明：{}".format(prefix+"/item/"+ id, map["地名/記述"], legend["分類"], legend["記号説明"]),
               "label": "Description"
             }
           ]
@@ -143,8 +149,9 @@ for key in settings:
     curation_test["viewingHint"] = "annotation"
     curation_test["related"] = {
         "@type": "cr:MarkerLegend",
-        "@id": "https://nakamura196.github.io/suikeichuuzu/asset/legend.pdf"
+        "@id": "https://nakamura196.github.io/suikeichuuzu/asset/legend.pdf",
     }
+    curation_test["label"] = key
 
     curation_test["@id"] = "https://nakamura196.github.io/suikeichuuzu/iiif-curation/"+"main"+".json"
 

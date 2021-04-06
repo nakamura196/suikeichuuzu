@@ -5,9 +5,9 @@
     ],
     "@id": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/saiiki.json",
     "@type": "cr:Curation",
-    "label": "琉球国絵図プロジェクト",
+    "label": "saiiki",
     "related": {
-        "@id": "http://codh.rois.ac.jp/edo-maps/about/#legend",
+        "@id": "https://nakamura196.github.io/suikeichuuzu/asset/legend.pdf",
         "@type": "cr:MarkerLegend"
     },
     "selections": [
@@ -23,7 +23,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A1-01\">1-001</a> ]<br/>地名/記述：匈奴<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A1-01\">匈奴</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8876,468,175,75/200,/0/default.jpg"
@@ -35,7 +35,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A1-02\">1-001</a> ]<br/>地名/記述：巴爾<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A1-02\">巴爾</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8658,603,53,142/200,/0/default.jpg"
@@ -47,7 +47,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A1-03\">1-001</a> ]<br/>地名/記述：庫爾<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A1-03\">庫爾</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8612,608,45,137/200,/0/default.jpg"
@@ -59,7 +59,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A1-04\">1-001</a> ]<br/>地名/記述：鎮西<br/>記号：20"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A1-04\">鎮西</a> ]<br/>分類：行政<br/>記号説明：直隷庁"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8380,709,134,75/200,/0/default.jpg"
@@ -71,7 +71,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A1-05\">1-001</a> ]<br/>地名/記述：巴里坤<br/>記号：25"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A1-05\">巴里坤</a> ]<br/>分類：行政<br/>記号説明：土県・堡鎮"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8490,809,80,180/200,/0/default.jpg"
@@ -83,7 +83,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A1-06\">1-001</a> ]<br/>地名/記述：哈密<br/>記号：20"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A1-06\">哈密</a> ]<br/>分類：行政<br/>記号説明：直隷庁"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8587,950,72,123/200,/0/default.jpg"
@@ -95,7 +95,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-01\">1-001</a> ]<br/>地名/記述：吉木薩<br/>記号：25"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-01\">吉木薩</a> ]<br/>分類：行政<br/>記号説明：土県・堡鎮"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7837,315,167,69/200,/0/default.jpg"
@@ -107,7 +107,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-02\">1-001</a> ]<br/>地名/記述：木壘<br/>記号：25"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-02\">木壘</a> ]<br/>分類：行政<br/>記号説明：土県・堡鎮"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8153,464,121,83/200,/0/default.jpg"
@@ -119,7 +119,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-03\">1-001</a> ]<br/>地名/記述：古城<br/>記号：25"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-03\">古城</a> ]<br/>分類：行政<br/>記号説明：土県・堡鎮"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7948,561,59,118/200,/0/default.jpg"
@@ -131,7 +131,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-04\">1-001</a> ]<br/>地名/記述：阜康<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-04\">阜康</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7753,461,67,169/200,/0/default.jpg"
@@ -143,7 +143,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-05\">1-001</a> ]<br/>地名/記述：竒台<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-05\">竒台</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8026,639,118,83/200,/0/default.jpg"
@@ -155,7 +155,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-06\">1-001</a> ]<br/>地名/記述：闢展<br/>記号：25"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-06\">闢展</a> ]<br/>分類：行政<br/>記号説明：土県・堡鎮"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8037,893,83,153/200,/0/default.jpg"
@@ -167,7 +167,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-07\">1-001</a> ]<br/>地名/記述：吐魯番<br/>記号：20"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-07\">吐魯番</a> ]<br/>分類：行政<br/>記号説明：直隷庁"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7907,858,67,150/200,/0/default.jpg"
@@ -179,7 +179,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-08\">1-001</a> ]<br/>地名/記述：車師<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-08\">車師</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7804,890,132,75/200,/0/default.jpg"
@@ -191,7 +191,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-09\">1-001</a> ]<br/>地名/記述：北山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A2-09\">北山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7713,1039,150,67/200,/0/default.jpg"
@@ -203,7 +203,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-01\">1-001</a> ]<br/>地名/記述：呼圖壁河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-01\">呼圖壁河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7359,186,150,137/200,/0/default.jpg"
@@ -215,7 +215,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-02\">1-001</a> ]<br/>地名/記述：阿雅爾泊<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-02\">阿雅爾泊</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7043,199,142,137/200,/0/default.jpg"
@@ -227,7 +227,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-03\">1-001</a> ]<br/>地名/記述：烏魯木齊<br/>記号：17"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-03\">烏魯木齊</a> ]<br/>分類：行政<br/>記号説明：省名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7621,337,69,261/200,/0/default.jpg"
@@ -239,7 +239,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-04\">1-001</a> ]<br/>地名/記述：昌吉<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-04\">昌吉</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7543,385,67,134/200,/0/default.jpg"
@@ -251,7 +251,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-05\">1-001</a> ]<br/>地名/記述：景化<br/>記号：25"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-05\">景化</a> ]<br/>分類：行政<br/>記号説明：土県・堡鎮"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7437,431,78,123/200,/0/default.jpg"
@@ -263,7 +263,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-06\">1-001</a> ]<br/>地名/記述：綏來<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-06\">綏來</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7310,453,83,110/200,/0/default.jpg"
@@ -275,7 +275,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-07\">1-001</a> ]<br/>地名/記述：庫爾喀喇烏蘇<br/>記号：20"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-07\">庫爾喀喇烏蘇</a> ]<br/>分類：行政<br/>記号説明：直隷庁"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7003,334,88,342/200,/0/default.jpg"
@@ -287,7 +287,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-08\">1-001</a> ]<br/>地名/記述：迪化<br/>記号：17"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-08\">迪化</a> ]<br/>分類：行政<br/>記号説明：省名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7548,615,148,69/200,/0/default.jpg"
@@ -299,7 +299,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-09\">1-001</a> ]<br/>地名/記述：迪化<br/>記号：17"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-09\">迪化</a> ]<br/>分類：行政<br/>記号説明：省名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7529,677,180,61/200,/0/default.jpg"
@@ -311,7 +311,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-10\">1-001</a> ]<br/>地名/記述：敦薨山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-10\">敦薨山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7294,655,218,75/200,/0/default.jpg"
@@ -323,7 +323,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-11\">1-001</a> ]<br/>地名/記述：敦薨山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-11\">敦薨山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6992,747,207,88/200,/0/default.jpg"
@@ -335,7 +335,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-12\">1-001</a> ]<br/>地名/記述：敦薨水東源<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-12\">敦薨水東源</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7397,782,218,156/200,/0/default.jpg"
@@ -347,7 +347,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-13\">1-001</a> ]<br/>地名/記述：小裕勒河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-13\">小裕勒河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6919,828,242,69/200,/0/default.jpg"
@@ -359,7 +359,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-14\">1-001</a> ]<br/>地名/記述：敦薨水西源左水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-14\">敦薨水西源左水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6962,896,246,126/200,/0/default.jpg"
@@ -371,7 +371,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-15\">1-001</a> ]<br/>地名/記述：危須<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-15\">危須</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7346,955,145,86/200,/0/default.jpg"
@@ -383,7 +383,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-16\">1-001</a> ]<br/>地名/記述：焉耆<br/>記号：17"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-16\">焉耆</a> ]<br/>分類：行政<br/>記号説明：省名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7420,963,136,72/200,/0/default.jpg"
@@ -395,7 +395,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-17\">1-001</a> ]<br/>地名/記述：新平<br/>記号：17"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-17\">新平</a> ]<br/>分類：行政<br/>記号説明：省名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7410,1039,157,53/200,/0/default.jpg"
@@ -407,7 +407,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-18\">1-001</a> ]<br/>地名/記述：焉耆<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)A3-18\">焉耆</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7140,1139,126,88/200,/0/default.jpg"
@@ -419,7 +419,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B1-01\">1-001</a> ]<br/>地名/記述：玉門關<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B1-01\">玉門關</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8525,1711,213,88/200,/0/default.jpg"
@@ -431,7 +431,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B1-02\">1-001</a> ]<br/>地名/記述：哈喇泊<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B1-02\">哈喇泊</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8417,1660,207,80/200,/0/default.jpg"
@@ -443,7 +443,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B1-03\">1-001</a> ]<br/>地名/記述：安西<br/>記号：22"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B1-03\">安西</a> ]<br/>分類：行政<br/>記号説明：直隷州"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8979,1827,132,61/200,/0/default.jpg"
@@ -455,7 +455,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B1-04\">1-001</a> ]<br/>地名/記述：敦煌<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B1-04\">敦煌</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8798,1751,126,91/200,/0/default.jpg"
@@ -467,7 +467,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B1-05\">1-001</a> ]<br/>地名/記述：陽關<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B1-05\">陽關</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8604,1916,159,118/200,/0/default.jpg"
@@ -479,7 +479,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B2-01\">1-001</a> ]<br/>地名/記述：龍城<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B2-01\">龍城</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7726,1349,169,123/200,/0/default.jpg"
@@ -491,7 +491,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B2-02\">1-001</a> ]<br/>地名/記述：白龍堆<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B2-02\">白龍堆</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7975,1668,94,248/200,/0/default.jpg"
@@ -503,7 +503,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B2-03\">1-001</a> ]<br/>地名/記述：南山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B2-03\">南山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7842,2146,148,96/200,/0/default.jpg"
@@ -515,7 +515,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-01\">1-001</a> ]<br/>地名/記述：敦薨藪<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-01\">敦薨藪</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7397,1174,177,80/200,/0/default.jpg"
@@ -527,7 +527,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-02\">1-001</a> ]<br/>地名/記述：博斯騰泊<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-02\">博斯騰泊</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7346,1163,230,68/200,/0/default.jpg"
@@ -539,7 +539,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-03\">1-001</a> ]<br/>地名/記述：沙山鉄関谷<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-03\">沙山鉄関谷</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7198,1210,138,117/200,/0/default.jpg"
@@ -551,7 +551,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-04\">1-001</a> ]<br/>地名/記述：烏壘<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-04\">烏壘</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6935,1211,110,69/200,/0/default.jpg"
@@ -563,7 +563,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-05\">1-001</a> ]<br/>地名/記述：即西海<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-05\">即西海</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7445,1241,176,88/200,/0/default.jpg"
@@ -575,7 +575,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-06\">1-001</a> ]<br/>地名/記述：墨山<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-06\">墨山</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7323,1276,98,82/200,/0/default.jpg"
@@ -587,7 +587,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-07\">1-001</a> ]<br/>地名/記述：尉犂<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-07\">尉犂</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7231,1349,110,59/200,/0/default.jpg"
@@ -599,7 +599,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-08\">1-001</a> ]<br/>地名/記述：開都河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-08\">開都河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7138,1272,64,176/200,/0/default.jpg"
@@ -611,7 +611,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-09\">1-001</a> ]<br/>地名/記述：連城<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-09\">連城</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7070,1295,106,63/200,/0/default.jpg"
@@ -623,7 +623,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-10\">1-001</a> ]<br/>地名/記述：田<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-10\">田</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7061,1365,60,44/200,/0/default.jpg"
@@ -635,7 +635,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-11\">1-001</a> ]<br/>地名/記述：車爾楚<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-11\">車爾楚</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7048,1253,47,183/200,/0/default.jpg"
@@ -647,7 +647,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-12\">1-001</a> ]<br/>地名/記述：漢都護治<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-12\">漢都護治</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6933,1305,125,133/200,/0/default.jpg"
@@ -659,7 +659,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-13\">1-001</a> ]<br/>地名/記述：樓蘭城<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-13\">樓蘭城</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7396,1336,187,76/200,/0/default.jpg"
@@ -671,7 +671,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-14\">1-001</a> ]<br/>地名/記述：注賓城<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-14\">注賓城</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7263,1391,118,98/200,/0/default.jpg"
@@ -683,7 +683,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-15\">1-001</a> ]<br/>地名/記述：渠犂<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-15\">渠犂</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7108,1394,105,80/200,/0/default.jpg"
@@ -695,7 +695,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-16\">1-001</a> ]<br/>地名/記述：北河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-16\">北河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6990,1441,106,51/200,/0/default.jpg"
@@ -707,7 +707,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-17\">1-001</a> ]<br/>地名/記述：羅布泊<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-17\">羅布泊</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7434,1442,179,82/200,/0/default.jpg"
@@ -719,7 +719,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-18\">1-001</a> ]<br/>地名/記述：注賓河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-18\">注賓河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7327,1468,117,84/200,/0/default.jpg"
@@ -731,7 +731,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-19\">1-001</a> ]<br/>地名/記述：南河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-19\">南河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6997,1506,125,95/200,/0/default.jpg"
@@ -743,7 +743,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-20\">1-001</a> ]<br/>地名/記述：蒲昌海<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-20\">蒲昌海</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7574,1504,183,94/200,/0/default.jpg"
@@ -755,7 +755,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-21\">1-001</a> ]<br/>地名/記述：即牢蘭海<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-21\">即牢蘭海</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7539,1598,249,76/200,/0/default.jpg"
@@ -767,7 +767,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-22\">1-001</a> ]<br/>地名/記述：又名泑澤<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-22\">又名泑澤</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7538,1680,253,75/200,/0/default.jpg"
@@ -779,7 +779,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-23\">1-001</a> ]<br/>地名/記述：樓蘭<br/>記号：9"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-23\">樓蘭</a> ]<br/>分類：行政<br/>記号説明：州郡跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7593,1792,164,114/200,/0/default.jpg"
@@ -791,7 +791,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-24\">1-001</a> ]<br/>地名/記述：鄯善<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-24\">鄯善</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7398,1850,122,121/200,/0/default.jpg"
@@ -803,7 +803,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-25\">1-001</a> ]<br/>地名/記述：且末<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)B3-25\">且末</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7420,2101,133,83/200,/0/default.jpg"
@@ -815,7 +815,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)C1-01\">1-001</a> ]<br/>地名/記述：小月氏<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)C1-01\">小月氏</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8727,2231,185,96/200,/0/default.jpg"
@@ -827,7 +827,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)C1-02\">1-001</a> ]<br/>地名/記述：河水重源<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)C1-02\">河水重源</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8972,2753,266,107/200,/0/default.jpg"
@@ -839,7 +839,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)C1-03\">1-001</a> ]<br/>地名/記述：黄河源<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)C1-03\">黄河源</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/9055,2947,180,102/200,/0/default.jpg"
@@ -851,7 +851,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)C2-01\">1-001</a> ]<br/>地名/記述：大江源<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)C2-01\">大江源</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8288,2852,96,204/200,/0/default.jpg"
@@ -863,7 +863,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)C3-01\">1-001</a> ]<br/>地名/記述：音德圖河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)C3-01\">音德圖河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7491,2144,84,248/200,/0/default.jpg"
@@ -875,7 +875,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)C3-02\">1-001</a> ]<br/>地名/記述：阿耨達大水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)C3-02\">阿耨達大水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7236,2322,228,171/200,/0/default.jpg"
@@ -887,7 +887,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)C3-03\">1-001</a> ]<br/>地名/記述：阿耨達山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(a)C3-03\">阿耨達山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7398,2626,293,128/200,/0/default.jpg"
@@ -899,7 +899,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-01\">1-001</a> ]<br/>地名/記述：額西柯泊<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-01\">額西柯泊</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6567,151,147,128/200,/0/default.jpg"
@@ -911,7 +911,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-02\">1-001</a> ]<br/>地名/記述：博羅塔拉河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-02\">博羅塔拉河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6225,157,306,150/200,/0/default.jpg"
@@ -923,7 +923,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-03\">1-001</a> ]<br/>地名/記述：精河<br/>記号：20"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-03\">精河</a> ]<br/>分類：行政<br/>記号説明：直隷庁"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6556,350,93,137/200,/0/default.jpg"
@@ -935,7 +935,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-04\">1-001</a> ]<br/>地名/記述：賽里木泊<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-04\">賽里木泊</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6265,309,217,68/200,/0/default.jpg"
@@ -947,7 +947,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-05\">1-001</a> ]<br/>地名/記述：哈什河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-05\">哈什河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6677,555,190,88/200,/0/default.jpg"
@@ -959,7 +959,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-06\">1-001</a> ]<br/>地名/記述：寧遠<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-06\">寧遠</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6394,488,69,118/200,/0/default.jpg"
@@ -971,7 +971,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-07\">1-001</a> ]<br/>地名/記述：伊犂<br/>記号：17"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-07\">伊犂</a> ]<br/>分類：行政<br/>記号説明：省名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6219,469,137,80/200,/0/default.jpg"
@@ -983,7 +983,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-08\">1-001</a> ]<br/>地名/記述：綏定<br/>記号：17"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-08\">綏定</a> ]<br/>分類：行政<br/>記号説明：省名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6214,579,145,72/200,/0/default.jpg"
@@ -995,7 +995,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-09\">1-001</a> ]<br/>地名/記述：空格斯河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-09\">空格斯河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6658,671,274,75/200,/0/default.jpg"
@@ -1007,7 +1007,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-10\">1-001</a> ]<br/>地名/記述：特克斯河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-10\">特克斯河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6114,867,256,161/200,/0/default.jpg"
@@ -1019,7 +1019,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-11\">1-001</a> ]<br/>地名/記述：分為二水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-11\">分為二水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6836,1026,99,99/200,/0/default.jpg"
@@ -1031,7 +1031,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-12\">1-001</a> ]<br/>地名/記述：大裕勒河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-12\">大裕勒河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6542,991,221,182/200,/0/default.jpg"
@@ -1043,7 +1043,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-13\">1-001</a> ]<br/>地名/記述：敦薨山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-13\">敦薨山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6582,1031,146,112/200,/0/default.jpg"
@@ -1055,7 +1055,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-14\">1-001</a> ]<br/>地名/記述：敦薨水西源右水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-14\">敦薨水西源右水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6684,1101,127,239/200,/0/default.jpg"
@@ -1067,7 +1067,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-15\">1-001</a> ]<br/>地名/記述：大山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-15\">大山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6362,1136,118,80/200,/0/default.jpg"
@@ -1079,7 +1079,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-16\">1-001</a> ]<br/>地名/記述：木樹爾嶺<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A1-16\">木樹爾嶺</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6139,1020,158,135/200,/0/default.jpg"
@@ -1091,7 +1091,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A2-01\">1-001</a> ]<br/>地名/記述：察林河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A2-01\">察林河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5982,738,149,169/200,/0/default.jpg"
@@ -1103,7 +1103,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A2-02\">1-001</a> ]<br/>地名/記述：特穆爾圖泊<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A2-02\">特穆爾圖泊</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5420,926,330,93/200,/0/default.jpg"
@@ -1115,7 +1115,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A2-03\">1-001</a> ]<br/>地名/記述：北山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A2-03\">北山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5956,985,153,75/200,/0/default.jpg"
@@ -1127,7 +1127,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A2-04\">1-001</a> ]<br/>地名/記述：烏孫<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A2-04\">烏孫</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5792,1101,134,96/200,/0/default.jpg"
@@ -1139,7 +1139,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A3-01\">1-001</a> ]<br/>地名/記述：吹河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A3-01\">吹河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5245,792,185,96/200,/0/default.jpg"
@@ -1151,7 +1151,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A3-02\">1-001</a> ]<br/>地名/記述：東布魯特<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A3-02\">東布魯特</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5110,910,166,177/200,/0/default.jpg"
@@ -1163,7 +1163,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A3-03\">1-001</a> ]<br/>地名/記述：巴爾渾山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)A3-03\">巴爾渾山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4642,1104,276,99/200,/0/default.jpg"
@@ -1175,7 +1175,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-01\">1-001</a> ]<br/>地名/記述：策特爾<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-01\">策特爾</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6829,1209,91,209/200,/0/default.jpg"
@@ -1187,7 +1187,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-02\">1-001</a> ]<br/>地名/記述：亀茲東川<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-02\">亀茲東川</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6572,1198,120,142/200,/0/default.jpg"
@@ -1199,7 +1199,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-03\">1-001</a> ]<br/>地名/記述：赤沙積梨<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-03\">赤沙積梨</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6486,1203,88,115/200,/0/default.jpg"
@@ -1211,7 +1211,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-04\">1-001</a> ]<br/>地名/記述：庫車<br/>記号：20"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-04\">庫車</a> ]<br/>分類：行政<br/>記号説明：直隷庁"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6404,1234,98,73/200,/0/default.jpg"
@@ -1223,7 +1223,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-05\">1-001</a> ]<br/>地名/記述：赤沙山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-05\">赤沙山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6116,1211,193,75/200,/0/default.jpg"
@@ -1235,7 +1235,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-06\">1-001</a> ]<br/>地名/記述：枝水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-06\">枝水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6484,1309,116,69/200,/0/default.jpg"
@@ -1247,7 +1247,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-07\">1-001</a> ]<br/>地名/記述：枝水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-07\">枝水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6336,1315,100,48/200,/0/default.jpg"
@@ -1259,7 +1259,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-08\">1-001</a> ]<br/>地名/記述：亀茲川西源<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-08\">亀茲川西源</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6190,1301,142,184/200,/0/default.jpg"
@@ -1271,7 +1271,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-09\">1-001</a> ]<br/>地名/記述：渭干河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-09\">渭干河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6267,1337,162,161/200,/0/default.jpg"
@@ -1283,7 +1283,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-10\">1-001</a> ]<br/>地名/記述：亀茲川<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-10\">亀茲川</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6724,1404,170,88/200,/0/default.jpg"
@@ -1295,7 +1295,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-11\">1-001</a> ]<br/>地名/記述：玉古爾<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-11\">玉古爾</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6817,1443,108,106/200,/0/default.jpg"
@@ -1307,7 +1307,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-12\">1-001</a> ]<br/>地名/記述：輪臺<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-12\">輪臺</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6531,1369,96,98/200,/0/default.jpg"
@@ -1319,7 +1319,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-13\">1-001</a> ]<br/>地名/記述：亀茲<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-13\">亀茲</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6406,1234,63,85/200,/0/default.jpg"
@@ -1331,7 +1331,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-14\">1-001</a> ]<br/>地名/記述：城<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-14\">城</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6422,1373,50,53/200,/0/default.jpg"
@@ -1343,7 +1343,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-15\">1-001</a> ]<br/>地名/記述：枝水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-15\">枝水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6473,1431,96,88/200,/0/default.jpg"
@@ -1355,7 +1355,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-16\">1-001</a> ]<br/>地名/記述：西川<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-16\">西川</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6396,1529,159,81/200,/0/default.jpg"
@@ -1367,7 +1367,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-17\">1-001</a> ]<br/>地名/記述：北河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-17\">北河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6219,1577,131,100/200,/0/default.jpg"
@@ -1379,7 +1379,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-18\">1-001</a> ]<br/>地名/記述：塔里木河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-18\">塔里木河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6509,1598,252,76/200,/0/default.jpg"
@@ -1391,7 +1391,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-19\">1-001</a> ]<br/>地名/記述：南河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-19\">南河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6216,1701,163,99/200,/0/default.jpg"
@@ -1403,7 +1403,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-20\">1-001</a> ]<br/>地名/記述：克里雅河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B1-20\">克里雅河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6429,1714,96,274/200,/0/default.jpg"
@@ -1415,7 +1415,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-01\">1-001</a> ]<br/>地名/記述：拜城<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-01\">拜城</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5985,1187,142,102/200,/0/default.jpg"
@@ -1427,7 +1427,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-02\">1-001</a> ]<br/>地名/記述：阿爾巴特河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-02\">阿爾巴特河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5767,1138,137,197/200,/0/default.jpg"
@@ -1439,7 +1439,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-03\">1-001</a> ]<br/>地名/記述：赤沙山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-03\">赤沙山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5847,1254,170,84/200,/0/default.jpg"
@@ -1451,7 +1451,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-04\">1-001</a> ]<br/>地名/記述：姑墨<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-04\">姑墨</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5993,1491,155,83/200,/0/default.jpg"
@@ -1463,7 +1463,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-05\">1-001</a> ]<br/>地名/記述：姑墨川水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-05\">姑墨川水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5887,1349,240,110/200,/0/default.jpg"
@@ -1475,7 +1475,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-06\">1-001</a> ]<br/>地名/記述：哈喇裕勒袞台<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-06\">哈喇裕勒袞台</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6006,1308,146,241/200,/0/default.jpg"
@@ -1487,7 +1487,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-07\">1-001</a> ]<br/>地名/記述：温宿<br/>記号：22"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-07\">温宿</a> ]<br/>分類：行政<br/>記号説明：直隷州"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5721,1311,88,126/200,/0/default.jpg"
@@ -1499,7 +1499,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-08\">1-001</a> ]<br/>地名/記述：温宿<br/>記号：11"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-08\">温宿</a> ]<br/>分類：行政<br/>記号説明：旧州治の郡県"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5691,1486,158,104/200,/0/default.jpg"
@@ -1511,7 +1511,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-09\">1-001</a> ]<br/>地名/記述：烏什<br/>記号：20"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-09\">烏什</a> ]<br/>分類：行政<br/>記号説明：直隷庁"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5455,1475,131,75/200,/0/default.jpg"
@@ -1523,7 +1523,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-10\">1-001</a> ]<br/>地名/記述：畢底爾河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-10\">畢底爾河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5215,1384,239,142/200,/0/default.jpg"
@@ -1535,7 +1535,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-11\">1-001</a> ]<br/>地名/記述：屯珠素山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-11\">屯珠素山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5352,1577,271,131/200,/0/default.jpg"
@@ -1547,7 +1547,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-12\">1-001</a> ]<br/>地名/記述：和闐河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-12\">和闐河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6084,1849,83,220/200,/0/default.jpg"
@@ -1559,7 +1559,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-13\">1-001</a> ]<br/>地名/記述：南河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-13\">南河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5646,1803,91,155/200,/0/default.jpg"
@@ -1571,7 +1571,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-14\">1-001</a> ]<br/>地名/記述：瑪喇巴什<br/>記号：20"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B2-14\">瑪喇巴什</a> ]<br/>分類：行政<br/>記号説明：直隷庁"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5436,1782,145,142/200,/0/default.jpg"
@@ -1583,7 +1583,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-01\">1-001</a> ]<br/>地名/記述：喀克善山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-01\">喀克善山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5118,1236,276,99/200,/0/default.jpg"
@@ -1595,7 +1595,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-02\">1-001</a> ]<br/>地名/記述：北河枝水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-02\">北河枝水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5046,1706,266,107/200,/0/default.jpg"
@@ -1607,7 +1607,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-03\">1-001</a> ]<br/>地名/記述：北山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-03\">北山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4742,1666,139,83/200,/0/default.jpg"
@@ -1619,7 +1619,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-04\">1-001</a> ]<br/>地名/記述：北山水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-04\">北山水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4857,1714,154,102/200,/0/default.jpg"
@@ -1631,7 +1631,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-05\">1-001</a> ]<br/>地名/記述：疏勒<br/>記号：17"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-05\">疏勒</a> ]<br/>分類：行政<br/>記号説明：省名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4951,1714,63,122/200,/0/default.jpg"
@@ -1643,7 +1643,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-06\">1-001</a> ]<br/>地名/記述：疏附<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-06\">疏附</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4712,1766,127,61/200,/0/default.jpg"
@@ -1655,7 +1655,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-07\">1-001</a> ]<br/>地名/記述：疏勒<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-07\">疏勒</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4773,1816,134,67/200,/0/default.jpg"
@@ -1667,7 +1667,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-08\">1-001</a> ]<br/>地名/記述：北河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-08\">北河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5326,1753,83,139/200,/0/default.jpg"
@@ -1679,7 +1679,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-09\">1-001</a> ]<br/>地名/記述：英吉沙爾<br/>記号：20"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-09\">英吉沙爾</a> ]<br/>分類：行政<br/>記号説明：直隷庁"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4997,1869,127,124/200,/0/default.jpg"
@@ -1691,7 +1691,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-10\">1-001</a> ]<br/>地名/記述：西布魯特<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-10\">西布魯特</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4631,1830,76,245/200,/0/default.jpg"
@@ -1703,7 +1703,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-11\">1-001</a> ]<br/>地名/記述：莎車<br/>記号：22"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-11\">莎車</a> ]<br/>分類：行政<br/>記号説明：直隷州"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5243,2004,100,79/200,/0/default.jpg"
@@ -1715,7 +1715,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-12\">1-001</a> ]<br/>地名/記述：莎車<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)B3-12\">莎車</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5079,2010,124,103/200,/0/default.jpg"
@@ -1727,7 +1727,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C1-01\">1-001</a> ]<br/>地名/記述：精絕<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C1-01\">精絕</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6536,2220,158,99/200,/0/default.jpg"
@@ -1739,7 +1739,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C1-02\">1-001</a> ]<br/>地名/記述：于闐<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C1-02\">于闐</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6515,2347,88,150/200,/0/default.jpg"
@@ -1751,7 +1751,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C1-03\">1-001</a> ]<br/>地名/記述：扜彌<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C1-03\">扜彌</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6240,2449,177,110/200,/0/default.jpg"
@@ -1763,7 +1763,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C2-01\">1-001</a> ]<br/>地名/記述：于闐<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C2-01\">于闐</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6038,2427,128,102/200,/0/default.jpg"
@@ -1775,7 +1775,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C2-02\">1-001</a> ]<br/>地名/記述：和闐<br/>記号：22"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C2-02\">和闐</a> ]<br/>分類：行政<br/>記号説明：直隷州"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5974,2492,91,123/200,/0/default.jpg"
@@ -1787,7 +1787,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C2-03\">1-001</a> ]<br/>地名/記述：于闐河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C2-03\">于闐河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5716,2460,212,102/200,/0/default.jpg"
@@ -1799,7 +1799,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C2-04\">1-001</a> ]<br/>地名/記述：皮山<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C2-04\">皮山</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5543,2374,134,96/200,/0/default.jpg"
@@ -1811,7 +1811,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C2-05\">1-001</a> ]<br/>地名/記述：仇摩置<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C2-05\">仇摩置</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5829,2643,204,96/200,/0/default.jpg"
@@ -1823,7 +1823,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C2-06\">1-001</a> ]<br/>地名/記述：南山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C2-06\">南山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5969,2850,150,96/200,/0/default.jpg"
@@ -1835,7 +1835,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-01\">1-001</a> ]<br/>地名/記述：葉城<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-01\">葉城</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5277,2185,96,161/200,/0/default.jpg"
@@ -1847,7 +1847,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-02\">1-001</a> ]<br/>地名/記述：蒲犂<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-02\">蒲犂</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5030,2247,128,104/200,/0/default.jpg"
@@ -1859,7 +1859,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-03\">1-001</a> ]<br/>地名/記述：西夜<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-03\">西夜</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5207,2384,153,88/200,/0/default.jpg"
@@ -1871,7 +1871,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-04\">1-001</a> ]<br/>地名/記述：子合<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-04\">子合</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4965,2446,163,83/200,/0/default.jpg"
@@ -1883,7 +1883,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-05\">1-001</a> ]<br/>地名/記述：依耐<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-05\">依耐</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4782,2360,150,80/200,/0/default.jpg"
@@ -1895,7 +1895,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-06\">1-001</a> ]<br/>地名/記述：乾竺特<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-06\">乾竺特</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5175,2667,206,88/200,/0/default.jpg"
@@ -1907,7 +1907,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-07\">1-001</a> ]<br/>地名/記述：烏秅<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-07\">烏秅</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4997,2616,153,99/200,/0/default.jpg"
@@ -1919,7 +1919,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-08\">1-001</a> ]<br/>地名/記述：蜺羅跂禘水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-08\">蜺羅跂禘水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4623,2522,188,139/200,/0/default.jpg"
@@ -1931,7 +1931,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-09\">1-001</a> ]<br/>地名/記述：博羅爾<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-09\">博羅爾</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4752,2643,194,104/200,/0/default.jpg"
@@ -1943,7 +1943,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-10\">1-001</a> ]<br/>地名/記述：北天竺<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-10\">北天竺</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4814,2717,154,71/200,/0/default.jpg"
@@ -1955,7 +1955,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-11\">1-001</a> ]<br/>地名/記述：塔<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-11\">塔</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4755,2736,60,65/200,/0/default.jpg"
@@ -1967,7 +1967,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-12\">1-001</a> ]<br/>地名/記述：四大塔<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-12\">四大塔</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4626,2694,161,75/200,/0/default.jpg"
@@ -1979,7 +1979,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-13\">1-001</a> ]<br/>地名/記述：塔<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-13\">塔</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4707,2758,61,41/200,/0/default.jpg"
@@ -1991,7 +1991,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-14\">1-001</a> ]<br/>地名/記述：塔<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-14\">塔</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4623,2749,73,63/200,/0/default.jpg"
@@ -2003,7 +2003,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-15\">1-001</a> ]<br/>地名/記述：犍陀衞<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-15\">犍陀衞</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4605,2737,18,83/200,/0/default.jpg"
@@ -2015,7 +2015,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-16\">1-001</a> ]<br/>地名/記述：即犍陀越<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-16\">即犍陀越</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4580,2728,14,84/200,/0/default.jpg"
@@ -2027,7 +2027,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-17\">1-001</a> ]<br/>地名/記述：巴勒提<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-17\">巴勒提</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5229,2866,212,85/200,/0/default.jpg"
@@ -2039,7 +2039,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-18\">1-001</a> ]<br/>地名/記述：竺刹尸羅<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-18\">竺刹尸羅</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4701,2817,98,104/200,/0/default.jpg"
@@ -2051,7 +2051,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-19\">1-001</a> ]<br/>地名/記述：塔<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-19\">塔</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4637,2830,49,52/200,/0/default.jpg"
@@ -2063,7 +2063,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-20\">1-001</a> ]<br/>地名/記述：弗樓沙<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-20\">弗樓沙</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4595,2879,72,53/200,/0/default.jpg"
@@ -2075,7 +2075,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-21\">1-001</a> ]<br/>地名/記述：懸度<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-21\">懸度</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4589,2939,104,96/200,/0/default.jpg"
@@ -2087,7 +2087,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-22\">1-001</a> ]<br/>地名/記述：新頭河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT1(b)C3-22\">新頭河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5017,2979,266,107/200,/0/default.jpg"
@@ -2099,7 +2099,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)A1-01\">1-001</a> ]<br/>地名/記述：哈薩克右中部<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)A1-01\">哈薩克右中部</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4425,283,169,220/200,/0/default.jpg"
@@ -2111,7 +2111,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)A1-02\">1-001</a> ]<br/>地名/記述：塔什罕<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)A1-02\">塔什罕</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3922,988,99,196/200,/0/default.jpg"
@@ -2123,7 +2123,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)A2-01\">1-001</a> ]<br/>地名/記述：康居<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)A2-01\">康居</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3674,593,158,102/200,/0/default.jpg"
@@ -2135,7 +2135,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)A2-02\">1-001</a> ]<br/>地名/記述：納林河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)A2-02\">納林河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3204,590,284,118/200,/0/default.jpg"
@@ -2147,7 +2147,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)A2-03\">1-001</a> ]<br/>地名/記述：科拉普<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)A2-03\">科拉普</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3535,835,102,239/200,/0/default.jpg"
@@ -2159,7 +2159,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)A3-01\">1-001</a> ]<br/>地名/記述：拜爾哈<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)A3-01\">拜爾哈</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/2964,506,96,223/200,/0/default.jpg"
@@ -2171,7 +2171,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-01\">1-001</a> ]<br/>地名/記述：納林河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-01\">納林河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4089,1171,220,58/200,/0/default.jpg"
@@ -2183,7 +2183,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-02\">1-001</a> ]<br/>地名/記述：安集延<br/>記号：25"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-02\">安集延</a> ]<br/>分類：行政<br/>記号説明：土県・堡鎮"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4032,1292,180,91/200,/0/default.jpg"
@@ -2195,7 +2195,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-03\">1-001</a> ]<br/>地名/記述：馬爾噶朗<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-03\">馬爾噶朗</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3833,1418,96,255/200,/0/default.jpg"
@@ -2207,7 +2207,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-04\">1-001</a> ]<br/>地名/記述：捐毒<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-04\">捐毒</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4185,1696,133,96/200,/0/default.jpg"
@@ -2219,7 +2219,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-05\">1-001</a> ]<br/>地名/記述：哈刺庫爾<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-05\">哈刺庫爾</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4169,1692,141,124/200,/0/default.jpg"
@@ -2231,7 +2231,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-06\">1-001</a> ]<br/>地名/記述：休循<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-06\">休循</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3957,1706,147,85/200,/0/default.jpg"
@@ -2243,7 +2243,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-07\">1-001</a> ]<br/>地名/記述：伽舎羅<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-07\">伽舎羅</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4393,1755,209,107/200,/0/default.jpg"
@@ -2255,7 +2255,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-08\">1-001</a> ]<br/>地名/記述：葱嶺<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-08\">葱嶺</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3903,1795,96,158/200,/0/default.jpg"
@@ -2267,7 +2267,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-09\">1-001</a> ]<br/>地名/記述：蔥嶺北河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-09\">蔥嶺北河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4482,1889,142,174/200,/0/default.jpg"
@@ -2279,7 +2279,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-10\">1-001</a> ]<br/>地名/記述：什克南<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-10\">什克南</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4116,1838,88,185/200,/0/default.jpg"
@@ -2291,7 +2291,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-11\">1-001</a> ]<br/>地名/記述：岐沙谷<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-11\">岐沙谷</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4390,1957,99,198/200,/0/default.jpg"
@@ -2303,7 +2303,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-12\">1-001</a> ]<br/>地名/記述：蔥嶺<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-12\">蔥嶺</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4091,2083,150,88/200,/0/default.jpg"
@@ -2315,7 +2315,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-13\">1-001</a> ]<br/>地名/記述：即羅逝西山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-13\">即羅逝西山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4089,2174,196,122/200,/0/default.jpg"
@@ -2327,7 +2327,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-14\">1-001</a> ]<br/>地名/記述：窩什<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-14\">窩什</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3841,2053,72,137/200,/0/default.jpg"
@@ -2339,7 +2339,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-15\">1-001</a> ]<br/>地名/記述：發源蔥嶺西流之水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B1-15\">發源蔥嶺西流之水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3779,2016,271,255/200,/0/default.jpg"
@@ -2351,7 +2351,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B2-01\">1-001</a> ]<br/>地名/記述：霍罕<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B2-01\">霍罕</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3738,1558,93,180/200,/0/default.jpg"
@@ -2363,7 +2363,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B2-02\">1-001</a> ]<br/>地名/記述：大宛<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B2-02\">大宛</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3450,1792,131,107/200,/0/default.jpg"
@@ -2375,7 +2375,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B2-03\">1-001</a> ]<br/>地名/記述：納木干<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B2-03\">納木干</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3343,1763,99,201/200,/0/default.jpg"
@@ -2387,7 +2387,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B2-04\">1-001</a> ]<br/>地名/記述：霍占<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B2-04\">霍占</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3230,1932,102,161/200,/0/default.jpg"
@@ -2399,7 +2399,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B2-05\">1-001</a> ]<br/>地名/記述：大月氏<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B2-05\">大月氏</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3093,2123,180,99/200,/0/default.jpg"
@@ -2411,7 +2411,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B3-01\">1-001</a> ]<br/>地名/記述：布哈爾<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B3-01\">布哈爾</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/2630,1523,223,88/200,/0/default.jpg"
@@ -2423,7 +2423,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B3-02\">1-001</a> ]<br/>地名/記述：濟雜克<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B3-02\">濟雜克</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/2912,1873,93,223/200,/0/default.jpg"
@@ -2435,7 +2435,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B3-03\">1-001</a> ]<br/>地名/記述：坎達哈爾<br/>記号：25"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)B3-03\">坎達哈爾</a> ]<br/>分類：行政<br/>記号説明：土県・堡鎮"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/2364,2035,153,126/200,/0/default.jpg"
@@ -2447,7 +2447,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-01\">1-001</a> ]<br/>地名/記述：蔥嶺南河<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-01\">蔥嶺南河</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4505,2193,126,163/200,/0/default.jpg"
@@ -2459,7 +2459,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-02\">1-001</a> ]<br/>地名/記述：窩罕<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-02\">窩罕</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4440,2215,72,150/200,/0/default.jpg"
@@ -2471,7 +2471,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-03\">1-001</a> ]<br/>地名/記述：無雷<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-03\">無雷</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4395,2344,142,75/200,/0/default.jpg"
@@ -2483,7 +2483,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-04\">1-001</a> ]<br/>地名/記述：鉄門<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-04\">鉄門</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3787,2282,185,85/200,/0/default.jpg"
@@ -2495,7 +2495,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-05\">1-001</a> ]<br/>地名/記述：難兠<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-05\">難兠</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3913,2470,158,85/200,/0/default.jpg"
@@ -2507,7 +2507,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-06\">1-001</a> ]<br/>地名/記述：哈達克山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-06\">哈達克山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4414,2562,158,131/200,/0/default.jpg"
@@ -2519,7 +2519,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-07\">1-001</a> ]<br/>地名/記述：葱嶺<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-07\">葱嶺</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3873,2553,88,130/200,/0/default.jpg"
@@ -2531,7 +2531,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-08\">1-001</a> ]<br/>地名/記述：龍淵<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-08\">龍淵</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4502,2704,112,71/200,/0/default.jpg"
@@ -2543,7 +2543,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-09\">1-001</a> ]<br/>地名/記述：鉢吐羅越城<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-09\">鉢吐羅越城</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4598,2720,28,100/200,/0/default.jpg"
@@ -2555,7 +2555,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-10\">1-001</a> ]<br/>地名/記述：烏萇<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-10\">烏萇</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4475,2850,131,91/200,/0/default.jpg"
@@ -2567,7 +2567,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-11\">1-001</a> ]<br/>地名/記述：大頭痛小頭痛山赤土身熱阪<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C1-11\">大頭痛小頭痛山赤土身熱阪</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3916,2815,457,193/200,/0/default.jpg"
@@ -2579,7 +2579,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C2-01\">1-001</a> ]<br/>地名/記述：阿母河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C2-01\">阿母河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3111,2304,298,107/200,/0/default.jpg"
@@ -2591,7 +2591,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C2-02\">1-001</a> ]<br/>地名/記述：噶斯尼<br/>記号：25"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C2-02\">噶斯尼</a> ]<br/>分類：行政<br/>記号説明：土県・堡鎮"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3391,2489,198,104/200,/0/default.jpg"
@@ -2603,7 +2603,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C2-03\">1-001</a> ]<br/>地名/記述：大夏<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C2-03\">大夏</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3095,2548,139,88/200,/0/default.jpg"
@@ -2615,7 +2615,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C2-04\">1-001</a> ]<br/>地名/記述：罽賓<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C2-04\">罽賓</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3582,2812,153,118/200,/0/default.jpg"
@@ -2627,7 +2627,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C2-05\">1-001</a> ]<br/>地名/記述：阿哈富布汗尓<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C2-05\">阿哈富布汗尓</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3609,2979,204,128/200,/0/default.jpg"
@@ -2639,7 +2639,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C3-01\">1-001</a> ]<br/>地名/記述：鄂勒推帕<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(a)C3-01\">鄂勒推帕</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/2998,2392,91,271/200,/0/default.jpg"
@@ -2651,7 +2651,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)A1-01\">1-001</a> ]<br/>地名/記述：西海<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)A1-01\">西海</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/1841,224,174,75/200,/0/default.jpg"
@@ -2663,7 +2663,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)A1-02\">1-001</a> ]<br/>地名/記述：鹹海<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)A1-02\">鹹海</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/1887,200,75,153/200,/0/default.jpg"
@@ -2675,7 +2675,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)A1-03\">1-001</a> ]<br/>地名/記述：雷翥海<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)A1-03\">雷翥海</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/1811,340,223,110/200,/0/default.jpg"
@@ -2687,7 +2687,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)A2-01\">1-001</a> ]<br/>地名/記述：軍突機窪各部<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)A2-01\">軍突機窪各部</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/1249,141,99,500/200,/0/default.jpg"
@@ -2699,7 +2699,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)A3-01\">1-001</a> ]<br/>地名/記述：裏海<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)A3-01\">裏海</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/227,633,118,185/200,/0/default.jpg"
@@ -2711,7 +2711,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)B1-01\">1-001</a> ]<br/>地名/記述：安息<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)B1-01\">安息</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/1897,1322,147,112/200,/0/default.jpg"
@@ -2723,7 +2723,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)B1-02\">1-001</a> ]<br/>地名/記述：媯水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)B1-02\">媯水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/1817,1464,107,171/200,/0/default.jpg"
@@ -2735,7 +2735,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)C1-01\">1-001</a> ]<br/>地名/記述：哥辣森<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)C1-01\">哥辣森</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/1701,2481,276,110/200,/0/default.jpg"
@@ -2747,7 +2747,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)C1-02\">1-001</a> ]<br/>地名/記述：古義斯丹<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)C1-02\">古義斯丹</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/1879,2963,196,153/200,/0/default.jpg"
@@ -2759,7 +2759,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)C2-01\">1-001</a> ]<br/>地名/記述：達巴利斯丹<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)C2-01\">達巴利斯丹</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/1015,2530,373,91/200,/0/default.jpg"
@@ -2771,7 +2771,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)C3-01\">1-001</a> ]<br/>地名/記述：馬郎德蘭<br/>記号：25"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)C3-01\">馬郎德蘭</a> ]<br/>分類：行政<br/>記号説明：土県・堡鎮"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/434,2535,258,107/200,/0/default.jpg"
@@ -2783,7 +2783,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)C3-02\">1-001</a> ]<br/>地名/記述：德克蘭<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)C3-02\">德克蘭</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/272,2753,206,123/200,/0/default.jpg"
@@ -2795,7 +2795,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)C3-03\">1-001</a> ]<br/>地名/記述：波斯北七部<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XT2(b)C3-03\">波斯北七部</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/9,2723,102,333/200,/0/default.jpg"
@@ -2807,7 +2807,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)A1-01\">1-001</a> ]<br/>地名/記述：灑滄源<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)A1-01\">灑滄源</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/9149,3681,91,171/200,/0/default.jpg"
@@ -2819,7 +2819,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)A2-01\">1-001</a> ]<br/>地名/記述：怒江源<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)A2-01\">怒江源</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7963,3159,225,85/200,/0/default.jpg"
@@ -2831,7 +2831,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)A2-02\">1-001</a> ]<br/>地名/記述：布喀泊<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)A2-02\">布喀泊</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8165,3388,75,201/200,/0/default.jpg"
@@ -2843,7 +2843,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)A2-03\">1-001</a> ]<br/>地名/記述：騰格里泊<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)A2-03\">騰格里泊</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7766,3503,271,123/200,/0/default.jpg"
@@ -2855,7 +2855,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)A2-04\">1-001</a> ]<br/>地名/記述：布達拉<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)A2-04\">布達拉</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8049,3670,209,96/200,/0/default.jpg"
@@ -2867,7 +2867,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)A2-05\">1-001</a> ]<br/>地名/記述：雅魯藏布江<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)A2-05\">雅魯藏布江</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7909,3915,357,88/200,/0/default.jpg"
@@ -2879,7 +2879,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B1-01\">1-001</a> ]<br/>地名/記述：前藏<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B1-01\">前藏</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8487,4173,180,115/200,/0/default.jpg"
@@ -2891,7 +2891,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B1-02\">1-001</a> ]<br/>地名/記述：布魯克巴<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B1-02\">布魯克巴</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8381,4464,268,91/200,/0/default.jpg"
@@ -2903,7 +2903,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B1-03\">1-001</a> ]<br/>地名/記述：阿薩密<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B1-03\">阿薩密</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8474,4682,206,137/200,/0/default.jpg"
@@ -2915,7 +2915,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B1-04\">1-001</a> ]<br/>地名/記述：即不丹<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B1-04\">即不丹</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8211,4500,176,73/200,/0/default.jpg"
@@ -2927,7 +2927,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B2-01\">1-001</a> ]<br/>地名/記述：哲孟雄<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B2-01\">哲孟雄</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7686,4397,96,215/200,/0/default.jpg"
@@ -2939,7 +2939,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B3-01\">1-001</a> ]<br/>地名/記述：扎什倫市<br/>記号：25"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B3-01\">扎什倫市</a> ]<br/>分類：行政<br/>記号説明：土県・堡鎮"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7395,4074,182,155/200,/0/default.jpg"
@@ -2951,7 +2951,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B3-02\">1-001</a> ]<br/>地名/記述：後藏<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B3-02\">後藏</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7045,4152,177,96/200,/0/default.jpg"
@@ -2963,7 +2963,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B3-03\">1-001</a> ]<br/>地名/記述：尼泊爾<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B3-03\">尼泊爾</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7323,4683,222,87/200,/0/default.jpg"
@@ -2975,7 +2975,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B3-04\">1-001</a> ]<br/>地名/記述：即廓爾喀<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)B3-04\">即廓爾喀</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7069,4712,269,100/200,/0/default.jpg"
@@ -2987,7 +2987,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C1-01\">1-001</a> ]<br/>地名/記述：緬甸<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C1-01\">緬甸</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8926,5120,96,163/200,/0/default.jpg"
@@ -2999,7 +2999,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C1-02\">1-001</a> ]<br/>地名/記述：潞江<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C1-02\">潞江</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/9079,5384,161,96/200,/0/default.jpg"
@@ -3011,7 +3011,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C1-03\">1-001</a> ]<br/>地名/記述：蒲甘新都<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C1-03\">蒲甘新都</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8824,5481,182,158/200,/0/default.jpg"
@@ -3023,7 +3023,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C2-01\">1-001</a> ]<br/>地名/記述：雅魯藏布江<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C2-01\">雅魯藏布江</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7769,5013,389,112/200,/0/default.jpg"
@@ -3035,7 +3035,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C2-02\">1-001</a> ]<br/>地名/記述：迦那調洲<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C2-02\">迦那調洲</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7815,5258,336,99/200,/0/default.jpg"
@@ -3047,7 +3047,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-01\">1-001</a> ]<br/>地名/記述：孟加拉<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-01\">孟加拉</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7105,5093,204,91/200,/0/default.jpg"
@@ -3059,7 +3059,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-02\">1-001</a> ]<br/>地名/記述：瞻婆<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-02\">瞻婆</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6986,5058,88,185/200,/0/default.jpg"
@@ -3071,7 +3071,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-03\">1-001</a> ]<br/>地名/記述：安額河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-03\">安額河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6940,4904,96,230/200,/0/default.jpg"
@@ -3083,7 +3083,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-04\">1-001</a> ]<br/>地名/記述：加爾各答<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-04\">加爾各答</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7578,5333,118,126/200,/0/default.jpg"
@@ -3095,7 +3095,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-05\">1-001</a> ]<br/>地名/記述：波麗<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-05\">波麗</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7618,5333,162,120/200,/0/default.jpg"
@@ -3107,7 +3107,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-06\">1-001</a> ]<br/>地名/記述：多摩梨帝<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-06\">多摩梨帝</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7647,5387,208,123/200,/0/default.jpg"
@@ -3119,7 +3119,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-07\">1-001</a> ]<br/>地名/記述：擔袂<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-07\">擔袂</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7651,5486,123,84/200,/0/default.jpg"
@@ -3131,7 +3131,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-08\">1-001</a> ]<br/>地名/記述：恆水入海<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-08\">恆水入海</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7384,5411,174,169/200,/0/default.jpg"
@@ -3143,7 +3143,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-09\">1-001</a> ]<br/>地名/記述：即恒河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)C3-09\">即恒河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6957,5130,79,177/200,/0/default.jpg"
@@ -3155,7 +3155,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)D1-01\">1-001</a> ]<br/>地名/記述：阿瓦舊都<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)D1-01\">阿瓦舊都</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/8848,5809,185,180/200,/0/default.jpg"
@@ -3167,7 +3167,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)D2-01\">1-001</a> ]<br/>地名/記述：海<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)D2-01\">海</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7758,5839,193,188/200,/0/default.jpg"
@@ -3179,7 +3179,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)D2-02\">1-001</a> ]<br/>地名/記述：小西洋海<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(a)D2-02\">小西洋海</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/7694,5806,77,287/200,/0/default.jpg"
@@ -3191,7 +3191,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A1-01\">1-001</a> ]<br/>地名/記述：伊克池<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A1-01\">伊克池</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6356,3108,150,142/200,/0/default.jpg"
@@ -3203,7 +3203,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A1-02\">1-001</a> ]<br/>地名/記述：阿耨達大山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A1-02\">阿耨達大山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5987,3307,397,88/200,/0/default.jpg"
@@ -3215,7 +3215,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A1-03\">1-001</a> ]<br/>地名/記述：即崑崙山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A1-03\">即崑崙山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6028,3387,301,81/200,/0/default.jpg"
@@ -3227,7 +3227,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A1-04\">1-001</a> ]<br/>地名/記述：藏江源<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A1-04\">藏江源</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6517,3727,99,196/200,/0/default.jpg"
@@ -3239,7 +3239,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A1-05\">1-001</a> ]<br/>地名/記述：阿里<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A1-05\">阿里</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6262,3705,85,147/200,/0/default.jpg"
@@ -3251,7 +3251,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A2-01\">1-001</a> ]<br/>地名/記述：岡底斯山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A2-01\">岡底斯山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5705,3143,276,93/200,/0/default.jpg"
@@ -3263,7 +3263,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A2-02\">1-001</a> ]<br/>地名/記述：印度河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A2-02\">印度河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5611,3296,75,236/200,/0/default.jpg"
@@ -3275,7 +3275,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A2-03\">1-001</a> ]<br/>地名/記述：新頭河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A2-03\">新頭河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5743,3450,228,75/200,/0/default.jpg"
@@ -3287,7 +3287,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A2-04\">1-001</a> ]<br/>地名/記述：一名甘水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A2-04\">一名甘水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5691,3522,311,79/200,/0/default.jpg"
@@ -3299,7 +3299,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A2-05\">1-001</a> ]<br/>地名/記述：馬帕木達賴池<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A2-05\">馬帕木達賴池</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5780,3586,163,170/200,/0/default.jpg"
@@ -3311,7 +3311,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A2-06\">1-001</a> ]<br/>地名/記述：恆水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A2-06\">恆水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5492,3686,102,126/200,/0/default.jpg"
@@ -3323,7 +3323,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A2-07\">1-001</a> ]<br/>地名/記述：即枝扈黎大江<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A2-07\">即枝扈黎大江</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5323,3700,198,112/200,/0/default.jpg"
@@ -3335,7 +3335,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-01\">1-001</a> ]<br/>地名/記述：克什米爾<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-01\">克什米爾</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4650,3164,266,85/200,/0/default.jpg"
@@ -3347,7 +3347,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-02\">1-001</a> ]<br/>地名/記述：雪山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-02\">雪山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5309,3232,85,142/200,/0/default.jpg"
@@ -3359,7 +3359,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-03\">1-001</a> ]<br/>地名/記述：摩頭羅<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-03\">摩頭羅</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5118,3525,204,102/200,/0/default.jpg"
@@ -3371,7 +3371,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-04\">1-001</a> ]<br/>地名/記述：拉維河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-04\">拉維河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4871,3450,88,233/200,/0/default.jpg"
@@ -3383,7 +3383,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-05\">1-001</a> ]<br/>地名/記述：隆德勒至河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-05\">隆德勒至河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4984,3659,145,194/200,/0/default.jpg"
@@ -3395,7 +3395,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-06\">1-001</a> ]<br/>地名/記述：蒲那河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-06\">蒲那河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4879,3651,182,143/200,/0/default.jpg"
@@ -3407,7 +3407,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-07\">1-001</a> ]<br/>地名/記述：恆伽水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-07\">恆伽水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5215,3689,104,120/200,/0/default.jpg"
@@ -3419,7 +3419,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-08\">1-001</a> ]<br/>地名/記述：薩罕水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-08\">薩罕水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5143,3705,99,120/200,/0/default.jpg"
@@ -3431,7 +3431,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-09\">1-001</a> ]<br/>地名/記述：遥奴水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-09\">遥奴水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5108,3726,61,141/200,/0/default.jpg"
@@ -3443,7 +3443,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-10\">1-001</a> ]<br/>地名/記述：希連禪河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-10\">希連禪河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5188,3837,221,83/200,/0/default.jpg"
@@ -3455,7 +3455,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-11\">1-001</a> ]<br/>地名/記述：拘夷那竭<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-11\">拘夷那竭</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5204,3898,232,57/200,/0/default.jpg"
@@ -3467,7 +3467,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-12\">1-001</a> ]<br/>地名/記述：恆河源<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)A3-12\">恆河源</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5183,3812,88,186/200,/0/default.jpg"
@@ -3479,7 +3479,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B1-01\">1-001</a> ]<br/>地名/記述：雅魯藏布江<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B1-01\">雅魯藏布江</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6377,4192,349,115/200,/0/default.jpg"
@@ -3491,7 +3491,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B2-01\">1-001</a> ]<br/>地名/記述：恆河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B2-01\">恆河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5471,4286,198,88/200,/0/default.jpg"
@@ -3503,7 +3503,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B2-02\">1-001</a> ]<br/>地名/記述：亞加拉<br/>記号：19"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B2-02\">亞加拉</a> ]<br/>分類：行政<br/>記号説明：県名（清）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5497,4693,79,188/200,/0/default.jpg"
@@ -3515,7 +3515,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B2-03\">1-001</a> ]<br/>地名/記述：河南摩强水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B2-03\">河南摩强水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5323,4687,212,161/200,/0/default.jpg"
@@ -3527,7 +3527,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B3-01\">1-001</a> ]<br/>地名/記述：僧迦扇柰揭城<br/>記号：11"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B3-01\">僧迦扇柰揭城</a> ]<br/>分類：行政<br/>記号説明：旧州治の郡県"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5290,3934,329,96/200,/0/default.jpg"
@@ -3539,7 +3539,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B3-02\">1-001</a> ]<br/>地名/記述：僧迦施<br/>記号：11"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B3-02\">僧迦施</a> ]<br/>分類：行政<br/>記号説明：旧州治の郡県"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5301,4017,202,54/200,/0/default.jpg"
@@ -3551,7 +3551,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B3-03\">1-001</a> ]<br/>地名/記述：罽饒夷城<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B3-03\">罽饒夷城</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5346,4066,243,91/200,/0/default.jpg"
@@ -3563,7 +3563,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B3-04\">1-001</a> ]<br/>地名/記述：沙祇<br/>記号：11"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B3-04\">沙祇</a> ]<br/>分類：行政<br/>記号説明：旧州治の郡県"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5296,4375,166,112/200,/0/default.jpg"
@@ -3575,7 +3575,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B3-05\">1-001</a> ]<br/>地名/記述：毗舎利<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)B3-05\">毗舎利</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5113,4039,80,185/200,/0/default.jpg"
@@ -3587,7 +3587,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-01\">1-001</a> ]<br/>地名/記述：五河合口<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-01\">五河合口</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6579,4841,153,139/200,/0/default.jpg"
@@ -3599,7 +3599,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-02\">1-001</a> ]<br/>地名/記述：五河合口<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-02\">五河合口</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6625,4848,91,227/200,/0/default.jpg"
@@ -3611,7 +3611,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-03\">1-001</a> ]<br/>地名/記述：摩竭提國巴連弗邑<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-03\">摩竭提國巴連弗邑</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6673,5048,229,150/200,/0/default.jpg"
@@ -3623,7 +3623,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-04\">1-001</a> ]<br/>地名/記述：小孤石山<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-04\">小孤石山</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6768,5215,145,112/200,/0/default.jpg"
@@ -3635,7 +3635,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-05\">1-001</a> ]<br/>地名/記述：王舎新城<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-05\">王舎新城</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6496,5190,217,75/200,/0/default.jpg"
@@ -3647,7 +3647,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-06\">1-001</a> ]<br/>地名/記述：䓑沙舊城<br/>記号：9"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-06\">䓑沙舊城</a> ]<br/>分類：行政<br/>記号説明：州郡跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6488,5276,239,83/200,/0/default.jpg"
@@ -3659,7 +3659,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-07\">1-001</a> ]<br/>地名/記述：東印度<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-07\">東印度</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6423,5198,99,209/200,/0/default.jpg"
@@ -3671,7 +3671,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-08\">1-001</a> ]<br/>地名/記述：耆闍窟山<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-08\">耆闍窟山</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6663,5371,150,155/200,/0/default.jpg"
@@ -3683,7 +3683,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-09\">1-001</a> ]<br/>地名/記述：迦那城<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C1-09\">迦那城</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6517,5400,89,196/200,/0/default.jpg"
@@ -3695,7 +3695,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C2-01\">1-001</a> ]<br/>地名/記述：恆河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C2-01\">恆河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/6108,5005,85,217/200,/0/default.jpg"
@@ -3707,7 +3707,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C2-02\">1-001</a> ]<br/>地名/記述：藍莫塔<br/>記号：10"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C2-02\">藍莫塔</a> ]<br/>分類：行政<br/>記号説明：県跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5740,4980,104,247/200,/0/default.jpg"
@@ -3719,7 +3719,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C2-03\">1-001</a> ]<br/>地名/記述：迦維羅衞<br/>記号：11"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C2-03\">迦維羅衞</a> ]<br/>分類：行政<br/>記号説明：旧州治の郡県"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5519,4878,135,190/200,/0/default.jpg"
@@ -3731,7 +3731,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C2-04\">1-001</a> ]<br/>地名/記述：中印度<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C2-04\">中印度</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5508,4942,102,222/200,/0/default.jpg"
@@ -3743,7 +3743,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C2-05\">1-001</a> ]<br/>地名/記述：迦尸國波羅柰城<br/>記号：7"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB1(b)C2-05\">迦尸國波羅柰城</a> ]<br/>分類：行政<br/>記号説明：郡名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/5890,5538,222,238/200,/0/default.jpg"
@@ -3755,7 +3755,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)A1-01\">1-001</a> ]<br/>地名/記述：毗荼<br/>記号：11"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)A1-01\">毗荼</a> ]<br/>分類：行政<br/>記号説明：旧州治の郡県"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4494,3153,115,169/200,/0/default.jpg"
@@ -3767,7 +3767,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)A1-02\">1-001</a> ]<br/>地名/記述：新頭河<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)A1-02\">新頭河</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4316,3505,184,177/200,/0/default.jpg"
@@ -3779,7 +3779,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)B2-01\">1-001</a> ]<br/>地名/記述：俾路芝<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)B2-01\">俾路芝</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3032,4196,253,115/200,/0/default.jpg"
@@ -3791,7 +3791,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)C1-01\">1-001</a> ]<br/>地名/記述：西印度<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)C1-01\">西印度</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4376,5158,84,209/200,/0/default.jpg"
@@ -3803,7 +3803,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)C2-01\">1-001</a> ]<br/>地名/記述：信地<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)C2-01\">信地</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3699,4863,107,142/200,/0/default.jpg"
@@ -3815,7 +3815,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)C2-02\">1-001</a> ]<br/>地名/記述：摩訶刺<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)C2-02\">摩訶刺</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3712,5022,253,124/200,/0/default.jpg"
@@ -3827,7 +3827,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)C2-03\">1-001</a> ]<br/>地名/記述：新頭河入海<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)C2-03\">新頭河入海</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3387,5134,160,237/200,/0/default.jpg"
@@ -3839,7 +3839,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)C2-04\">1-001</a> ]<br/>地名/記述：印度河口<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)C2-04\">印度河口</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3178,5216,158,166/200,/0/default.jpg"
@@ -3851,7 +3851,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)C3-01\">1-001</a> ]<br/>地名/記述：小西洋海<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)C3-01\">小西洋海</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/2400,5513,88,293/200,/0/default.jpg"
@@ -3863,7 +3863,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)D1-01\">1-001</a> ]<br/>地名/記述：南天竺<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)D1-01\">南天竺</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/4397,6083,236,104/200,/0/default.jpg"
@@ -3875,7 +3875,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)D2-01\">1-001</a> ]<br/>地名/記述：海<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(a)D2-01\">海</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/3057,5626,204,204/200,/0/default.jpg"
@@ -3887,7 +3887,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(b)A1-01\">1-001</a> ]<br/>地名/記述：波斯南四部<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(b)A1-01\">波斯南四部</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/2013,3199,110,311/200,/0/default.jpg"
@@ -3899,7 +3899,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(b)A1-02\">1-001</a> ]<br/>地名/記述：給爾滿<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(b)A1-02\">給爾滿</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/1626,3482,225,96/200,/0/default.jpg"
@@ -3911,7 +3911,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(b)A3-01\">1-001</a> ]<br/>地名/記述：法爾斯<br/>記号：25"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(b)A3-01\">法爾斯</a> ]<br/>分類：行政<br/>記号説明：土県・堡鎮"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/455,3191,239,99/200,/0/default.jpg"
@@ -3923,7 +3923,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(b)A3-02\">1-001</a> ]<br/>地名/記述：刺郡<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(b)A3-02\">刺郡</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/307,3746,161,123/200,/0/default.jpg"
@@ -3935,7 +3935,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(b)B2-01\">1-001</a> ]<br/>地名/記述：刺郡<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(b)B2-01\">刺郡</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/1063,4311,198,107/200,/0/default.jpg"
@@ -3947,7 +3947,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(b)B3-01\">1-001</a> ]<br/>地名/記述：阿勒富海<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(b)B3-01\">阿勒富海</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/598,4678,111,300/200,/0/default.jpg"
@@ -3959,7 +3959,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(b)C2-01\">1-001</a> ]<br/>地名/記述：末惡島<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/XB2(b)C2-01\">末惡島</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/1031,4805,249,107/200,/0/default.jpg"

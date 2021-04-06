@@ -5,9 +5,9 @@
     ],
     "@id": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/jouzu09_rinshi.json",
     "@type": "cr:Curation",
-    "label": "琉球国絵図プロジェクト",
+    "label": "jouzu09_rinshi",
     "related": {
-        "@id": "http://codh.rois.ac.jp/edo-maps/about/#legend",
+        "@id": "https://nakamura196.github.io/suikeichuuzu/asset/legend.pdf",
         "@type": "cr:MarkerLegend"
     },
     "selections": [
@@ -23,7 +23,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-01\">1-001</a> ]<br/>地名/記述：北郭<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-01\">北郭</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/922,827,156,98/200,/0/default.jpg"
@@ -35,7 +35,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-02\">1-001</a> ]<br/>地名/記述：東郭<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-02\">東郭</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1741,1589,92,196/200,/0/default.jpg"
@@ -47,7 +47,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-03\">1-001</a> ]<br/>地名/記述：晏嬰冢宅<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-03\">晏嬰冢宅</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1009,1002,258,87/200,/0/default.jpg"
@@ -59,7 +59,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-04\">1-001</a> ]<br/>地名/記述：清節里<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-04\">清節里</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1052,1078,203,77/200,/0/default.jpg"
@@ -71,7 +71,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-05\">1-001</a> ]<br/>地名/記述：梧宮<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-05\">梧宮</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/162,935,126,81/200,/0/default.jpg"
@@ -83,7 +83,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-06\">1-001</a> ]<br/>地名/記述：梧臺里<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-06\">梧臺里</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/140,1010,198,79/200,/0/default.jpg"
@@ -95,7 +95,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-07\">1-001</a> ]<br/>地名/記述：石社碑<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-07\">石社碑</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/32,844,102,207/200,/0/default.jpg"
@@ -107,7 +107,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-08\">1-001</a> ]<br/>地名/記述：西門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-08\">西門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/108,1177,141,94/200,/0/default.jpg"
@@ -119,7 +119,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-09\">1-001</a> ]<br/>地名/記述：齊城<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-09\">齊城</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1219,1596,164,102/200,/0/default.jpg"
@@ -131,7 +131,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-10\">1-001</a> ]<br/>地名/記述：營城<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-10\">營城</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1224,1691,160,71/200,/0/default.jpg"
@@ -143,7 +143,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-11\">1-001</a> ]<br/>地名/記述：北門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-11\">北門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/931,1182,144,89/200,/0/default.jpg"
@@ -155,7 +155,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-12\">1-001</a> ]<br/>地名/記述：陽門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-12\">陽門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/500,1385,146,86/200,/0/default.jpg"
@@ -167,7 +167,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-13\">1-001</a> ]<br/>地名/記述：雍門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-13\">雍門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/499,1650,141,93/200,/0/default.jpg"
@@ -179,7 +179,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-14\">1-001</a> ]<br/>地名/記述：禝門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-14\">禝門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/493,1915,150,89/200,/0/default.jpg"
@@ -191,7 +191,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-15\">1-001</a> ]<br/>地名/記述：申門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-15\">申門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/616,2116,128,100/200,/0/default.jpg"
@@ -203,7 +203,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-16\">1-001</a> ]<br/>地名/記述：故臺<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-16\">故臺</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/918,1481,157,102/200,/0/default.jpg"
@@ -215,7 +215,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-17\">1-001</a> ]<br/>地名/記述：小城<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-17\">小城</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/927,1594,132,84/200,/0/default.jpg"
@@ -227,7 +227,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-18\">1-001</a> ]<br/>地名/記述：營邱<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-18\">營邱</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/924,1710,150,86/200,/0/default.jpg"
@@ -239,7 +239,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-19\">1-001</a> ]<br/>地名/記述：朱虛侯章廟<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-19\">朱虛侯章廟</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/826,1811,331,105/200,/0/default.jpg"
@@ -251,7 +251,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-20\">1-001</a> ]<br/>地名/記述：禝下<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-20\">禝下</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/337,1877,93,153/200,/0/default.jpg"
@@ -263,7 +263,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-21\">1-001</a> ]<br/>地名/記述：申池<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-21\">申池</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/374,2267,137,71/200,/0/default.jpg"
@@ -275,7 +275,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-22\">1-001</a> ]<br/>地名/記述：外郭即獻公所徙臨淄城世謂之虜城<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-22\">外郭即獻公所徙臨淄城世謂之虜城</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/755,2292,576,173/200,/0/default.jpg"
@@ -287,7 +287,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-23\">1-001</a> ]<br/>地名/記述：澠水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-23\">澠水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1872,2167,153,91/200,/0/default.jpg"
@@ -299,7 +299,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-24\">1-001</a> ]<br/>地名/記述：一名漢溱水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-24\">一名漢溱水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1849,2237,208,155/200,/0/default.jpg"
@@ -311,7 +311,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-25\">1-001</a> ]<br/>地名/記述：淄水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-25\">淄水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1762,2820,147,123/200,/0/default.jpg"
@@ -323,7 +323,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-26\">1-001</a> ]<br/>地名/記述：系水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-26\">系水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/262,2808,139,75/200,/0/default.jpg"
@@ -335,7 +335,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-27\">1-001</a> ]<br/>地名/記述：一名寒泉<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTLZ(a)0-27\">一名寒泉</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/230,2877,278,91/200,/0/default.jpg"

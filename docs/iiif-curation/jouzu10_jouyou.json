@@ -5,9 +5,9 @@
     ],
     "@id": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/jouzu10_jouyou.json",
     "@type": "cr:Curation",
-    "label": "琉球国絵図プロジェクト",
+    "label": "jouzu10_jouyou",
     "related": {
-        "@id": "http://codh.rois.ac.jp/edo-maps/about/#legend",
+        "@id": "https://nakamura196.github.io/suikeichuuzu/asset/legend.pdf",
         "@type": "cr:MarkerLegend"
     },
     "selections": [
@@ -23,7 +23,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-01\">1-001</a> ]<br/>地名/記述：淯水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-01\">淯水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2056,347,151,125/200,/0/default.jpg"
@@ -35,7 +35,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-02\">1-001</a> ]<br/>地名/記述：宛口<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-02\">宛口</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1774,561,157,84/200,/0/default.jpg"
@@ -47,7 +47,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-03\">1-001</a> ]<br/>地名/記述：洲<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-03\">洲</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1763,649,67,67/200,/0/default.jpg"
@@ -59,7 +59,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-04\">1-001</a> ]<br/>地名/記述：洲<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-04\">洲</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1694,640,69,69/200,/0/default.jpg"
@@ -71,7 +71,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-05\">1-001</a> ]<br/>地名/記述：洲<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-05\">洲</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1627,640,73,71/200,/0/default.jpg"
@@ -83,7 +83,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-06\">1-001</a> ]<br/>地名/記述：樊城<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-06\">樊城</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1255,509,155,92/200,/0/default.jpg"
@@ -95,7 +95,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-07\">1-001</a> ]<br/>地名/記述：曹仁記水碑<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-07\">曹仁記水碑</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1080,416,146,189/200,/0/default.jpg"
@@ -107,7 +107,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-08\">1-001</a> ]<br/>地名/記述：平魯城<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-08\">平魯城</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/813,472,228,105/200,/0/default.jpg"
@@ -119,7 +119,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-09\">1-001</a> ]<br/>地名/記述：沔水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-09\">沔水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/486,539,159,90/200,/0/default.jpg"
@@ -131,7 +131,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-10\">1-001</a> ]<br/>地名/記述：司馬徽宅<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-10\">司馬徽宅</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2191,1077,88,276/200,/0/default.jpg"
@@ -143,7 +143,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-11\">1-001</a> ]<br/>地名/記述：魚梁洲<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-11\">魚梁洲</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2043,1082,120,200/200,/0/default.jpg"
@@ -155,7 +155,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-12\">1-001</a> ]<br/>地名/記述：龎德公宅<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-12\">龎德公宅</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2107,1336,92,250/200,/0/default.jpg"
@@ -167,7 +167,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-13\">1-001</a> ]<br/>地名/記述：白沙曲<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-13\">白沙曲</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1937,1116,84,202/200,/0/default.jpg"
@@ -179,7 +179,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-14\">1-001</a> ]<br/>地名/記述：南白沙<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-14\">南白沙</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1877,1306,202,84/200,/0/default.jpg"
@@ -191,7 +191,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-15\">1-001</a> ]<br/>地名/記述：龎士元宅<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-15\">龎士元宅</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1840,1370,273,86/200,/0/default.jpg"
@@ -203,7 +203,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-16\">1-001</a> ]<br/>地名/記述：景升臺<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-16\">景升臺</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1918,1480,138,155/200,/0/default.jpg"
@@ -215,7 +215,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-17\">1-001</a> ]<br/>地名/記述：沔水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-17\">沔水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1987,1821,280,108/200,/0/default.jpg"
@@ -227,7 +227,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-18\">1-001</a> ]<br/>地名/記述：桃林亭<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-18\">桃林亭</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1500,1881,213,92/200,/0/default.jpg"
@@ -239,7 +239,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-19\">1-001</a> ]<br/>地名/記述：山下水中杜預沈碑處<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-19\">山下水中杜預沈碑處</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1838,2057,194,189/200,/0/default.jpg"
@@ -251,7 +251,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-20\">1-001</a> ]<br/>地名/記述：桓宣城<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-20\">桓宣城</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1780,2023,77,202/200,/0/default.jpg"
@@ -263,7 +263,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-21\">1-001</a> ]<br/>地名/記述：桓宣碑<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-21\">桓宣碑</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1720,2023,75,194/200,/0/default.jpg"
@@ -275,7 +275,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-22\">1-001</a> ]<br/>地名/記述：堕涙碑<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-22\">堕涙碑</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1653,2021,84,198/200,/0/default.jpg"
@@ -287,7 +287,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-23\">1-001</a> ]<br/>地名/記述：胡羆碑<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-23\">胡羆碑</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1588,2019,75,200/200,/0/default.jpg"
@@ -299,7 +299,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-24\">1-001</a> ]<br/>地名/記述：周訪碑<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-24\">周訪碑</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1511,2019,86,204/200,/0/default.jpg"
@@ -311,7 +311,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-25\">1-001</a> ]<br/>地名/記述：峴山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-25\">峴山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1563,2240,161,84/200,/0/default.jpg"
@@ -323,7 +323,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-26\">1-001</a> ]<br/>地名/記述：楊儀居上洄<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-26\">楊儀居上洄</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1776,2273,334,101/200,/0/default.jpg"
@@ -335,7 +335,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-27\">1-001</a> ]<br/>地名/記述：洄湖<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-27\">洄湖</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1830,2452,168,82/200,/0/default.jpg"
@@ -347,7 +347,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-28\">1-001</a> ]<br/>地名/記述：蔡洲<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-28\">蔡洲</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2127,2299,75,153/200,/0/default.jpg"
@@ -359,7 +359,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-29\">1-001</a> ]<br/>地名/記述：蔡瑁宅<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-29\">蔡瑁宅</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2127,2551,101,198/200,/0/default.jpg"
@@ -371,7 +371,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-30\">1-001</a> ]<br/>地名/記述：楊顒居下洄<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-30\">楊顒居下洄</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1776,2648,355,95/200,/0/default.jpg"
@@ -383,7 +383,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-31\">1-001</a> ]<br/>地名/記述：廣昌里<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-31\">廣昌里</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1597,2426,97,230/200,/0/default.jpg"
@@ -395,7 +395,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-32\">1-001</a> ]<br/>地名/記述：高隄<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-32\">高隄</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1998,2832,140,92/200,/0/default.jpg"
@@ -407,7 +407,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-33\">1-001</a> ]<br/>地名/記述：襄陽湖水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-33\">襄陽湖水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2008,2931,148,148/200,/0/default.jpg"
@@ -419,7 +419,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-34\">1-001</a> ]<br/>地名/記述：高隄<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-34\">高隄</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1791,2774,142,92/200,/0/default.jpg"
@@ -431,7 +431,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-35\">1-001</a> ]<br/>地名/記述：習郁小魚池<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-35\">習郁小魚池</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1759,2855,245,103/200,/0/default.jpg"
@@ -443,7 +443,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-36\">1-001</a> ]<br/>地名/記述：習郁宅<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-36\">習郁宅</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1789,2987,209,92/200,/0/default.jpg"
@@ -455,7 +455,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-37\">1-001</a> ]<br/>地名/記述：大道<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-37\">大道</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1685,2881,95,153/200,/0/default.jpg"
@@ -467,7 +467,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-38\">1-001</a> ]<br/>地名/記述：東白沙<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-38\">東白沙</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1698,904,97,252/200,/0/default.jpg"
@@ -479,7 +479,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-39\">1-001</a> ]<br/>地名/記述：劉表墓<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-39\">劉表墓</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1636,1225,202,101/200,/0/default.jpg"
@@ -491,7 +491,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-40\">1-001</a> ]<br/>地名/記述：祠堂<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-40\">祠堂</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1662,1313,155,82/200,/0/default.jpg"
@@ -503,7 +503,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-41\">1-001</a> ]<br/>地名/記述：東門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-41\">東門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1524,1135,95,172/200,/0/default.jpg"
@@ -515,7 +515,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-42\">1-001</a> ]<br/>地名/記述：襄陽城<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-42\">襄陽城</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1136,1150,239,114/200,/0/default.jpg"
@@ -527,7 +527,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-43\">1-001</a> ]<br/>地名/記述：大城<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-43\">大城</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/876,1074,110,148/200,/0/default.jpg"
@@ -539,7 +539,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-44\">1-001</a> ]<br/>地名/記述：羊祜碑<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-44\">羊祜碑</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1431,1440,90,181/200,/0/default.jpg"
@@ -551,7 +551,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-45\">1-001</a> ]<br/>地名/記述：杜預碑<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-45\">杜預碑</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1375,1440,80,176/200,/0/default.jpg"
@@ -563,7 +563,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-46\">1-001</a> ]<br/>地名/記述：劉儼碑<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-46\">劉儼碑</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1295,1440,92,181/200,/0/default.jpg"
@@ -575,7 +575,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-47\">1-001</a> ]<br/>地名/記述：道<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-47\">道</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1196,1559,95,88/200,/0/default.jpg"
@@ -587,7 +587,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-48\">1-001</a> ]<br/>地名/記述：南門<br/>記号：34"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-48\">南門</a> ]<br/>分類：地点<br/>記号説明：長城門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1181,1662,146,97/200,/0/default.jpg"
@@ -599,7 +599,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-49\">1-001</a> ]<br/>地名/記述：大城西壘<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-49\">大城西壘</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/782,872,71,240/200,/0/default.jpg"
@@ -611,7 +611,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-50\">1-001</a> ]<br/>地名/記述：杜預沈碑處<br/>記号：0"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-50\">杜預沈碑處</a> ]<br/>分類：なし<br/>記号説明："
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/341,728,192,120/200,/0/default.jpg"
@@ -623,7 +623,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-51\">1-001</a> ]<br/>地名/記述：漢皋<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-51\">漢皋</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/225,691,118,80/200,/0/default.jpg"
@@ -635,7 +635,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-52\">1-001</a> ]<br/>地名/記述：潭<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-52\">潭</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/290,794,71,84/200,/0/default.jpg"
@@ -647,7 +647,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-53\">1-001</a> ]<br/>地名/記述：鄒恢碑<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-53\">鄒恢碑</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/20,697,200,84/200,/0/default.jpg"
@@ -659,7 +659,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-54\">1-001</a> ]<br/>地名/記述：萬山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-54\">萬山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/178,788,90,142/200,/0/default.jpg"
@@ -671,7 +671,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-55\">1-001</a> ]<br/>地名/記述：徐元直崔州平故宅<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-55\">徐元直崔州平故宅</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/481,969,207,202/200,/0/default.jpg"
@@ -683,7 +683,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-56\">1-001</a> ]<br/>地名/記述：檀溪寺<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-56\">檀溪寺</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/712,1169,164,95/200,/0/default.jpg"
@@ -695,7 +695,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-57\">1-001</a> ]<br/>地名/記述：檀溪水<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-57\">檀溪水</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/462,1182,217,92/200,/0/default.jpg"
@@ -707,7 +707,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-58\">1-001</a> ]<br/>地名/記述：漢陰臺<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-58\">漢陰臺</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/701,1288,95,232/200,/0/default.jpg"
@@ -719,7 +719,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-59\">1-001</a> ]<br/>地名/記述：鴨湖<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-59\">鴨湖</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/572,1348,90,172/200,/0/default.jpg"
@@ -731,7 +731,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-60\">1-001</a> ]<br/>地名/記述：柳子山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-60\">柳子山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/249,1236,213,90/200,/0/default.jpg"
@@ -743,7 +743,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-61\">1-001</a> ]<br/>地名/記述：襄陽湖水上水鴨湖<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-61\">襄陽湖水上水鴨湖</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/686,1669,360,530/200,/0/default.jpg"
@@ -755,7 +755,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-62\">1-001</a> ]<br/>地名/記述：馬鞍山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-62\">馬鞍山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/275,1852,217,86/200,/0/default.jpg"
@@ -767,7 +767,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-63\">1-001</a> ]<br/>地名/記述：即楚望山<br/>記号：4"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-63\">即楚望山</a> ]<br/>分類：地形<br/>記号説明：山谷"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/251,1921,243,88/200,/0/default.jpg"
@@ -779,7 +779,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-64\">1-001</a> ]<br/>地名/記述：習郁墓<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-64\">習郁墓</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1220,2506,210,94/200,/0/default.jpg"
@@ -791,7 +791,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-65\">1-001</a> ]<br/>地名/記述：白馬陂<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-65\">白馬陂</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1057,2500,82,207/200,/0/default.jpg"
@@ -803,7 +803,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-66\">1-001</a> ]<br/>地名/記述：石洑逗<br/>記号：1"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-66\">石洑逗</a> ]<br/>分類：地形<br/>記号説明：河川"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1441,2704,80,223/200,/0/default.jpg"
@@ -815,7 +815,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-67\">1-001</a> ]<br/>地名/記述：釣臺<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-67\">釣臺</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1240,2681,161,98/200,/0/default.jpg"
@@ -827,7 +827,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-68\">1-001</a> ]<br/>地名/記述：習郁大魚池<br/>記号：5"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-68\">習郁大魚池</a> ]<br/>分類：地形<br/>記号説明：湖"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1189,2777,203,145/200,/0/default.jpg"
@@ -839,7 +839,7 @@
                     "metadata": [
                         {
                             "label": "Description",
-                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-69\">1-001</a> ]<br/>地名/記述：即楚北津戍<br/>記号：16"
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-69\">即楚北津戍</a> ]<br/>分類：地点<br/>記号説明：亭台跡"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/718,873,129,287/200,/0/default.jpg"
