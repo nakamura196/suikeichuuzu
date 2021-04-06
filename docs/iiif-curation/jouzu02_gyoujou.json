@@ -31,7 +31,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=3094,623,172,112",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-01\">射堂</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-01\">CTYC(b)0-01</a> ]<br/>地名/記述：射堂<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
@@ -59,7 +59,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=3512,1656,87,131",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-02\">石柱</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-02\">CTYC(b)0-02</a> ]<br/>地名/記述：石柱<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
@@ -87,7 +87,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=3440,1650,68,144",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-03\">石柱</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-03\">CTYC(b)0-03</a> ]<br/>地名/記述：石柱<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
@@ -115,7 +115,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=3515,1800,81,131",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-04\">石梁</a> ]<br/>分類：地点<br/>記号説明：橋・津",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-04\">CTYC(b)0-04</a> ]<br/>地名/記述：石梁<br/>分類：地点<br/>記号説明：橋・津",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/29.png#xy=11,27",
@@ -143,7 +143,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=3132,1547,159,127",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-05\">石竇</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-05\">CTYC(b)0-05</a> ]<br/>地名/記述：石竇<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -171,7 +171,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=3003,1564,98,87",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-06\">道</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-06\">CTYC(b)0-06</a> ]<br/>地名/記述：道<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -199,7 +199,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2798,1451,148,85",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-07\">街里</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-07\">CTYC(b)0-07</a> ]<br/>地名/記述：街里<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -227,7 +227,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2492,1466,151,118",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-08\">溝水</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-08\">CTYC(b)0-08</a> ]<br/>地名/記述：溝水<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
@@ -255,7 +255,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2785,1567,172,87",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-09\">枝流</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-09\">CTYC(b)0-09</a> ]<br/>地名/記述：枝流<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
@@ -283,7 +283,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2533,1584,105,81",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-10\">道</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-10\">CTYC(b)0-10</a> ]<br/>地名/記述：道<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -311,7 +311,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2822,1682,140,89",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-11\">街里</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-11\">CTYC(b)0-11</a> ]<br/>地名/記述：街里<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -339,7 +339,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2485,1687,175,79",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-12\">溝水</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-12\">CTYC(b)0-12</a> ]<br/>地名/記述：溝水<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
@@ -367,7 +367,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2544,1009,205,92",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-13\">廣德門</a> ]<br/>分類：地点<br/>記号説明：長城門",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-13\">CTYC(b)0-13</a> ]<br/>地名/記述：廣德門<br/>分類：地点<br/>記号説明：長城門",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/34.png#xy=11,27",
@@ -395,7 +395,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2284,1193,155,196",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-14\">石氏東太武殿</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-14\">CTYC(b)0-14</a> ]<br/>地名/記述：石氏東太武殿<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -423,7 +423,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=3143,1724,196,109",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-15\">建春門</a> ]<br/>分類：地点<br/>記号説明：長城門",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-15\">CTYC(b)0-15</a> ]<br/>地名/記述：建春門<br/>分類：地点<br/>記号説明：長城門",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/34.png#xy=11,27",
@@ -451,7 +451,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=3348,1853,85,284",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-16\">石虎葬處</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-16\">CTYC(b)0-16</a> ]<br/>地名/記述：石虎葬處<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
@@ -479,7 +479,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=3161,1896,166,70",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-17\">金博山</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-17\">CTYC(b)0-17</a> ]<br/>地名/記述：金博山<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
@@ -507,7 +507,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=3073,1966,260,70",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-18\">石氏東明觀</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-18\">CTYC(b)0-18</a> ]<br/>地名/記述：石氏東明觀<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
@@ -535,7 +535,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2313,1929,236,258",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-19\">城東西七里南北五里</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-19\">CTYC(b)0-19</a> ]<br/>地名/記述：城東西七里南北五里<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -563,7 +563,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=3501,2201,107,270",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-20\">洹水枝津</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-20\">CTYC(b)0-20</a> ]<br/>地名/記述：洹水枝津<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
@@ -591,7 +591,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2719,2473,196,105",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-21\">廣陽門</a> ]<br/>分類：地点<br/>記号説明：長城門",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-21\">CTYC(b)0-21</a> ]<br/>地名/記述：廣陽門<br/>分類：地点<br/>記号説明：長城門",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/34.png#xy=11,27",
@@ -619,7 +619,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=3506,2470,88,467",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-22\">即新河北流之水</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(b)0-22\">CTYC(b)0-22</a> ]<br/>地名/記述：即新河北流之水<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
@@ -647,7 +647,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1064,524,146,114",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-01\">濁漳</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-01\">CTYC(a)0-01</a> ]<br/>地名/記述：濁漳<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
@@ -675,7 +675,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1812,749,308,116",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-02\">洹水枝津</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-02\">CTYC(a)0-02</a> ]<br/>地名/記述：洹水枝津<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
@@ -703,7 +703,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2078,1000,210,98",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-03\">齊斗樓</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-03\">CTYC(a)0-03</a> ]<br/>地名/記述：齊斗樓<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
@@ -731,7 +731,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1879,1005,153,92",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-04\">廐門</a> ]<br/>分類：地点<br/>記号説明：長城門",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-04\">CTYC(a)0-04</a> ]<br/>地名/記述：廐門<br/>分類：地点<br/>記号説明：長城門",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/34.png#xy=11,27",
@@ -759,7 +759,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1248,1005,188,225",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-05\">冰室冰粟窖井鹽窖臺</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-05\">CTYC(a)0-05</a> ]<br/>地名/記述：冰室冰粟窖井鹽窖臺<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
@@ -787,7 +787,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=946,924,218,137",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-06\">魏武玄武故苑</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-06\">CTYC(a)0-06</a> ]<br/>地名/記述：魏武玄武故苑<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -815,7 +815,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=994,1070,135,125",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-07\">魚梁釣臺</a> ]<br/>分類：地形<br/>記号説明：湖",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-07\">CTYC(a)0-07</a> ]<br/>地名/記述：魚梁釣臺<br/>分類：地形<br/>記号説明：湖",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/5.png#xy=11,27",
@@ -843,7 +843,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=957,1201,192,81",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-08\">玄武池</a> ]<br/>分類：地形<br/>記号説明：湖",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-08\">CTYC(a)0-08</a> ]<br/>地名/記述：玄武池<br/>分類：地形<br/>記号説明：湖",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/5.png#xy=11,27",
@@ -871,7 +871,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=682,950,253,76",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-09\">趙臨漳宮</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-09\">CTYC(a)0-09</a> ]<br/>地名/記述：趙臨漳宮<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
@@ -899,7 +899,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=704,1022,192,77",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-10\">桑梓苑</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-10\">CTYC(a)0-10</a> ]<br/>地名/記述：桑梓苑<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
@@ -927,7 +927,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=380,847,159,151",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-11\">紫陌浮橋</a> ]<br/>分類：地点<br/>記号説明：橋・津",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-11\">CTYC(a)0-11</a> ]<br/>地名/記述：紫陌浮橋<br/>分類：地点<br/>記号説明：橋・津",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/29.png#xy=11,27",
@@ -955,7 +955,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=542,1042,151,135",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-12\">佛圖澄墓</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-12\">CTYC(a)0-12</a> ]<br/>地名/記述：佛圖澄墓<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
@@ -983,7 +983,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=396,1077,135,70",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-13\">祭陌</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-13\">CTYC(a)0-13</a> ]<br/>地名/記述：祭陌<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -1011,7 +1011,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=356,1136,199,59",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-14\">即紫陌</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-14\">CTYC(a)0-14</a> ]<br/>地名/記述：即紫陌<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -1039,7 +1039,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2135,1212,137,155",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-15\">魏武北宮</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-15\">CTYC(a)0-15</a> ]<br/>地名/記述：魏武北宮<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -1067,7 +1067,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2096,1365,192,68",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-16\">文昌殿</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-16\">CTYC(a)0-16</a> ]<br/>地名/記述：文昌殿<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -1095,7 +1095,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2102,1433,181,72",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-17\">止車門</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-17\">CTYC(a)0-17</a> ]<br/>地名/記述：止車門<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -1123,7 +1123,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2126,1498,170,70",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-18\">銅人</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-18\">CTYC(a)0-18</a> ]<br/>地名/記述：銅人<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -1151,7 +1151,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2004,1190,133,181",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-19\">石氏西太武殿</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-19\">CTYC(a)0-19</a> ]<br/>地名/記述：石氏西太武殿<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -1179,7 +1179,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1676,1330,194,107",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-20\">長明溝</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-20\">CTYC(a)0-20</a> ]<br/>地名/記述：長明溝<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
@@ -1207,7 +1207,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1250,1249,168,85",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-21\">命子窟</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-21\">CTYC(a)0-21</a> ]<br/>地名/記述：命子窟<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -1235,7 +1235,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1250,1345,196,90",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-22\">銅雀臺</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-22\">CTYC(a)0-22</a> ]<br/>地名/記述：銅雀臺<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
@@ -1263,7 +1263,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1171,1280,83,151",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-23\">伏流</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-23\">CTYC(a)0-23</a> ]<br/>地名/記述：伏流<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
@@ -1291,7 +1291,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=638,1372,485,103",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-24\">魏武引漳水入城</a> ]<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-24\">CTYC(a)0-24</a> ]<br/>地名/記述：魏武引漳水入城<br/>分類：地形<br/>記号説明：河川",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/1.png#xy=11,27",
@@ -1319,7 +1319,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=310,1225,378,63",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-25\">天井堰妟陂澤</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-25\">CTYC(a)0-25</a> ]<br/>地名/記述：天井堰妟陂澤<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -1347,7 +1347,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=400,1286,218,68",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-26\">十二墱</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-26\">CTYC(a)0-26</a> ]<br/>地名/記述：十二墱<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -1375,7 +1375,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=147,1260,121,141",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-27\">趙閲馬臺</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-27\">CTYC(a)0-27</a> ]<br/>地名/記述：趙閲馬臺<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
@@ -1403,7 +1403,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1250,1454,177,94",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-28\">金虎臺</a> ]<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-28\">CTYC(a)0-28</a> ]<br/>地名/記述：金虎臺<br/>分類：地点<br/>記号説明：亭台跡",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/16.png#xy=11,27",
@@ -1431,7 +1431,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1269,1743,181,89",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-29\">金明門</a> ]<br/>分類：地点<br/>記号説明：長城門",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-29\">CTYC(a)0-29</a> ]<br/>地名/記述：金明門<br/>分類：地点<br/>記号説明：長城門",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/34.png#xy=11,27",
@@ -1459,7 +1459,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1291,1824,132,121",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-30\">一曰白門</a> ]<br/>分類：地点<br/>記号説明：長城門",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-30\">CTYC(a)0-30</a> ]<br/>地名/記述：一曰白門<br/>分類：地点<br/>記号説明：長城門",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/34.png#xy=11,27",
@@ -1487,7 +1487,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2104,2442,192,123",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-31\">中陽門</a> ]<br/>分類：地点<br/>記号説明：長城門",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-31\">CTYC(a)0-31</a> ]<br/>地名/記述：中陽門<br/>分類：地点<br/>記号説明：長城門",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/34.png#xy=11,27",
@@ -1515,7 +1515,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1672,2263,217,80",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-32\">銅鳳頭</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-32\">CTYC(a)0-32</a> ]<br/>地名/記述：銅鳳頭<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -1543,7 +1543,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1646,2330,267,76",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-33\">石氏層觀</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-33\">CTYC(a)0-33</a> ]<br/>地名/記述：石氏層觀<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -1571,7 +1571,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1703,2407,144,75",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-34\">三臺</a> ]<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-34\">CTYC(a)0-34</a> ]<br/>地名/記述：三臺<br/>分類：なし",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/0.png#xy=11,27",
@@ -1599,7 +1599,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1682,2472,214,79",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-35\">鳳陽門</a> ]<br/>分類：地点<br/>記号説明：長城門",
+                                        "chars": "[ <a href=\"https://suikeichu.web.app/item/CTYC(a)0-35\">CTYC(a)0-35</a> ]<br/>地名/記述：鳳陽門<br/>分類：地点<br/>記号説明：長城門",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/34.png#xy=11,27",

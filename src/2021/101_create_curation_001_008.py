@@ -131,7 +131,7 @@ for key in settings:
     
         member["metadata"] = [
             {
-              "value": "[ <a href=\"{}\">{}</a> ]<br/>分類：{}<br/>記号説明：{}".format(prefix+"/item/"+ id, map["地名/記述"], legend["分類"], legend["記号説明"]),
+              "value": "[ <a href=\"{}\">{}</a> ]<br/>地名/記述：{}<br/>分類：{}{}".format(prefix+"/item/"+ id, id, map["地名/記述"], legend["分類"], "<br/>記号説明：" + legend["記号説明"] if legend["記号説明"] != "" else ""),
               "label": "Description"
             }
           ]
