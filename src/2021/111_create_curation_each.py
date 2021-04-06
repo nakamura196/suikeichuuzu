@@ -218,7 +218,7 @@ for uuid in settings:
                     "@type": "cnt:ContentAsText",
                     "marker": {
                       "@type": "dctypes:Image",
-                      "@id": "https://nakamura196.github.io/suikeichuuzu/asset/marker/{}.png#xy=11,27".format(mark)
+                      "@id": "https://nakamura196.github.io/suikeichuuzu/marker/{}.png#xy=11,27".format(mark), # "https://nakamura196.github.io/suikeichuuzu/asset/marker/{}.png#xy=11,27".format(mark)
                     }
                   },
                   "motivation": "sc:painting"
