@@ -27,7 +27,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22086,17683,896,429",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"#\">6</a>",
+                                        "chars": "6",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/6.png#xy=11,27",
@@ -54,7 +54,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20959,17696,922,378",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"#\">6</a>",
+                                        "chars": "6",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/6.png#xy=11,27",
@@ -81,7 +81,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22073,19237,948,378",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"#\">7</a>",
+                                        "chars": "7",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/7.png#xy=11,27",
@@ -108,7 +108,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20933,19237,935,365",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"#\">7</a>",
+                                        "chars": "7",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/7.png#xy=11,27",
@@ -135,7 +135,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23226,19263,935,352",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"#\">8</a>",
+                                        "chars": "8",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/8.png#xy=11,27",
@@ -162,7 +162,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24418,19237,857,365",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"#\">8</a>",
+                                        "chars": "8",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/8.png#xy=11,27",
@@ -189,7 +189,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23278,20805,857,352",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"#\">9</a>",
+                                        "chars": "9",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/9.png#xy=11,27",
@@ -216,7 +216,7 @@
                                     "on": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24392,20817,896,352",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "<a href=\"#\">9</a>",
+                                        "chars": "9",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://nakamura196.github.io/suikeichuuzu/marker/9.png#xy=11,27",
@@ -236,5 +236,5 @@
             }
         }
     ],
-    "viewing-hint": "annotation"
+    "viewingHint": "annotation"
 }

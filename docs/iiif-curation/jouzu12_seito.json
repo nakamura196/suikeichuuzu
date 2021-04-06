@@ -1,0 +1,448 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/jouzu12_seito.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "related": {
+        "@id": "http://codh.rois.ac.jp/edo-maps/about/#legend",
+        "@type": "cr:MarkerLegend"
+    },
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "jouzu12_seito",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1155,400,217,100",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-01",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-01\">1-001</a> ]<br/>地名/記述：昇僊橋<br/>記号：29"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1155,400,217,100/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1150,523,219,99",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-02",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-02\">1-001</a> ]<br/>地名/記述：送客觀<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1150,523,219,99/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=441,451,178,134",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-03",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-03\">1-001</a> ]<br/>地名/記述：郫江<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/441,451,178,134/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=221,545,121,157",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-04",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-04\">1-001</a> ]<br/>地名/記述：檢江<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/221,545,121,157/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=15,61,140,66",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-05",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-05\">1-001</a> ]<br/>地名/記述：江水<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/15,61,140,66/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1171,613,193,83",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-06",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-06\">1-001</a> ]<br/>地名/記述：萬頃池<br/>記号：5"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1171,613,193,83/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1132,826,227,74",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-07",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-07\">1-001</a> ]<br/>地名/記述：龍隄池<br/>記号：5"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1132,826,227,74/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1678,1201,93,206",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-08",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-08\">1-001</a> ]<br/>地名/記述：千秋池<br/>記号：5"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1678,1201,93,206/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1305,1126,168,93",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-09",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-09\">1-001</a> ]<br/>地名/記述：成都<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1305,1126,168,93/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1308,1237,165,93",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-10",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-10\">1-001</a> ]<br/>地名/記述：大城<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1308,1237,165,93/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1313,1400,157,168",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-11",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-11\">1-001</a> ]<br/>地名/記述：文翁講堂<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1313,1400,157,168/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1311,1612,157,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-12",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-12\">1-001</a> ]<br/>地名/記述：南門<br/>記号：34"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1311,1612,157,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=948,1121,160,105",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-13",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-13\">1-001</a> ]<br/>地名/記述：少城<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/948,1121,160,105/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=892,1281,144,100",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-14",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-14\">1-001</a> ]<br/>地名/記述：西門<br/>記号：34"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/892,1281,144,100/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=886,1519,178,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-15",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-15\">1-001</a> ]<br/>地名/記述：石牛門<br/>記号：34"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/886,1519,178,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=731,896,129,126",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-16",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-16\">1-001</a> ]<br/>地名/記述：天井池<br/>記号：5"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/731,896,129,126/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=747,1154,100,147",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-17",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-17\">1-001</a> ]<br/>地名/記述：柳池<br/>記号：5"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/747,1154,100,147/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=587,930,77,220",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-18",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-18\">1-001</a> ]<br/>地名/記述：長昇橋<br/>記号：29"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/587,930,77,220/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=626,1312,151,140",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-19",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-19\">1-001</a> ]<br/>地名/記述：沖治橋<br/>記号：29"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/626,1312,151,140/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1320,1735,179,84",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-20",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-20\">1-001</a> ]<br/>地名/記述：江橋<br/>記号：29"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1320,1735,179,84/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=667,1543,138,84",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-21",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-21\">1-001</a> ]<br/>地名/記述：石犀<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/667,1543,138,84/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=647,1657,185,84",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-22",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-22\">1-001</a> ]<br/>地名/記述：石犀里<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/647,1657,185,84/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=520,1497,144,146",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-23",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-23\">1-001</a> ]<br/>地名/記述：石犀淵<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/520,1497,144,146/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=395,1504,97,172",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-24",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-24\">1-001</a> ]<br/>地名/記述：市橋<br/>記号：29"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/395,1504,97,172/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=647,1765,185,105",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-25",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-25\">1-001</a> ]<br/>地名/記述：石犀渠<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/647,1765,185,105/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1652,1944,82,146",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-26",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-26\">1-001</a> ]<br/>地名/記述：北江<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1652,1944,82,146/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1551,2228,149,125",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-27",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-27\">1-001</a> ]<br/>地名/記述：南江<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1551,2228,149,125/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1281,1924,207,105",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-28",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-28\">1-001</a> ]<br/>地名/記述：萬里橋<br/>記号：29"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1281,1924,207,105/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1417,2148,153,86",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-29",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-29\">1-001</a> ]<br/>地名/記述：笮橋<br/>記号：29"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1417,2148,153,86/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1020,1894,224,108",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-30",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-30\">1-001</a> ]<br/>地名/記述：夷里橋<br/>記号：29"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1020,1894,224,108/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1232,2116,149,246",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-31",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-31\">1-001</a> ]<br/>地名/記述：學堂後移此<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1232,2116,149,246/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1089,2088,105,84",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-32",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-32\">1-001</a> ]<br/>地名/記述：道<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1089,2088,105,84/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=809,2071,211,82",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-33",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-33\">1-001</a> ]<br/>地名/記述：錦官城<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/809,2071,211,82/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=854,2144,151,95",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-34",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-34\">1-001</a> ]<br/>地名/記述：錦里<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/854,2144,151,95/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1568,2739,233,86",
+                    "@type": "sc:Canvas",
+                    "label": "CTCD(a)0-35",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTCD(a)0-35\">1-001</a> ]<br/>地名/記述：江水<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1568,2739,233,86/200,/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "jouzu12_seito"
+            }
+        }
+    ],
+    "viewingHint": "annotation"
+}

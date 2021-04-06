@@ -212,7 +212,9 @@ for uuid in settings:
         "@id": "http://codh.rois.ac.jp/edo-maps/about/#legend"
     }
 
-    f2 = open(ofile.replace("curation.json", "test.json"), 'w')
+    curation_test["@id"] = "https://nakamura196.github.io/suikeichuuzu/iiif-curation/"+uuid+".json"
+
+    f2 = open("/Users/nakamurasatoru/git/d_toyo/suikeichuuzu/docs/iiif-curation/"+uuid+".json", 'w')
     json.dump(curation_test, f2, ensure_ascii=False, indent=4,
                 sort_keys=True, separators=(',', ': '))
 

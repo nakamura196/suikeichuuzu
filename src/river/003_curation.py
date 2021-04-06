@@ -144,7 +144,7 @@ for river in df:
                         "on": member_id,
                         "@type": "oa:Annotation",
                         "resource": {
-                            "chars": "<a href=\"#\">{}</a>".format(index),
+                            "chars": index, # "<a href=\"#\">{}</a>".format(index),
                             "format": "text/html",
                             "@type": "cnt:ContentAsText",
                             "marker": {
@@ -184,15 +184,10 @@ for river in df:
         "@id": curation_uri,
         "@type": "cr:Curation",
         "label": river_label,
-        "viewing-hint" : "annotation",
+        "viewingHint" : "annotation",
         "selections" : selections
     }
 
     with open("/Users/nakamurasatoru/git/d_toyo/suikeichuuzu/docs/iiif-curation/"+river_label+".json", 'w') as f:
         json.dump(curation, f, ensure_ascii=False, indent=4,
         sort_keys=True, separators=(',', ': '))
-
-    '''
-    if river_label == "河水2":
-        break
-    '''

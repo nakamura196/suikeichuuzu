@@ -1,0 +1,856 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/jouzu10_jouyou.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "related": {
+        "@id": "http://codh.rois.ac.jp/edo-maps/about/#legend",
+        "@type": "cr:MarkerLegend"
+    },
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "jouzu10_jouyou",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2056,347,151,125",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-01",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-01\">1-001</a> ]<br/>地名/記述：淯水<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2056,347,151,125/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1774,561,157,84",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-02",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-02\">1-001</a> ]<br/>地名/記述：宛口<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1774,561,157,84/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1763,649,67,67",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-03",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-03\">1-001</a> ]<br/>地名/記述：洲<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1763,649,67,67/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1694,640,69,69",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-04",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-04\">1-001</a> ]<br/>地名/記述：洲<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1694,640,69,69/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1627,640,73,71",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-05",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-05\">1-001</a> ]<br/>地名/記述：洲<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1627,640,73,71/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1255,509,155,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-06",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-06\">1-001</a> ]<br/>地名/記述：樊城<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1255,509,155,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1080,416,146,189",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-07",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-07\">1-001</a> ]<br/>地名/記述：曹仁記水碑<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1080,416,146,189/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=813,472,228,105",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-08",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-08\">1-001</a> ]<br/>地名/記述：平魯城<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/813,472,228,105/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=486,539,159,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-09",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-09\">1-001</a> ]<br/>地名/記述：沔水<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/486,539,159,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2191,1077,88,276",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-10",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-10\">1-001</a> ]<br/>地名/記述：司馬徽宅<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2191,1077,88,276/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2043,1082,120,200",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-11",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-11\">1-001</a> ]<br/>地名/記述：魚梁洲<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2043,1082,120,200/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2107,1336,92,250",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-12",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-12\">1-001</a> ]<br/>地名/記述：龎德公宅<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2107,1336,92,250/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1937,1116,84,202",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-13",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-13\">1-001</a> ]<br/>地名/記述：白沙曲<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1937,1116,84,202/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1877,1306,202,84",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-14",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-14\">1-001</a> ]<br/>地名/記述：南白沙<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1877,1306,202,84/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1840,1370,273,86",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-15",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-15\">1-001</a> ]<br/>地名/記述：龎士元宅<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1840,1370,273,86/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1918,1480,138,155",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-16",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-16\">1-001</a> ]<br/>地名/記述：景升臺<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1918,1480,138,155/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1987,1821,280,108",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-17",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-17\">1-001</a> ]<br/>地名/記述：沔水<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1987,1821,280,108/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1500,1881,213,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-18",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-18\">1-001</a> ]<br/>地名/記述：桃林亭<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1500,1881,213,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1838,2057,194,189",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-19",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-19\">1-001</a> ]<br/>地名/記述：山下水中杜預沈碑處<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1838,2057,194,189/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1780,2023,77,202",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-20",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-20\">1-001</a> ]<br/>地名/記述：桓宣城<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1780,2023,77,202/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1720,2023,75,194",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-21",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-21\">1-001</a> ]<br/>地名/記述：桓宣碑<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1720,2023,75,194/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1653,2021,84,198",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-22",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-22\">1-001</a> ]<br/>地名/記述：堕涙碑<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1653,2021,84,198/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1588,2019,75,200",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-23",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-23\">1-001</a> ]<br/>地名/記述：胡羆碑<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1588,2019,75,200/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1511,2019,86,204",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-24",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-24\">1-001</a> ]<br/>地名/記述：周訪碑<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1511,2019,86,204/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1563,2240,161,84",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-25",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-25\">1-001</a> ]<br/>地名/記述：峴山<br/>記号：4"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1563,2240,161,84/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1776,2273,334,101",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-26",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-26\">1-001</a> ]<br/>地名/記述：楊儀居上洄<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1776,2273,334,101/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1830,2452,168,82",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-27",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-27\">1-001</a> ]<br/>地名/記述：洄湖<br/>記号：5"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1830,2452,168,82/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2127,2299,75,153",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-28",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-28\">1-001</a> ]<br/>地名/記述：蔡洲<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2127,2299,75,153/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2127,2551,101,198",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-29",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-29\">1-001</a> ]<br/>地名/記述：蔡瑁宅<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2127,2551,101,198/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1776,2648,355,95",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-30",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-30\">1-001</a> ]<br/>地名/記述：楊顒居下洄<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1776,2648,355,95/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1597,2426,97,230",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-31",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-31\">1-001</a> ]<br/>地名/記述：廣昌里<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1597,2426,97,230/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1998,2832,140,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-32",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-32\">1-001</a> ]<br/>地名/記述：高隄<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1998,2832,140,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2008,2931,148,148",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-33",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-33\">1-001</a> ]<br/>地名/記述：襄陽湖水<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2008,2931,148,148/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1791,2774,142,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-34",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-34\">1-001</a> ]<br/>地名/記述：高隄<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1791,2774,142,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1759,2855,245,103",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-35",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-35\">1-001</a> ]<br/>地名/記述：習郁小魚池<br/>記号：5"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1759,2855,245,103/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1789,2987,209,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-36",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-36\">1-001</a> ]<br/>地名/記述：習郁宅<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1789,2987,209,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1685,2881,95,153",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-37",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-37\">1-001</a> ]<br/>地名/記述：大道<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1685,2881,95,153/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1698,904,97,252",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-38",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-38\">1-001</a> ]<br/>地名/記述：東白沙<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1698,904,97,252/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1636,1225,202,101",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-39",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-39\">1-001</a> ]<br/>地名/記述：劉表墓<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1636,1225,202,101/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1662,1313,155,82",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-40",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-40\">1-001</a> ]<br/>地名/記述：祠堂<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1662,1313,155,82/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1524,1135,95,172",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-41",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-41\">1-001</a> ]<br/>地名/記述：東門<br/>記号：34"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1524,1135,95,172/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1136,1150,239,114",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-42",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-42\">1-001</a> ]<br/>地名/記述：襄陽城<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1136,1150,239,114/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=876,1074,110,148",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-43",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-43\">1-001</a> ]<br/>地名/記述：大城<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/876,1074,110,148/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1431,1440,90,181",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-44",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-44\">1-001</a> ]<br/>地名/記述：羊祜碑<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1431,1440,90,181/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1375,1440,80,176",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-45",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-45\">1-001</a> ]<br/>地名/記述：杜預碑<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1375,1440,80,176/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1295,1440,92,181",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-46",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-46\">1-001</a> ]<br/>地名/記述：劉儼碑<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1295,1440,92,181/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1196,1559,95,88",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-47",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-47\">1-001</a> ]<br/>地名/記述：道<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1196,1559,95,88/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1181,1662,146,97",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-48",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-48\">1-001</a> ]<br/>地名/記述：南門<br/>記号：34"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1181,1662,146,97/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=782,872,71,240",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-49",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-49\">1-001</a> ]<br/>地名/記述：大城西壘<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/782,872,71,240/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=341,728,192,120",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-50",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-50\">1-001</a> ]<br/>地名/記述：杜預沈碑處<br/>記号：0"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/341,728,192,120/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=225,691,118,80",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-51",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-51\">1-001</a> ]<br/>地名/記述：漢皋<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/225,691,118,80/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=290,794,71,84",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-52",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-52\">1-001</a> ]<br/>地名/記述：潭<br/>記号：5"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/290,794,71,84/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=20,697,200,84",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-53",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-53\">1-001</a> ]<br/>地名/記述：鄒恢碑<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/20,697,200,84/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=178,788,90,142",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-54",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-54\">1-001</a> ]<br/>地名/記述：萬山<br/>記号：4"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/178,788,90,142/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=481,969,207,202",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-55",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-55\">1-001</a> ]<br/>地名/記述：徐元直崔州平故宅<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/481,969,207,202/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=712,1169,164,95",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-56",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-56\">1-001</a> ]<br/>地名/記述：檀溪寺<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/712,1169,164,95/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=462,1182,217,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-57",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-57\">1-001</a> ]<br/>地名/記述：檀溪水<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/462,1182,217,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=701,1288,95,232",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-58",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-58\">1-001</a> ]<br/>地名/記述：漢陰臺<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/701,1288,95,232/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=572,1348,90,172",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-59",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-59\">1-001</a> ]<br/>地名/記述：鴨湖<br/>記号：5"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/572,1348,90,172/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=249,1236,213,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-60",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-60\">1-001</a> ]<br/>地名/記述：柳子山<br/>記号：4"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/249,1236,213,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=686,1669,360,530",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-61",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-61\">1-001</a> ]<br/>地名/記述：襄陽湖水上水鴨湖<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/686,1669,360,530/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=275,1852,217,86",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-62",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-62\">1-001</a> ]<br/>地名/記述：馬鞍山<br/>記号：4"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/275,1852,217,86/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=251,1921,243,88",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-63",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-63\">1-001</a> ]<br/>地名/記述：即楚望山<br/>記号：4"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/251,1921,243,88/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1220,2506,210,94",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-64",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-64\">1-001</a> ]<br/>地名/記述：習郁墓<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1220,2506,210,94/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1057,2500,82,207",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-65",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-65\">1-001</a> ]<br/>地名/記述：白馬陂<br/>記号：5"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1057,2500,82,207/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1441,2704,80,223",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-66",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-66\">1-001</a> ]<br/>地名/記述：石洑逗<br/>記号：1"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1441,2704,80,223/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1240,2681,161,98",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-67",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-67\">1-001</a> ]<br/>地名/記述：釣臺<br/>記号：5"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1240,2681,161,98/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1189,2777,203,145",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-68",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-68\">1-001</a> ]<br/>地名/記述：習郁大魚池<br/>記号：5"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1189,2777,203,145/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=718,873,129,287",
+                    "@type": "sc:Canvas",
+                    "label": "CTXY(a)0-69",
+                    "metadata": [
+                        {
+                            "label": "Description",
+                            "value": "[ <a href=\"https://suikeichu.web.app/item/CTXY(a)0-69\">1-001</a> ]<br/>地名/記述：即楚北津戍<br/>記号：16"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/718,873,129,287/200,/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "jouzu10_jouyou"
+            }
+        }
+    ],
+    "viewingHint": "annotation"
+}
