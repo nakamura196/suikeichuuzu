@@ -22,13 +22,13 @@
                             "motivation": "sc:painting",
                             "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1",
                             "resource": {
-                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/full/full/0/default.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 6220,
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif",
                                     "profile": "http://iiif.io/api/image/2/level1.json"
                                 },
                                 "width": 9240
@@ -37,7 +37,7 @@
                     ],
                     "label": "[1]",
                     "thumbnail": {
-                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/full/72,/0/default.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/full/72,/0/default.jpg"
                     },
                     "width": 9240
                 }
@@ -47,7 +47,7 @@
         }
     ],
     "thumbnail": {
-        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/1_003_Saiiki_grid_l.tif/full/72,/0/default.jpg"
+        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/full/72,/0/default.jpg"
     },
     "viewingDirection": "left-to-right"
 }
